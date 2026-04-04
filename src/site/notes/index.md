@@ -4,3 +4,8 @@
 
 ---
 Bienvenue sur cette page d'accueil
+
+## Sommaire
+
+[[Listes des carrières\|Listes des carrières]]
+[[Listes des compétences\|Listes des compétences]]
