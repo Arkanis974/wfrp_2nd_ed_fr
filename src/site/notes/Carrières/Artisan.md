@@ -26,8 +26,8 @@ Les artisans sont des ouvriers expérimentés. Bien qu'ils se réunissent habitu
 ---
 
 ## 📚 Compétences
-[[Commérage\|Commérage]] ou [[Soins des animaux\|Soins des animaux]]
-[[Conduite d'attelages\|Conduite d'attelages]]
+[[Compétences/Commérage\|Commérage]] ou [[Soins des animaux\|Soins des animaux]]
+[[Compétences/Conduite d'attelages\|Conduite d'attelages]]
 [[Évaluation\|Évaluation]]
 [[Langage secret\|Langage secret]] (*langage de guilde*)
 [[Lire/Écrire\|Lire/Écrire]]

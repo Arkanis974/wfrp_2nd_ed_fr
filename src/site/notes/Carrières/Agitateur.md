@@ -24,9 +24,9 @@ Habituellement, les citoyens de l'[[Empire\|Empire]] n'ont pas véritablement le
 
 ---
 ## 📚 Compétences
-[[Charisme\|Charisme]] 
-[[Commérage\|Commérage]] ou [[Connaissances académiques\|Connaissances académiques]] (*Histoire*)
-[[Connaissances académiques\|Connaissances académiques]] (*Loi*) ou [[Connaissances générales\|Connaissances générales]] (*Empire*) 
+[[Compétences/Charisme\|Charisme]] 
+[[Compétences/Commérage\|Commérage]] ou [[Compétences/Connaissances académiques\|Connaissances académiques]] (*Histoire*)
+[[Compétences/Connaissances académiques\|Connaissances académiques]] (*Loi*) ou [[Compétences/Connaissances générales\|Connaissances générales]] (*Empire*) 
 [[Dissimulation\|Dissimulation]]
 [[Langue\|Langue]] (*bretonnien* ou *tiléen*)
 [[Langue\|Langue]] (*reikspiel*) 

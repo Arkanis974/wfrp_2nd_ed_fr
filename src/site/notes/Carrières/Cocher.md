@@ -24,9 +24,9 @@ Si l'[[Empire\|Empire]] est une puissante nation, ses terres sont loin d'être s
 
 ---
 ## 📚 Compétences
-[[Alphabet secret\|Alphabet secret]] (*Rôdeur*)
-[[Commérage\|Commérage]] ou [[Marchandage\|Marchandage]]
-[[Conduite d'attelages\|Conduite d'attelages]]
+[[Compétences/Alphabet secret\|Alphabet secret]] (*Rôdeur*)
+[[Compétences/Commérage\|Commérage]] ou [[Marchandage\|Marchandage]]
+[[Compétences/Conduite d'attelages\|Conduite d'attelages]]
 [[Équitation\|Équitation]] ou [[Soins\|Soins]]
 [[Langue\|Langue]] (*Bretonnien*, *Kislevien* ou *Tiléen*)
 [[Orientation\|Orientation]]
@@ -42,7 +42,7 @@ Si l'[[Empire\|Empire]] est une puissante nation, ses terres sont loin d'être s
 ---
 ## 🎒 Dotations
 Tromblon avec poudre et munitions pour 10 tirs
-Armure moyenne (*[[Gilet de maille\|gilet de maille]]* et *[[Veste de cuir\|veste de cuir]]*)
+Armure moyenne (*[[Gilet de mailles]\|gilet de mailles]]* et *[[Veste de cuir\|veste de cuir]]*)
 Instrument de musique (*Corne de cocher*)
 
 ---
@@ -56,7 +56,7 @@ Instrument de musique (*Corne de cocher*)
 ### Sorties 
 [[Bandit de grand chemin\|Bandit de grand chemin]]
 [[Cartographe\|Cartographe]]
-[[Collecteur de taxes\|Collecteur de taxes]]
+[[Carrières/Collecteur de taxes\|Collecteur de taxes]]
 [[Contrebandier\|Contrebandier]]
 [[Hors-la-loi\|Hors-la-loi]]
 [[Passeur\|Passeur]]

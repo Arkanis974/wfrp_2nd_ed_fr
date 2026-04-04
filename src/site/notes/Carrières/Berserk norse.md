@@ -24,7 +24,7 @@ La [[Norsca\|Norsca]] est une contrée nordique austère et remplie de monstres 
 
 ---
 ## 📚 Compétences
-[[Connaissances générales\|Connaissances générales]] (*Norsca*)
+[[Compétences/Connaissances générales\|Connaissances générales]] (*Norsca*)
 [[Expression artistique\|Expression artistique]] (*Conteur*)
 [[Intimidation\|Intimidation]]
 [[Langue\|Langue]] (*Norse*)

@@ -24,9 +24,9 @@ Les cours d'eau de l'[[Empire\|Empire]] sont des voies de communication et de co
 
 ---
 ## 📚 Compétences
-[[Canotage\|Canotage]]
-[[Commérage\|Commérage]] **OU** [[Résistance à l'alcool\|Résistance à l'alcool]]
-[[Connaissances générales\|Connaissances générales]] (*Empire* ou *Kislev*)
+[[Compétences/Canotage\|Canotage]]
+[[Compétences/Commérage\|Commérage]] **OU** [[Résistance à l'alcool\|Résistance à l'alcool]]
+[[Compétences/Connaissances générales\|Connaissances générales]] (*Empire* ou *Kislev*)
 [[Langage secret\|Langage secret]] (*Langage des rôdeurs*) ou [[Langue\|Langue]] (*Kislévien*)
 [[Natation\|Natation]]
 [[Navigation\|Navigation]]

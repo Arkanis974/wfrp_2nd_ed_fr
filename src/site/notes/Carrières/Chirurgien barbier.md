@@ -24,8 +24,8 @@ Les Chirurgiens barbiers offrent des soins efficaces, mais parfois douloureux, a
 
 ---
 ## 📚 Compétences
-[[Charisme\|Charisme]]
-[[Conduite d'attelages\|Conduite d'attelages]] ou [[Natation\|Natation]]
+[[Compétences/Charisme\|Charisme]]
+[[Compétences/Conduite d'attelages\|Conduite d'attelages]] ou [[Natation\|Natation]]
 [[Langue\|Langue]] (*Bretonnien*, *Reikspiel* ou *Tiléen*)
 [[Lire/Écrire\|Lire/Écrire]]
 [[Marchandage\|Marchandage]]
