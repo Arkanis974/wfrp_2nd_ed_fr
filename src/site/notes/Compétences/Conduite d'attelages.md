@@ -9,9 +9,4 @@
 **Caractéristique :** [[Force\|Force]]
 **Talents liés :** Aucun
 ## 📜 Description
-On utilise cette compétence pour conduire des carrioles et des chariots, voire des chars. Conduire un attelage dans des conditions normales ne requiert pas de test. Cependant, des tests peuvent être nécessaires en terrain difficile, à une vitesse excessive ou lors de manoeuvres dangereuses. 
-
----
-
----
-
+On utilise cette compétence pour conduire des carrioles et des chariots, voire des chars. Conduire un attelage dans des conditions normales ne requiert pas de test. Cependant, des tests peuvent être nécessaires en terrain difficile, à une vitesse excessive ou lors de manoeuvres dangereuses.

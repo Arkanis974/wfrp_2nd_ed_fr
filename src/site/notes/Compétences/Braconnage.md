@@ -10,8 +10,3 @@
 **Talents liés :** Aucun
 ## 📜 Description
 Cette compétence permet de poser des pièges et d'appâter afin d'attraper divers animaux. Les pièges destinés à immobiliser et à tuer sont répandus dans l'[[Empire\|Empire]]. On fait un test de compétence par jour et par piège. Un succès indique qu'une créature a été capturée.
-
----
-
----
-
