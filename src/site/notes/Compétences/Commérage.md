@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/competences/commerage/","tags":["Compétences/Base"],"dg-note-properties":{"alias":["Gossip"],"tags":["Compétences/Base"]}}
 ---
 
----
 # Commérage
 **Source :** Livre de base p.92 / Core Rulebook p.93
 **Type :** Compétence de base

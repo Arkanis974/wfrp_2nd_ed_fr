@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/competences/conduite-d-attelages/","tags":["Compétences/Base"],"dg-note-properties":{"alias":["Drive"],"tags":["Compétences/Base"]}}
 ---
 
----
 # Conduite d'attelages
 **Source :** Livre de base p.92 / Core Rulebook p.92
 **Type :** Compétence de base

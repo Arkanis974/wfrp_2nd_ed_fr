@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/carrieres/bucheron/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Woodsman"],"tags":["Carrière/Base"]}}
 ---
 
----
 # 🪓 Bûcheron
 **Type :** Carrière de base
 **Source :** Livre de base p.34 / Core Rulebook p.60

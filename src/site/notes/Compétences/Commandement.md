@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/competences/commandement/","tags":["Compétences/Base"],"dg-note-properties":{"alias":["Command"],"tags":["Compétences/Base"]}}
 ---
 
----
 # Commandement
 **Source :** Livre de base p.92 / Core Rulebook p.92
 **Type :** Compétence de base

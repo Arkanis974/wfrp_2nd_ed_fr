@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/competences/alphabet-secret/","tags":["Compétences/Avancée"],"dg-note-properties":{"alias":["Secret signs"],"tags":["Compétences/Avancée"]}}
 ---
 
----
 # Alphabet secret
 **Source :** Livre de base p.91 / Core Rulebook p.95
 **Type :** Compétence avancée

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/competences/connaissances-academiques/","tags":["Compétences/Avancée"],"dg-note-properties":{"alias":["Academic knowledge"],"tags":["Compétences/Avancée"]}}
 ---
 
----
 # Connaissances académiques
 **Source :**  Livre de base p.92 / Core Rulebook p.91
 **Type :** Compétence avancée

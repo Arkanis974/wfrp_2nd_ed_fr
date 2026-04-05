@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/carrieres/chasseur-de-primes/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Bounty hunter"],"tags":["Carrière/Base"]}}
 ---
 
----
 # ⛓️ Chasseur de primes
 **Type :** Carrière de base
 **Source :** Livre de base p.36 / Core Rulebook p.34

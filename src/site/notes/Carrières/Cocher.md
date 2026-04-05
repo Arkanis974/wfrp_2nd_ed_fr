@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/carrieres/cocher/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Coachman"],"tags":["Carrière/Base"]}}
 ---
 
----
 # 📯 Cocher
 **Type :** Carrière de base
 **Source :** Livre de base p.37/ Core Rulebook p.36

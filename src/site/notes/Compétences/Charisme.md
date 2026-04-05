@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/competences/charisme/","tags":["Compétences/Base"],"dg-note-properties":{"alias":["Charm"],"tags":["Compétences/Base"]}}
 ---
 
----
 # Charisme
 **Source :** Livre de base p.92 / Core Rulebook p.92
 **Type :** Compétence de base

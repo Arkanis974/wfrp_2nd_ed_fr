@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/carrieres/bourgeois/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Burgher"],"tags":["Carrière/Base"]}}
 ---
 
----
 # 🏛️ Bourgeois
 **Type :** Carrière de base
 **Source :** Livre de base p.34 / Core Rulebook p.35

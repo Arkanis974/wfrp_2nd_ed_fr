@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/carrieres/collecteur-de-taxes/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Toll keeper"],"tags":["Carrière/Base"]}}
 ---
 
----
 # Collecteur de taxes
 **Type :** Carrière de base
 **Source :** Livre de base p.36 / Core Rulebook p.56

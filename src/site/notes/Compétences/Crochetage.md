@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/competences/crochetage/","tags":["Compétences/Avancée"],"dg-note-properties":{"alias":["Pick locks"],"tags":["Compétences/Avancée"]}}
 ---
 
----
 # Crochetage
 **Source :** Livre de base p.92 / Core Rulebook p.94
 **Type :** Compétence avancée

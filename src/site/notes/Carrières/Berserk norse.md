@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/carrieres/berserk-norse/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Norse Berserker"],"tags":["Carrière/Base"]}}
 ---
 
----
 # 🪓 Berserk norse
 **Type :**  Carrière de base
 **Source :** Livre de base p.33 / Core Rulebook p.46

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/carrieres/agitateur/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Agitator"],"tags":["Carrière/Base"]}}
 ---
 
----
 # 📢 Agitateur
 **Type :** Carrière de base
 **Source :** Livre de base p.31 / Core Rulebook p.31

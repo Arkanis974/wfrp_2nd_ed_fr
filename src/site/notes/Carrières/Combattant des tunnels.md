@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/carrieres/combattant-des-tunnels/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Shieldbreaker"],"tags":["Carrière/Base"]}}
 ---
 
----
 # Combattants des tunnels
 **Type :** Carrière de base
 **Source :** Livre de base p.38 / Core Rulebook p.53

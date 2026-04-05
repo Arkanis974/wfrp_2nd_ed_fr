@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/competences/connaissances-generales/","tags":["Compétences/Avancée"],"dg-note-properties":{"alias":["Common knowledge"],"tags":["Compétences/Avancée"]}}
 ---
 
----
 # Connaissances générales
 **Source :** Livre de base p.92 / Core Rulebook p.92
 **Type :** Compétence avancée
