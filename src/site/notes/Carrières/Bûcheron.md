@@ -25,8 +25,8 @@ Les Bûcherons vivent dans les vastes forêts de l'[[Empire\|Empire]] et abatten
 ## 📚 Compétences
 [[Compétences/Alphabet secret\|Alphabet secret]] (*Rôdeur*)
 [[Compétences/Braconnage\|Braconnage]] ou [[Pistage\|Pistage]]
-[[Déplacement silencieux\|Déplacement silencieux]]
-[[Dissimulation\|Dissimulation]]
+[[Compétences/Déplacement silencieux\|Déplacement silencieux]]
+[[Compétences/Dissimulation\|Dissimulation]]
 [[Escalade\|Escalade]]
 [[Langage secret\|Langage secret]] (*Langue des rôdeurs*)
 [[Perception\|Perception]]

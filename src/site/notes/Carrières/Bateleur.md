@@ -36,7 +36,7 @@ Acrobates, lanceurs de couteaux, hypnotiseurs, danseurs et ventriloques, l'[[Emp
  Une au choix parmi :
  - [[Compétences/Baratin\|Baratin]]
  - [[Emprise sur les animaux\|Emprise sur les animaux]]
- - [[Dressage\|Dressage]]
+ - [[Compétences/Dressage\|Dressage]]
  - [[Équitation\|Équitation]]
  - [[Escalade\|Escalade]]
  - [[Escamotage\|Escamotage]]
@@ -47,8 +47,8 @@ Acrobates, lanceurs de couteaux, hypnotiseurs, danseurs et ventriloques, l'[[Emp
 ## ⚔️ Talents
 
 Deux au choix :
-- [[Acrobatie équestre\|Acrobatie équestre]]
-- [[Adresse au tir\|Adresse au tir]]
+- [[Talents/Acrobatie équestre\|Acrobatie équestre]]
+- [[Talents/Adresse au tir\|Adresse au tir]]
 - [[Éloquence\|Éloquence]]
 - [[Force accrue\|Force accrue]]
 - [[Imitation\|Imitation]]

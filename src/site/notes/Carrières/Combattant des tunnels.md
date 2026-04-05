@@ -33,7 +33,7 @@ Au fil des siècles, les incursions du [[Chaos\|Chaos]] et des [[Peaux-Vertes\|p
 
 ---
 ## ⚔️ Talents
-[[Acuité auditive\|Acuité auditive]] ou [[Sang-froid\|Sang-froid]]
+[[Talents/Acuité auditive\|Acuité auditive]] ou [[Sang-froid\|Sang-froid]]
 [[Coups assommants\|Coups assommants]]
 [[Coups précis\|Coups précis]]
 [[Coups puissants\|Coups puissants]]

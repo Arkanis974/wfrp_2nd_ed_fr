@@ -23,7 +23,7 @@ Les Chasseurs de primes gagnent leur vie en traquant les criminels, les bandits 
 
 ---
 ## 📚 Compétences
-[[Déplacement silencieux\|Déplacement silencieux]]
+[[Compétences/Déplacement silencieux\|Déplacement silencieux]]
 [[Filature\|Filature]]
 [[Fouille\|Fouille]]
 [[Intimidation\|Intimidation]]
@@ -33,7 +33,7 @@ Les Chasseurs de primes gagnent leur vie en traquant les criminels, les bandits 
 
 ---
 ## ⚔️ Talents
-[[Adresse au tir\|Adresse au tir]] ou [[Coups puissants\|Coups puissants]]
+[[Talents/Adresse au tir\|Adresse au tir]] ou [[Coups puissants\|Coups puissants]]
 [[Camouflage rural\|Camouflage rural]]
 [[Coups assommants\|Coups assommants]] ou [[Tireur d'élite\|Tireur d'élite]]
 [[Maitrise\|Maitrise]] (*Armes paralysantes*)
