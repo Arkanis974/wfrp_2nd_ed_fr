@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caracteristiques/les-caracteristiques/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/caracteristiques/les-caracteristiques/","tags":["Caractéristiques"],"dg-note-properties":{"tags":["Caractéristiques"]}}
 ---
 
 # Les caractéristiques
