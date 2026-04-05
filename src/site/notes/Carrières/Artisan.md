@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/carrieres/artisan/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Tradesman"],"tags":["Carrière/Base"]}}
 ---
 
-# ⚒️Artisan
+# Artisan
 **Type :** Carrière de base
 **Source :** Livre de base p.32 / Core Rulebook p.57
 ## 📜 Description

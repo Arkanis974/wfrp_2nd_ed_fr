@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/carrieres/chasseur/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Hunter"],"tags":["Carrière/Base"]}}
 ---
 
-# 🏹 Chasseur
+# Chasseur
 **Type :** Carrière de base
 **Source :** Livre de base p.35 / Core Rulebook p.41
 ## 📜 Description

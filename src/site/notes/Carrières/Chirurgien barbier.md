@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/carrieres/chirurgien-barbier/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Barber surgeon"],"tags":["Carrière/Base"]}}
 ---
 
-# 🩸 Chirurgien barbien
+# Chirurgien barbien
 **Type :** Carrière de base
 **Source :** Livre de base p.37 / Core Rulebook p.32
 ## 📜 Description

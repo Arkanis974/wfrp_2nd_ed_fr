@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/carrieres/batelier/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Boatman"],"tags":["Carrière/Base"]}}
 ---
 
-# 🚣 Batelier
+# Batelier
 **Type :** Carrière de base
 **Source :** Livre de base p.33 / Core Rulebook p.33
 ## 📜 Description

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/carrieres/chiffonnier/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Bone picker"],"tags":["Carrière/Base"]}}
 ---
 
-# 🧺 Chiffonnier
+# Chiffonnier
 **Type :** Carrière de base
 **Source :** Livre de base p.36 / Core Rulebook p.34
 ## 📜 Description

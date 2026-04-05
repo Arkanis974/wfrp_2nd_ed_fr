@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/carrieres/charbonnier/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Charcoal burner"],"tags":["Carrière/Base"]}}
 ---
 
-# 🪵 Charbonnier
+# Charbonnier
 **Type :** Carrière de base
 **Source :** Livre de base p.35 / Core Rulebook p.36
 ## 📜 Description

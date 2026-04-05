@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/carrieres/bateleur/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Entertainer"],"tags":["Carrière/Base"]}}
 ---
 
-# 🎭 Bateleur
+# Bateleur
 **Type :** Carrière de base
 **Source :** Livre de base p.32 / Core Rulebook p.37
 

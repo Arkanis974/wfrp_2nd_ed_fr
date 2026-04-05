@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/carrieres/apprenti-sorcier/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Apprentice Wizard"],"tags":["Carrière/Base"]}}
 ---
 
-# 🔮 Apprenti Sorcier
+# Apprenti Sorcier
 **Type :** Carrière de base 
 **Source :** Livre de base p.31 / Core Rulebook p.31
 ## 📜 Description 
