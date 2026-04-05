@@ -10,4 +10,4 @@ Les caractéristiques du *profil principal* sont les suivantes : [[Caractéristi
 
 Les caractéristique du *profil secondaire* sont les suivantes : [[Caractéristiques/Profil secondaire/Attaques\|Attaques]], [[Caractéristiques/Profil secondaire/Blessures\|Blessures]], [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|Bonus d'Endurance]], [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|Bonus d'Endurance]], [[Caractéristiques/Profil secondaire/Magie\|Magie]], [[Caractéristiques/Profil secondaire/Mouvement\|Mouvement]], [[Caractéristiques/Profil secondaire/Point de Destin\|Point de Destin]], [[Caractéristiques/Profil secondaire/Point de Folie\|Point de Folie]].
 
-Le tableau ci-dessous indique comment chacune des caractéristiques sont déterminées.
+Le tableau ci-dessous indique comment chacune des caractéristiques est déterminée.
