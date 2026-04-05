@@ -3,7 +3,7 @@
 ---
 
 # Liste des carrières
-
+---
 [[Carrières/Agitateur\|Agitateur]]
 [[Carrières/Apprenti sorcier\|Apprenti sorcier]]
 [[Carrières/Artisan\|Artisan]]
@@ -21,4 +21,6 @@
 [[Carrières/Cocher\|Cocher]]
 [[Carrières/Collecteur de taxes\|Collecteur de taxes]]
 [[Carrières/Combattant des tunnels\|Combattant des tunnels]]
+[[Carrières/Contrebandier\|Contrebandier]]
+[[Carrières/Coupe-jarret\|Coupe-jarret]]
 

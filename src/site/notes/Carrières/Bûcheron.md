@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/bucheron/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/bucheron/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"]}}
 ---
 
 # Bûcheron
@@ -12,12 +12,12 @@ Les Bûcherons vivent dans les vastes forêts de l'[[Empire\|Empire]] et abatten
 ## 🛡️ Plan d'Avancement
 ### Profil principal
 
-| [[Capacité de combat\|CC]] | [[Capacité de tir\|CT]] | [[Force\|F]] | [[Endurance\|E]] | [[Agilité\|Ag]] | [[Intelligence\|Int]] | [[Force mentale\|FM]] | [[Sociabilité\|Soc]] |
+| [[Caractéristiques/Profil principal/Capacité de combat\|CC]] | [[Caractéristiques/Profil principal/Capacité de tir\|CT]] | [[Caractéristiques/Profil principal/Force\|F]] | [[Caractéristiques/Profil principal/Endurance\|E]] | [[Caractéristiques/Profil principal/Agilité\|Ag]] | [[Caractéristiques/Profil principal/Intelligence\|Int]] | [[Caractéristiques/Profil principal/Force mentale\|FM]] | [[Caractéristiques/Profil principal/Sociabilité\|Soc]] |
 | :------------------------: | :---------------------: | :----------: | :--------------: | :-------------: | :-------------------: | :-------------------: | :------------------: |
 |            +10%            |            —            |     +10%     |        —         |       +5%       |           —           |         +10%          |          —           |
 ### Profil secondaire
 
-| [[Attaques\|A]] | [[Blessures\|B]] | [[Bonus de Force\|BF]] | [[Bonus d'Endurance\|BE]] | [[Mouvement\|M]] | [[Magie\|Mag]] | [[Point de Destin\|PD]] | [[Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +3        |           —            |             —             |        —         |       —        |            —            |           —            |
 
@@ -44,14 +44,13 @@ Armure légère (*[[Veste de cuir\|veste de cuir]]*)
 Nécessaire antipoison
 
 ---
-
 ## 🚪 Évolution
 
 ### Accès
 [[Carrières/Charbonnier\|Charbonnier]]
 [[Vagabond\|Vagabond]]
 
-### Sorties 
+### Débouchés
 [[Carrières/Chasseur\|Chasseur]]
 [[Chevalier du Champ Verdoyant\|Chevalier du Champ Verdoyant]]
 [[Hors-la-loi\|Hors-la-loi]]

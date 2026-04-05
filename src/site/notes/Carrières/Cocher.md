@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/cocher/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/cocher/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"]}}
 ---
 
 # Cocher
@@ -12,12 +12,12 @@ Si l'[[Empire\|Empire]] est une puissante nation, ses terres sont loin d'être s
 ## 🛡️ Plan d'Avancement
 ### Profil principal
 
-| [[Capacité de combat\|CC]] | [[Capacité de tir\|CT]] | [[Force\|F]] | [[Endurance\|E]] | [[Agilité\|Ag]] | [[Intelligence\|Int]] | [[Force mentale\|FM]] | [[Sociabilité\|Soc]] |
+| [[Caractéristiques/Profil principal/Capacité de combat\|CC]] | [[Caractéristiques/Profil principal/Capacité de tir\|CT]] | [[Caractéristiques/Profil principal/Force\|F]] | [[Caractéristiques/Profil principal/Endurance\|E]] | [[Caractéristiques/Profil principal/Agilité\|Ag]] | [[Caractéristiques/Profil principal/Intelligence\|Int]] | [[Caractéristiques/Profil principal/Force mentale\|FM]] | [[Caractéristiques/Profil principal/Sociabilité\|Soc]] |
 | :------------------------: | :---------------------: | :----------: | :--------------: | :-------------: | :-------------------: | :-------------------: | :------------------: |
 |            +5%             |          +10%           |      —       |        —         |      +10%       |           —           |          +5%          |         +5%          |
 ### Profil secondaire
 
-| [[Attaques\|A]] | [[Blessures\|B]] | [[Bonus de Force\|BF]] | [[Bonus d'Endurance\|BE]] | [[Mouvement\|M]] | [[Magie\|Mag]] | [[Point de Destin\|PD]] | [[Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
 
@@ -45,18 +45,17 @@ Armure moyenne (*[[Gilet de mailles]\|gilet de mailles]]* et *[[Veste de cuir\|v
 Instrument de musique (*Corne de cocher*)
 
 ---
-
 ## 🚪 Évolution
 
 ### Accès
 [[Éclaireur\|Éclaireur]]
 [[Messager\|Messager]]
 
-### Sorties 
+### Débouchés
 [[Bandit de grand chemin\|Bandit de grand chemin]]
 [[Cartographe\|Cartographe]]
 [[Carrières/Collecteur de taxes\|Collecteur de taxes]]
-[[Contrebandier\|Contrebandier]]
+[[Carrières/Contrebandier\|Contrebandier]]
 [[Hors-la-loi\|Hors-la-loi]]
 [[Passeur\|Passeur]]
 [[Patrouilleur\|Patrouilleur]]

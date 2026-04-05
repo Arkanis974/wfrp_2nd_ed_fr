@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/combattant-des-tunnels/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/combattant-des-tunnels/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"]}}
 ---
 
 # Combattants des tunnels
@@ -14,12 +14,12 @@ Au fil des siècles, les incursions du [[Chaos\|Chaos]] et des [[Peaux-Vertes\|p
 ## 🛡️ Plan d'Avancement
 ### Profil principal
 
-| [[Capacité de combat\|CC]] | [[Capacité de tir\|CT]] | [[Force\|F]] | [[Endurance\|E]] | [[Agilité\|Ag]] | [[Intelligence\|Int]] | [[Force mentale\|FM]] | [[Sociabilité\|Soc]] |
+| [[Caractéristiques/Profil principal/Capacité de combat\|CC]] | [[Caractéristiques/Profil principal/Capacité de tir\|CT]] | [[Caractéristiques/Profil principal/Force\|F]] | [[Caractéristiques/Profil principal/Endurance\|E]] | [[Caractéristiques/Profil principal/Agilité\|Ag]] | [[Caractéristiques/Profil principal/Intelligence\|Int]] | [[Caractéristiques/Profil principal/Force mentale\|FM]] | [[Caractéristiques/Profil principal/Sociabilité\|Soc]] |
 | :------------------------: | :---------------------: | :----------: | :--------------: | :-------------: | :-------------------: | :-------------------: | :------------------: |
 |            +10%            |            —            |     +5%      |       +5%        |      +10%       |           —           |          +5%          |          —           |
 ### Profil secondaire
 
-| [[Attaques\|A]] | [[Blessures\|B]] | [[Bonus de Force\|BF]] | [[Bonus d'Endurance\|BE]] | [[Mouvement\|M]] | [[Magie\|Mag]] | [[Point de Destin\|PD]] | [[Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |       +1        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
 
@@ -49,11 +49,10 @@ Grappin
 Outre
 
 ---
-
 ## 🚪 Évolution
 
 ### Accès
-[[Contrebandier\|Contrebandier]]
+[[Carrières/Contrebandier\|Contrebandier]]
 [[Égoutier\|Égoutier]]
 [[Kossar kislévite\|Kossar kislévite]]
 [[Mercenaire\|Mercenaire]]
@@ -62,8 +61,8 @@ Outre
 [[Porterune\|Porterune]]
 [[Ratier\|Ratier]]
 
-### Sorties 
-[[Contrebandier\|Contrebandier]]
+### Débouchés
+[[Carrières/Contrebandier\|Contrebandier]]
 [[Égoutier\|Égoutier]]
 [[Gladiateur\|Gladiateur]]
 [[Pilleur de tombes\|Pilleur de tombes]]

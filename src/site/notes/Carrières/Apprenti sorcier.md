@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/apprenti-sorcier/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/apprenti-sorcier/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"]}}
 ---
 
 # Apprenti Sorcier
@@ -14,18 +14,17 @@ Les humains dotés de facultés magiques sont des individus dangereux et redout�
 
 ### Profil principal
 
-| [[Capacité de combat\|CC]] | [[Capacité de tir\|CT]] | [[Force\|F]] | [[Endurance\|E]] | [[Agilité\|Ag]] | [[Intelligence\|Int]] | [[Force mentale\|FM]] | [[Sociabilité\|Soc]] |
+| [[Caractéristiques/Profil principal/Capacité de combat\|CC]] | [[Caractéristiques/Profil principal/Capacité de tir\|CT]] | [[Caractéristiques/Profil principal/Force\|F]] | [[Caractéristiques/Profil principal/Endurance\|E]] | [[Caractéristiques/Profil principal/Agilité\|Ag]] | [[Caractéristiques/Profil principal/Intelligence\|Int]] | [[Caractéristiques/Profil principal/Force mentale\|FM]] | [[Caractéristiques/Profil principal/Sociabilité\|Soc]] |
 | :------------------------: | :---------------------: | :----------: | :--------------: | :-------------: | :-------------------: | :-------------------: | :------------------: |
 |             —              |            —            |      —       |        —         |       +5%       |         +10%          |         +15%          |         +5%          |
 ### Profil secondaire
 
-| [[Attaques\|A]] | [[Blessures\|B]] | [[Bonus de Force\|BF]] | [[Bonus d'Endurance\|BE]] | [[Mouvement\|M]] | [[Magie\|Mag]] | [[Point de Destin\|PD]] | [[Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +2        |           —            |             —             |        —         |       +1       |            —            |           —            |
-*Note : Si vous souhaitez user de sorts dès le début du jeu, pensez à augmenter votre caractéristique de [[Magie\|Magie]] à l'aide de la promotion gratuite acquise lors de la création du personnage. Les [[Halflings\|halflings]] et les [[Nains\|nains]] n'ont pas le droit d'entreprendre cette carrière. Les utilisateurs de [[La Magie\|magie]] sont craints, voire haïs, aussi songez-y à deux fois avant de vous tourner vers cette carrière.* 
+*Note : Si vous souhaitez user de sorts dès le début du jeu, pensez à augmenter votre caractéristique de [[Caractéristiques/Profil secondaire/Magie\|Magie]] à l'aide de la promotion gratuite acquise lors de la création du personnage. Les [[Halflings\|halflings]] et les [[Nains\|nains]] n'ont pas le droit d'entreprendre cette carrière. Les utilisateurs de [[La Magie\|magie]] sont craints, voire haïs, aussi songez-y à deux fois avant de vous tourner vers cette carrière.* 
 
 ---
-
 ## 📚 Compétences 
 [[Compétences/Connaissances académiques\|Connaissances académiques]] (*Magie*)
 [[Focalisation\|Focalisation]]
@@ -37,7 +36,6 @@ Les humains dotés de facultés magiques sont des individus dangereux et redout�
 [[Sens de la magie\|Sens de la magie]] 
 
 ---
-
 ## ⚔️ Talents
 [[Harmonie aethyrique\|Harmonie aethyrique]] ou [[Mains agiles\|Mains agiles]]
 [[Intelligent\|Intelligent]] ou [[Résistance accrue\|Résistance accrue]]

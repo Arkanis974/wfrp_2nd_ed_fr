@@ -3,7 +3,7 @@
 ---
 
 # Liste des compétences
-
+---
 [[Compétences/Alphabet secret\|Alphabet secret]]
 [[Compétences/Baratin\|Baratin]]
 [[Compétences/Braconnage\|Braconnage]]
@@ -15,3 +15,7 @@
 [[Compétences/Connaissances académiques\|Connaissances académiques]]
 [[Compétences/Connaissances générales\|Connaissances générales]]
 [[Compétences/Crochetage\|Crochetage]]
+[[Compétences/Déguisement\|Déguisement]]
+[[Compétences/Déplacement silencieux\|Déplacement silencieux]]
+[[Compétences/Dissimulation\|Dissimulation]]
+[[Compétences/Dressage\|Dressage]]

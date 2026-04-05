@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/chirurgien-barbier/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/chirurgien-barbier/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"]}}
 ---
 
 # Chirurgien barbien
@@ -12,12 +12,12 @@ Les Chirurgiens barbiers offrent des soins efficaces, mais parfois douloureux, a
 ## 🛡️ Plan d'Avancement
 ### Profil principal
 
-| [[Capacité de combat\|CC]] | [[Capacité de tir\|CT]] | [[Force\|F]] | [[Endurance\|E]] | [[Agilité\|Ag]] | [[Intelligence\|Int]] | [[Force mentale\|FM]] | [[Sociabilité\|Soc]] |
+| [[Caractéristiques/Profil principal/Capacité de combat\|CC]] | [[Caractéristiques/Profil principal/Capacité de tir\|CT]] | [[Caractéristiques/Profil principal/Force\|F]] | [[Caractéristiques/Profil principal/Endurance\|E]] | [[Caractéristiques/Profil principal/Agilité\|Ag]] | [[Caractéristiques/Profil principal/Intelligence\|Int]] | [[Caractéristiques/Profil principal/Force mentale\|FM]] | [[Caractéristiques/Profil principal/Sociabilité\|Soc]] |
 | :------------------------: | :---------------------: | :----------: | :--------------: | :-------------: | :-------------------: | :-------------------: | :------------------: |
 |            +5%             |            —            |      —       |        —         |      +10%       |         +10%          |         +10%          |         +5%          |
 ### Profil secondaire
 
-| [[Attaques\|A]] | [[Blessures\|B]] | [[Bonus de Force\|BF]] | [[Bonus d'Endurance\|BE]] | [[Mouvement\|M]] | [[Magie\|Mag]] | [[Point de Destin\|PD]] | [[Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
 
@@ -43,7 +43,6 @@ Les Chirurgiens barbiers offrent des soins efficaces, mais parfois douloureux, a
 Outils d'artisan (*chirurgien barbier*)
 
 ---
-
 ## 🚪 Évolution
 
 ### Accès
@@ -51,7 +50,7 @@ Outils d'artisan (*chirurgien barbier*)
 [[Étudiant\|Étudiant]]
 [[Initié\|Initié]]
 
-### Sorties 
+### Débouchés
 [[Carrières/Artisan\|Artisan]]
 [[Bourreau\|Bourreau]]
 [[Médecin\|Médecin]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/artisan/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/artisan/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"]}}
 ---
 
 # Artisan
@@ -13,17 +13,16 @@ Les artisans sont des ouvriers expérimentés. Bien qu'ils se réunissent habitu
 
 ### Profil principal
 
-| [[Capacité de combat\|CC]] | [[Capacité de tir\|CT]] | [[Force\|F]] | [[Endurance\|E]] | [[Agilité\|Ag]] | [[Intelligence\|Int]] | [[Force mentale\|FM]] | [[Sociabilité\|Soc]] |
+| [[Caractéristiques/Profil principal/Capacité de combat\|CC]] | [[Caractéristiques/Profil principal/Capacité de tir\|CT]] | [[Caractéristiques/Profil principal/Force\|F]] | [[Caractéristiques/Profil principal/Endurance\|E]] | [[Caractéristiques/Profil principal/Agilité\|Ag]] | [[Caractéristiques/Profil principal/Intelligence\|Int]] | [[Caractéristiques/Profil principal/Force mentale\|FM]] | [[Caractéristiques/Profil principal/Sociabilité\|Soc]] |
 | :------------------------: | :---------------------: | :----------: | :--------------: | :-------------: | :-------------------: | :-------------------: | :------------------: |
 |             —              |            —            |     +5%      |       +5%        |      +10%       |          +5%          |         +10%          |          —           |
 ### Profil secondaire
 
-| [[Attaques\|A]] | [[Blessures\|B]] | [[Bonus de Force\|BF]] | [[Bonus d'Endurance\|BE]] | [[Mouvement\|M]] | [[Magie\|Mag]] | [[Point de Destin\|PD]] | [[Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
 
 ---
-
 ## 📚 Compétences
 [[Compétences/Commérage\|Commérage]] ou [[Soins des animaux\|Soins des animaux]]
 [[Compétences/Conduite d'attelages\|Conduite d'attelages]]
@@ -35,9 +34,8 @@ Les artisans sont des ouvriers expérimentés. Bien qu'ils se réunissent habitu
 [[Perception\|Perception]]
 
 ---
-
 ## ⚔️ Talents
-[[Dur en affaire\|Dur en affaire]] ou [[Intelligent\|Intelligent]]
+[[Dur en affaires\|Dur en affaires]] ou [[Intelligent\|Intelligent]]
 
 ---
 ## 🎒 Dotations
