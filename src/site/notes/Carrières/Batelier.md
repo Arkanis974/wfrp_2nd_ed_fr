@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/batelier/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Boatman"],"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/batelier/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
 ---
 
 # Batelier
 **Type :** Carrière de base
-**Source :** Livre de base p.33 / Core Rulebook p.33
+**Source :** Livre de base p.33 / Core Rulebook p.33 *Boatman*
 ## 📜 Description
 Les cours d'eau de l'[[Empire\|Empire]] sont des voies de communication et de commerce de première importance. Ils assurent un transport rapide et relient la plupart des grandes villes du royaume. Les Bateliers sillonnent ces voies navigables encombrées, transbahutant passagers et biens au travers de l'[[Empire\|Empire]] et parfois même jusqu'à [[Kislev\|Kislev]]. Bien que les rivières soient plus sûres que certaines routes qui traversent d'épaisses forêts, elles ne sont pas sans dangers. De nombreux cours d'eau passent par des régions sauvages et inexplorées. Le Batelier se doit donc d'être toujours prêt à protéger sa marchandise des pillards et autres brigands. Ainsi, les Bateliers les plus expérimentés sont aussi coriaces qu'ingénieux. Du reste, ce sont de bons combattants et d'excellents navigateurs.
 

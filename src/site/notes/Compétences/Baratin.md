@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/competences/baratin/","tags":["Compétences/Avancée"],"dg-note-properties":{"alias":["Blather"],"tags":["Compétences/Avancée"]}}
+{"dg-publish":true,"permalink":"/competences/baratin/","tags":["Compétences/Avancée"],"dg-note-properties":{"tags":["Compétences/Avancée"]}}
 ---
 
 # Baratin
-**Source :** Livre de base p.91 / Core Rulebook p.91
+**Source :** Livre de base p.91 / Core Rulebook p.91 *Blather*
 **Type :** Compétence avancée
 **Caractéristique :** [[Sociabilité\|Sociabilité]]
 **Talents liés :** Aucun

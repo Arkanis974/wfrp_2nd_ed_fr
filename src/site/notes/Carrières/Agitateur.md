@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/agitateur/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Agitator"],"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/agitateur/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
 ---
 
 # Agitateur
 **Type :** Carrière de base
-**Source :** Livre de base p.31 / Core Rulebook p.31
+**Source :** Livre de base p.31 / Core Rulebook p.31 *Agitator*
 ## 📜 Description
 Habituellement, les citoyens de l'[[Empire\|Empire]] n'ont pas véritablement leur mot à dire en matière de politique. L'Empereur et les Comtes Électeurs promulguent les lois et se chargent de leur application avec le concours des diverses Églises (comme celles de [[Sigmar\|Sigmar]] et d'[[Ulric\|Ulric]]). Les villes de l'[[Empire\|Empire]] abritent néanmoins de nombreux activistes virulents. Ces Agitateurs se mobilisent au nom de causes variées, distribuant des tracts, faisant des discours enflammés et soulevant parfois les foules. Les extrémistes sont généralement ignorés, mais ceux qui remportent l'adhésion de leur auditoire, en attisant notamment le ressentiment qu'éprouvent paysans et bourgeois, acquièrent rapidement le statut de menace d'État. Ils deviennent alors la proie de la milice locale ou sont accusés d'hérésie par les représentants de l'Église, voire obligés de se soumettre à la miséricorde des répurgateurs. Malgré les risques, les Agitateurs poursuivent néanmoins leurs activités. Certains croient dur comme fer en leur cause, mais d'autres sont de cyniques sycophantes aussi corrompus que ceux contre lesquels ils se répandent en invectives.
 

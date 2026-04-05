@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/artisan/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Tradesman"],"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/artisan/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
 ---
 
 # Artisan
 **Type :** Carrière de base
-**Source :** Livre de base p.32 / Core Rulebook p.57
+**Source :** Livre de base p.32 / Core Rulebook p.57 *Tradesman*
 ## 📜 Description
 Les artisans sont des ouvriers expérimentés. Bien qu'ils se réunissent habituellement en ville, on en trouve également dans tous les villages de l'[[Empire\|Empire]]. Ils créent des biens que les marchands revendent ensuite et jouent un rôle important dans l'économie de l'[[Empire\|Empire]]. Les artisans incluent apothicaires, arquebusiers, brasseurs, calligraphes, camelots, cartographes, charpentiers navals, cristalliers, fabricants d'arcs, fabricants d'armes, fabricants d'armures, forgerons, herboristes, maçons et tailleurs. Chaque métier dispose de sa guilde mais toutes les guildes ne disposent pas de chapitres à l'échelon local.
 

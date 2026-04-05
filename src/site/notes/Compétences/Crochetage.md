@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/competences/crochetage/","tags":["Compétences/Avancée"],"dg-note-properties":{"alias":["Pick locks"],"tags":["Compétences/Avancée"]}}
+{"dg-publish":true,"permalink":"/competences/crochetage/","tags":["Compétences/Avancée"],"dg-note-properties":{"tags":["Compétences/Avancée"]}}
 ---
 
 # Crochetage
-**Source :** Livre de base p.92 / Core Rulebook p.94
+**Source :** Livre de base p.92 / Core Rulebook p.94 *Pick locks*
 **Type :** Compétence avancée
 **Caractéristique :** [[Agilité\|Agilité]]
 **Talents liés :** [[Connaissance des pièges\|Connaissance des pièges]]

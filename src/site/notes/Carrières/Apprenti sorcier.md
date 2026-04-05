@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/apprenti-sorcier/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Apprentice Wizard"],"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/apprenti-sorcier/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
 ---
 
 # Apprenti Sorcier
 **Type :** Carrière de base 
-**Source :** Livre de base p.31 / Core Rulebook p.31
+**Source :** Livre de base p.31 / Core Rulebook p.31 *Apprentice wizard*
 ## 📜 Description 
 Les humains dotés de facultés magiques sont des individus dangereux et redoutés. En effet, le sorcier en herbe laisse parfois dans son sillage démons et catastrophes. Pour faire face à cette menace, l'[[Empire\|Empire]] envoie ces individus dans l'un des huit [[Collèges de Magie\|ordres de magie]]. Durant leur apprentissage les jeunes sorciers apprennent à manipuler la [[La Magie\|magie]] en toute sécurité et choisissent [[Collèges de Magie\|l'ordre]] qu'ils rejoindront définitivement. Certains apprentis sont voués à servir le sorcier qui a découvert leurs talents, mais d'autres partent à l'aventure pour gagner suffisamment d'argent et passer sous la tutelle des [[Collèges de Magie\|Collèges de magie]]. Les [[Elfes\|elfes]] sont doués de talents magiques innés et se passent des services des institutions humaines puisqu'ils apprennent auprès de leurs propres maitres.
 *Pour plus de détails sur les [[Collèges de Magie\|ordres de magie]], reportez-vous au Chapitre 7 : [[La Magie\|La magie]].* 

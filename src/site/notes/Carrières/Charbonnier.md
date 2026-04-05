@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/charbonnier/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Charcoal burner"],"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/charbonnier/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
 ---
 
 # Charbonnier
 **Type :** Carrière de base
-**Source :** Livre de base p.35 / Core Rulebook p.36
+**Source :** Livre de base p.35 / Core Rulebook p.36 *Charcoal burner*
 ## 📜 Description
 On trouve des Charbonniers dans tous les villages de l'[[Empire\|Empire]]. Ils brûlent du bois pour en faire du charbon, combustible des plus vitaux pendant les mois d'hiver. Leur travail étant à la fois salissant et dangereux, ils travaillent à l'extérieur des villages. Ils privilégient d'ailleurs l'orée des forêts puisqu'ils y trouvent leur outil de travail. Cependant, cet isolement en fait un travail risqué car le Charbonnier est une proie facile pour les créatures maléfiques des forêts. En conséquence, les Charbonniers disposent toujours d'une arme sous la main, même s'il s'agit d'un simple gourdin.
 

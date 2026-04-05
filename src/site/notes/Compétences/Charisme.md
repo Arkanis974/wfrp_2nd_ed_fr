@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/competences/charisme/","tags":["Compétences/Base"],"dg-note-properties":{"alias":["Charm"],"tags":["Compétences/Base"]}}
+{"dg-publish":true,"permalink":"/competences/charisme/","tags":["Compétences/Base"],"dg-note-properties":{"tags":["Compétences/Base"]}}
 ---
 
 # Charisme
-**Source :** Livre de base p.92 / Core Rulebook p.92
+**Source :** Livre de base p.92 / Core Rulebook p.92 *Charm*
 **Type :** Compétence de base
 **Caractéristique :** [[Sociabilité\|Sociabilité]]
 **Talents liés :** [[Code de la rue\|Code de la rue]], [[Éloquence\|Éloquence]], [[Étiquette\|Étiquette]], [[Intrigant\|Intrigant]], [[Orateur né\|Orateur né]]

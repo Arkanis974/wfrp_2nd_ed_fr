@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/competences/alphabet-secret/","tags":["Compétences/Avancée"],"dg-note-properties":{"alias":["Secret signs"],"tags":["Compétences/Avancée"]}}
+{"dg-publish":true,"permalink":"/competences/alphabet-secret/","tags":["Compétences/Avancée"],"dg-note-properties":{"tags":["Compétences/Avancée"]}}
 ---
 
 # Alphabet secret
-**Source :** Livre de base p.91 / Core Rulebook p.95
+**Source :** Livre de base p.91 / Core Rulebook p.95 *Secret signs*
 **Type :** Compétence avancée
 **Caractéristique :** [[Intelligence\|Intelligence]]
 **Talents liés :** Aucun

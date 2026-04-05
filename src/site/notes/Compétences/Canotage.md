@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/competences/canotage/","tags":["Compétences/Base"],"dg-note-properties":{"alias":["Row"],"tags":["Compétences/Base"]}}
+{"dg-publish":true,"permalink":"/competences/canotage/","tags":["Compétences/Base"],"dg-note-properties":{"tags":["Compétences/Base"]}}
 ---
 
 # Canotage
-**Source :** Livre de base p.92 / Core Rulebook p.95
+**Source :** Livre de base p.92 / Core Rulebook p.95 *Row*
 **Type :** Compétence avancée
 **Caractéristique :** [[Force\|Force]]
 **Talents liés :** Aucun

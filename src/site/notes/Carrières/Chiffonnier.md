@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/chiffonnier/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Bone picker"],"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/chiffonnier/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
 ---
 
 # Chiffonnier
 **Type :** Carrière de base
-**Source :** Livre de base p.36 / Core Rulebook p.34
+**Source :** Livre de base p.36 / Core Rulebook p.34 *Bone picker*
 ## 📜 Description
 Les Chiffonniers sont des charognards qui vivent grâce aux déchets d'autrui. Leur carriole les entraine dans des villes et des villages où ils ramassent les ordures, les haillons et autres vieilleries dont ils disposent contre quelques pièces ou une simple babiole. Ils sont bien évidemment répandus dans les villes de l'[[Empire\|Empire]], qui génèrent de grandes quantités de déchets. Vu le nombre de biens qui leur passent entre les mains, les Chiffonniers sont également de petits commerçants. En effet, les ordures d'un riche bourgeois constituent parfois un véritable trésor pour un malheureux paysan.
 

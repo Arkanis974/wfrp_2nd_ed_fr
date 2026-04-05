@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/combattant-des-tunnels/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Shieldbreaker"],"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/combattant-des-tunnels/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
 ---
 
 # Combattants des tunnels
 **Type :** Carrière de base
-**Source :** Livre de base p.38 / Core Rulebook p.53
+**Source :** Livre de base p.38 / Core Rulebook p.53 *Shieldbreaker*
 ## 📜 Description
 Au fil des siècles, les incursions du [[Chaos\|Chaos]] et des [[Peaux-Vertes\|peaux-vertes]] ont balayé de nombreuses forteresses naines des Montagnes du Bord du Monde. Pour protéger leurs dernières cités fortifiés, les [[Nains\|nains]] ont formé des soldats d'élite spécialisés dans le combat souterrain. Ces hommes, les Combattants des tunnels, sont de vaillants guerriers qui cherchent à protéger leur peuple. Bien que la plupart des Combattants des tunnels soient des nains, des membres d'autres races se joignent parfois à leurs rangs en échange d'or. De jeunes [[Nains\|nains]] de l'[[Empire\|Empire]] entreprennent souvent cette carrière afin de prouver leur courage et de montrer leur solidarité vis-à-vis de leurs cousins des montagnes.
 

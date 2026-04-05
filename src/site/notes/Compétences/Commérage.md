@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/competences/commerage/","tags":["Compétences/Base"],"dg-note-properties":{"alias":["Gossip"],"tags":["Compétences/Base"]}}
+{"dg-publish":true,"permalink":"/competences/commerage/","tags":["Compétences/Base"],"dg-note-properties":{"tags":["Compétences/Base"]}}
 ---
 
 # Commérage
-**Source :** Livre de base p.92 / Core Rulebook p.93
+**Source :** Livre de base p.92 / Core Rulebook p.93 *Gossip*
 **Type :** Compétence de base
 **Caractéristique :** [[Sociabilité\|Sociabilité]]
 **Talents liés :** [[Code de la rue\|Code de la rue]], [[Étiquette\|Étiquette]]

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/chirurgien-barbier/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Barber surgeon"],"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/chirurgien-barbier/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
 ---
 
 # Chirurgien barbien
 **Type :** Carrière de base
-**Source :** Livre de base p.37 / Core Rulebook p.32
+**Source :** Livre de base p.37 / Core Rulebook p.32 *Barber-surgeon*
 ## 📜 Description
 Les Chirurgiens barbiers offrent des soins efficaces, mais parfois douloureux, aux braves gens de l'[[Empire\|Empire]]. Ils ne sont pas aussi savants que les médecins, ce qui explique  que ces derniers disposent d'une guilde distincte, mais ils en connaissent un rayon en matière d'anatomie. Bien qu'ils taillent barbes et cheveux, ils sont avant tout connus pour les saignées, les opérations chirurgicales et les amputations qu'ils pratiquent à tour de bras. Les Chirurgiens barbiers se dotent d'un éventail très large d'outils, parmi lesquels de petits scalpels et de redoutables scies. Ils disposent cependant d'instruments encore plus menaçants pour leur passe-temps le plus craint : la dentisterie. La plupart des embarcations de grande taille abritent un tel personnage au sein de leur équipage. On les trouve tout aussi fréquemment dans les villes.
 

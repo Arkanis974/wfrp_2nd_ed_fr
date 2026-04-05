@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/collecteur-de-taxes/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Toll keeper"],"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/collecteur-de-taxes/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
 ---
 
 # Collecteur de taxes
 **Type :** Carrière de base
-**Source :** Livre de base p.36 / Core Rulebook p.56
+**Source :** Livre de base p.36 / Core Rulebook p.56 *Toll keeper*
 ## 📜 Description
 La collecte d'argent pour le compte du gouvernement est un travail ingrat, mais le faire en milieu sauvage est synonyme de peine de mort. Les Collecteurs de taxes vivent dans de petites maisons isolées, sur le bord des routes et encaissent l'argent des voyageurs. L'argent perçu est alloué à l'entretien des routes, mais cela n'empêche pas les voyageurs de protester, de frapper ou de tuer les Collecteurs de taxes qui tentent simplement de faire leur travail. Comme si cela ne suffisait pas, leurs maisons font des cibles de choix pour les bandits. La vie de Collecteur de taxes présente tellement de dangers que peu d'individus s'attardent à ce poste malgré le salaire élevé qu'il propose.
 

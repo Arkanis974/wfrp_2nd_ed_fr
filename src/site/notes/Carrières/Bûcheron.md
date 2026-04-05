@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/bucheron/","tags":["Carrière/Base"],"dg-note-properties":{"alias":["Woodsman"],"tags":["Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/bucheron/","tags":["Carrière/Base"],"dg-note-properties":{"tags":["Carrière/Base"]}}
 ---
 
 # Bûcheron
 **Type :** Carrière de base
-**Source :** Livre de base p.34 / Core Rulebook p.60
+**Source :** Livre de base p.34 / Core Rulebook p.60 *Woodsman*
 ## 📜 Description
 Les Bûcherons vivent dans les vastes forêts de l'[[Empire\|Empire]] et abattent des arbres destinés à la construction. Les plus chanceux travaillent dans de grands domaines pour des familles de la noblesse, mais les plus courageux vivent en marge de la civilisation et contribuent à l'élargissement des régions colonisées. Ces derniers ont affaire aux dangers de la forêt, qu'il s'agisse de pièges, de bandits, d'animaux sauvages ou d'[[Homme-bête\|hommes-bêtes]]. Ils gardent toujours leur hache à portée de main et pas seulement pour couper du bois. Les Bûcherons se heurtent parfois aux [[Elfes\|elfes]] car ces derniers n'apprécient guère que l'on s'attaque à leurs précieuses forêts.
 

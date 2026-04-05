@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/competences/conduite-d-attelages/","tags":["Compétences/Base"],"dg-note-properties":{"alias":["Drive"],"tags":["Compétences/Base"]}}
+{"dg-publish":true,"permalink":"/competences/conduite-d-attelages/","tags":["Compétences/Base"],"dg-note-properties":{"tags":["Compétences/Base"]}}
 ---
 
 # Conduite d'attelages
-**Source :** Livre de base p.92 / Core Rulebook p.92
+**Source :** Livre de base p.92 / Core Rulebook p.92 *Drive*
 **Type :** Compétence de base
 **Caractéristique :** [[Force\|Force]]
 **Talents liés :** Aucun

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/competences/connaissances-academiques/","tags":["Compétences/Avancée"],"dg-note-properties":{"alias":["Academic knowledge"],"tags":["Compétences/Avancée"]}}
+{"dg-publish":true,"permalink":"/competences/connaissances-academiques/","tags":["Compétences/Avancée"],"dg-note-properties":{"tags":["Compétences/Avancée"]}}
 ---
 
 # Connaissances académiques
-**Source :**  Livre de base p.92 / Core Rulebook p.91
+**Source :**  Livre de base p.92 / Core Rulebook p.91 *Academic knowledge*
 **Type :** Compétence avancée
 **Caractéristique :** [[Intelligence\|Intelligence]]
 **Talents liés :** Aucun
