@@ -36,7 +36,7 @@ Bien que l'[[Empire\|Empire]] soit loin des tribus qui le fondèrent il y a 2 50
 [[Camouflage rural\|Camouflage rural]] ou [[Tireur d'élite\|Tireur d'élite]]
 [[Dur à cuir\|Dur à cuir]] ou [[Maitrise\|Maitrise]] (*Arcs longs*)
 [[Rechargement rapide\|Rechargement rapide]]
-[[Réflexes éclairs\|Réflexes éclairs]] ou [[Résistance accrue\|Résistance accrue]]
+[[Réflexes éclair\|Réflexes éclair]] ou [[Résistance accrue\|Résistance accrue]]
 
 ---
 ## 🎒 Dotations

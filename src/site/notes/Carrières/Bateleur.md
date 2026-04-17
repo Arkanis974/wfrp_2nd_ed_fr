@@ -54,7 +54,7 @@ Deux au choix :
 - [[Imitation\|Imitation]]
 - [[Lutte\|Lutte]]
 - [[Maitrise\|Maitrise]] (*armes de jet*)
-- [[Réflexes éclairs\|Réflexes éclairs]]
+- [[Réflexes éclair\|Réflexes éclair]]
 - [[Sur ses gardes\|Sur ses gardes]]
 
 ---

@@ -34,7 +34,7 @@ Dans les milieux criminels, force et brutalité sont des vertus appréciées et 
 [[Coups assommants\|Coups assommants]]
 [[Coups précis\|Coups précis]] ou [[Lutte\|Lutte]]
 [[Désarmement\|Désarmement]]
-[[Réflexes éclairs\|Réflexes éclairs]] ou [[Sang-froid\|Sang-froid]]
+[[Réflexes éclair\|Réflexes éclair]] ou [[Sang-froid\|Sang-froid]]
 [[Résistance aux poisons\|Résistance aux poisons]] ou [[Sur ses gardes\|Sur ses gardes]]
 
 ---
