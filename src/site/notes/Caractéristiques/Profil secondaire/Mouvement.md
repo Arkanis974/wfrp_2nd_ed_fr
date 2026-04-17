@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caracteristiques/profil-secondaire/mouvement/","tags":["Caractéristiques","Profil_secondaire"],"dg-note-properties":{"tags":["Caractéristiques","Profil_secondaire"]}}
+{"dg-publish":true,"permalink":"/caracteristiques/profil-secondaire/mouvement/","tags":["Caractéristiques","Profil_secondaire","A_MODIFIER"],"dg-note-properties":{"tags":["Caractéristiques","Profil_secondaire","A_MODIFIER"]}}
 ---
 
 # Mouvement (M)

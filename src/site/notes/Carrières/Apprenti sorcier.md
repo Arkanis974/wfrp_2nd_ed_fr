@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/apprenti-sorcier/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"]}}
+{"dg-publish":true,"permalink":"/carrieres/apprenti-sorcier/","tags":["Carrière/Base","Carrière","A_MODIFIER"],"dg-note-properties":{"tags":["Carrière/Base","Carrière","A_MODIFIER"]}}
 ---
 
 # Apprenti Sorcier

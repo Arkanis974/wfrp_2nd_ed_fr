@@ -4,6 +4,7 @@
 
 # Liste des carrières
 ---
+**Carrière de base**
 [[Carrières/Agitateur\|Agitateur]]
 [[Carrières/Apprenti sorcier\|Apprenti sorcier]]
 [[Carrières/Artisan\|Artisan]]
@@ -23,4 +24,9 @@
 [[Carrières/Combattant des tunnels\|Combattant des tunnels]]
 [[Carrières/Contrebandier\|Contrebandier]]
 [[Carrières/Coupe-jarret\|Coupe-jarret]]
+[[Carrières/Diestro estalien\|Diestro estalien]]
+[[Carrières/Éclaireur\|Éclaireur]]
+
+**Carrière avancée**
+*A venir*
 
