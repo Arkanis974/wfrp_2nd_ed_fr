@@ -8,3 +8,5 @@
 
 ## 📜 Description
 Cette caractéristique représente la vélocité physique de votre personnage, son adresse manuelle et sa vitesse de réaction.
+
+La page "[[Caractéristiques/Les caractéristiques\|Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.

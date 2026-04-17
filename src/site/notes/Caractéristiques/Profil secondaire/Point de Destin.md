@@ -8,3 +8,5 @@
 
 ## 📜 Description
 Cette caractéristique représente la chance et, dans une certaine mesure, la destinée de votre personnage. Les points de Destin peuvent servir à éviter une mort certaine. Votre MJ vous en dira davantage sur cet aspect du jeu.
+
+La page "[[Caractéristiques/Les caractéristiques\|Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.

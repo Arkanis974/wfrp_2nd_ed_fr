@@ -8,3 +8,5 @@
 
 ## 📜 Description
 Cette caractéristique représente l'aptitude de votre personnage à se servir d'armes à projectiles, comme les arcs, les arbalètes et les pistolets.
+
+La page "[[Caractéristiques/Les caractéristiques\|Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.

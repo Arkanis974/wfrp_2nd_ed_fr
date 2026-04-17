@@ -8,3 +8,5 @@
 
 ## 📜 Description
 Cette caractéristique, dérivée de l'[[Caractéristiques/Profil principal/Endurance\|Endurance]], détermine la résistance aux dégats.
+
+La page "[[Caractéristiques/Les caractéristiques\|Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.

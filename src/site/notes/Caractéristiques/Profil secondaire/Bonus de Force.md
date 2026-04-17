@@ -8,3 +8,5 @@
 
 ## 📜 Description
 Cette caractéristique, dérivée de la [[Caractéristiques/Profil principal/Force\|Force]], détermine les dégâts infligés au combat.
+
+La page "[[Caractéristiques/Les caractéristiques\|Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.

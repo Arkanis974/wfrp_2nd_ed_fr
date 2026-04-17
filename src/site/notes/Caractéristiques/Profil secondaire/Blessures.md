@@ -8,3 +8,5 @@
 
 ## 📜 Description
 Cette caractéristique représente la vitalité globale de votre personnage. Elle indique la quantité de dégâts qu'il peut subir avant de se retrouver dans un état critique.
+
+La page "[[Caractéristiques/Les caractéristiques\|Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
