@@ -3,7 +3,8 @@
 ---
 
 ---
-Bienvenue sur cette page d'accueil
+Bienvenu sur ce site dédié au jeu de rôle Warhammer Fantasy (WFRP).
+Vous y trouverez les règles pour la seconde édition de WFRP ainsi que des éléments sur l'univers (histoire, géographie, description des races et royaumes, etc.)
 
 ## Sommaire
 ---
