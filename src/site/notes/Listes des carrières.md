@@ -26,6 +26,8 @@
 [[Carrières/Coupe-jarret\|Coupe-jarret]]
 [[Carrières/Diestro estalien\|Diestro estalien]]
 [[Carrières/Éclaireur\|Éclaireur]]
+[[Carrières/Écuyer\|Écuyer]]
+[[Carrières/Émissaire elfe\|Émissaire elfe]]
 
 **Carrière avancée**
 *A venir*

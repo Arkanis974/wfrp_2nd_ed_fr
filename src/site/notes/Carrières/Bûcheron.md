@@ -6,7 +6,7 @@
 **Type :** Carrière de base
 **Source :** Livre de base p.34 / Core Rulebook p.60 *Woodsman*
 ## 📜 Description
-Les Bûcherons vivent dans les vastes forêts de l'[[Empire\|Empire]] et abattent des arbres destinés à la construction. Les plus chanceux travaillent dans de grands domaines pour des familles de la noblesse, mais les plus courageux vivent en marge de la civilisation et contribuent à l'élargissement des régions colonisées. Ces derniers ont affaire aux dangers de la forêt, qu'il s'agisse de pièges, de bandits, d'animaux sauvages ou d'[[Homme-bête\|hommes-bêtes]]. Ils gardent toujours leur hache à portée de main et pas seulement pour couper du bois. Les Bûcherons se heurtent parfois aux [[Elfes\|elfes]] car ces derniers n'apprécient guère que l'on s'attaque à leurs précieuses forêts.
+Les Bûcherons vivent dans les vastes forêts de l'[[Empire\|Empire]] et abattent des arbres destinés à la construction. Les plus chanceux travaillent dans de grands domaines pour des familles de la noblesse, mais les plus courageux vivent en marge de la civilisation et contribuent à l'élargissement des régions colonisées. Ces derniers ont affaire aux dangers de la forêt, qu'il s'agisse de pièges, de bandits, d'animaux sauvages ou d'[[Hommes-bêtes\|hommes-bêtes]]. Ils gardent toujours leur hache à portée de main et pas seulement pour couper du bois. Les Bûcherons se heurtent parfois aux [[Elfes\|elfes]] car ces derniers n'apprécient guère que l'on s'attaque à leurs précieuses forêts.
 
 ---
 ## 🛡️ Plan d'Avancement
@@ -27,8 +27,8 @@ Les Bûcherons vivent dans les vastes forêts de l'[[Empire\|Empire]] et abatten
 [[Compétences/Braconnage\|Braconnage]] ou [[Pistage\|Pistage]]
 [[Compétences/Déplacement silencieux\|Déplacement silencieux]]
 [[Compétences/Dissimulation\|Dissimulation]]
-[[Escalade\|Escalade]]
-[[Langage secret\|Langage secret]] (*Langue des rôdeurs*)
+[[Compétences/Escalade\|Escalade]]
+[[Compétences/Langage secret\|Langage secret]] (*Langue des rôdeurs*)
 [[Perception\|Perception]]
 
 ---

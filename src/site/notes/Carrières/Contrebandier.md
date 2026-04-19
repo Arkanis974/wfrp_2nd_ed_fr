@@ -23,13 +23,13 @@ La plupart des routes et des mers du Vieux Monde sont soumises à des droits et 
 
 ---
 ## 📚 Compétences
-[[Compétences/Alphabet secret\|Alphabet secret]] (*voleur*) ou [[Langue\|Langue]] (*bretonnien* ou *kislevien*)
+[[Compétences/Alphabet secret\|Alphabet secret]] (*voleur*) ou [[Compétences/Langue\|Langue]] (*bretonnien* ou *kislevien*)
 [[Compétences/Canotage\|Canotage]]
-[[Compétences/Commérage\|Commérage]] ou [[Langage secret\|Langage secret]] (*langage des voleurs*)
+[[Compétences/Commérage\|Commérage]] ou [[Compétences/Langage secret\|Langage secret]] (*langage des voleurs*)
 [[Compétences/Conduite d'attelages\|Conduite d'attelages]]
 [[Compétences/Déplacement silencieux\|Déplacement silencieux]]
-[[Évaluation\|Évaluation]]
-[[Fouille\|Fouille]]
+[[Compétences/Évaluation\|Évaluation]]
+[[Compétences/Fouille\|Fouille]]
 [[Marchandage\|Marchandage]]
 [[Natation\|Natation]]
 [[Perception\|Perception]]

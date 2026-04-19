@@ -26,8 +26,8 @@ Les Chiffonniers sont des charognards qui vivent grâce aux déchets d'autrui. L
 [[Compétences/Charisme\|Charisme]] ou [[Compétences/Commérage\|Commérage]]
 [[Compétences/Conduite d'attelages\|Conduite d'attelages]]
 [[Compétences/Connaissances générales\|Connaissances générales]] (*Empire*)
-[[Évaluation\|Évaluation]]
-[[Fouille\|Fouille]]
+[[Compétences/Évaluation\|Évaluation]]
+[[Compétences/Fouille\|Fouille]]
 [[Marchandage\|Marchandage]]
 [[Perception\|Perception]]
 [[Soins des animaux\|Soins des animaux]]

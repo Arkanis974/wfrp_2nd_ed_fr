@@ -26,8 +26,8 @@ On trouve des Charbonniers dans tous les villages de l'[[Empire\|Empire]]. Ils b
 [[Compétences/Alphabet secret\|Alphabet secret]] (*Rôdeur*)
 [[Compétences/Commérage\|Commérage]] ou [[Compétences/Conduite d'attelages\|Conduite d'attelages]]
 [[Compétences/Connaissances générales\|Connaissances générales]] (*Empire*) ou [[Compétences/Dissimulation\|Dissimulation]]
-[[Escalade\|Escalade]]
-[[Fouille\|Fouille]]
+[[Compétences/Escalade\|Escalade]]
+[[Compétences/Fouille\|Fouille]]
 [[Marchandage\|Marchandage]]
 [[Perception\|Perception]]
 [[Survie\|Survie]]

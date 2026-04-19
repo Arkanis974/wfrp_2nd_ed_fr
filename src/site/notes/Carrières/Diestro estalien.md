@@ -27,8 +27,8 @@ Les [[Estalie\|Royaumes Estaliens]] se situent au sud-est de l'[[Empire\|Empire]
 ## 📚 Compétences
 [[Compétences/Connaissances académiques\|Connaissances académiques]] (*science*)
 [[Compétences/Connaissances générales\|Connaissances générales]] (*Estalie*)
-[[Esquive\|Esquive]]
-[[Langue\|Langue]] (*estalien*)
+[[Compétences/Esquive\|Esquive]]
+[[Compétences/Langue\|Langue]] (*estalien*)
 [[Lire/Écrire\|Lire/Écrire]]
 
 ---

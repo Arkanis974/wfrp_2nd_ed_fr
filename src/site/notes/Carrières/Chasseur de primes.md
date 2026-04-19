@@ -24,9 +24,9 @@ Les Chasseurs de primes gagnent leur vie en traquant les criminels, les bandits 
 ---
 ## 📚 Compétences
 [[Compétences/Déplacement silencieux\|Déplacement silencieux]]
-[[Filature\|Filature]]
-[[Fouille\|Fouille]]
-[[Intimidation\|Intimidation]]
+[[Compétences/Filature\|Filature]]
+[[Compétences/Fouille\|Fouille]]
+[[Compétences/Intimidation\|Intimidation]]
 [[Perception\|Perception]]
 [[Pistage\|Pistage]]
 [[Survie\|Survie]]

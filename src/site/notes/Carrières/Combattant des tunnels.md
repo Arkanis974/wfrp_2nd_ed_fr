@@ -25,9 +25,9 @@ Au fil des siècles, les incursions du [[Chaos\|Chaos]] et des [[Peaux-Vertes\|p
 
 ---
 ## 📚 Compétences
-[[Escalade\|Escalade]]
-[[Esquive\|Esquive]]
-[[Filature\|Filature]]
+[[Compétences/Escalade\|Escalade]]
+[[Compétences/Esquive\|Esquive]]
+[[Compétences/Filature\|Filature]]
 [[Orientation\|Orientation]]
 [[Perception\|Perception]]
 

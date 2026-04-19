@@ -26,8 +26,8 @@ Les artisans sont des ouvriers expérimentés. Bien qu'ils se réunissent habitu
 ## 📚 Compétences
 [[Compétences/Commérage\|Commérage]] ou [[Soins des animaux\|Soins des animaux]]
 [[Compétences/Conduite d'attelages\|Conduite d'attelages]]
-[[Évaluation\|Évaluation]]
-[[Langage secret\|Langage secret]] (*langage de guilde*)
+[[Compétences/Évaluation\|Évaluation]]
+[[Compétences/Langage secret\|Langage secret]] (*langage de guilde*)
 [[Lire/Écrire\|Lire/Écrire]]
 [[Marchandage\|Marchandage]]
 [[Métier\|Métier]] (*deux au choix*)
@@ -54,7 +54,7 @@ Armure légère (*[[Gilet de cuir\|gilet de cuir]]*)
 
 ### Débouchés
 [[Cartographe\|Cartographe]]
-[[Émissaire elfe\|Émissaire elfe]]
+[[Carrières/Émissaire elfe\|Émissaire elfe]]
 [[Fanatique\|Fanatique]]
 [[Fermier\|Fermier]]
 [[Ingénieur\|Ingénieur]]

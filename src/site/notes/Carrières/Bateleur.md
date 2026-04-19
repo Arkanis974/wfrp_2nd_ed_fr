@@ -27,20 +27,20 @@ Acrobates, lanceurs de couteaux, hypnotiseurs, danseurs et ventriloques, l'[[Emp
 ## 📚 Compétences
 
  [[Compétences/Charisme\|Charisme]]
- [[Compétences/Commérage\|Commérage]] ou [[Évaluation\|Évaluation]]
+ [[Compétences/Commérage\|Commérage]] ou [[Compétences/Évaluation\|Évaluation]]
  [[Compétences/Connaissances générales\|Connaissances générales]] (*Empire*)
- [[Expression artistique\|Expression artistique]] (*deux au choix*)
- [[Langue\|Langue]] (*Reikspiel*)
+ [[Compétences/Expression artistique\|Expression artistique]] (*deux au choix*)
+ [[Compétences/Langue\|Langue]] (*Reikspiel*)
  [[Natation\|Natation]] **OU** [[Soins des animaux\|Soins des animaux]]
  [[Perception\|Perception]]
  Une au choix parmi :
  - [[Compétences/Baratin\|Baratin]]
- - [[Emprise sur les animaux\|Emprise sur les animaux]]
- - [[Compétences/Dressage\|Dressage]]
- - [[Équitation\|Équitation]]
- - [[Escalade\|Escalade]]
- - [[Escamotage\|Escamotage]]
- - [[Hypnotisme\|Hypnotisme]]
+ - [[Compétences/Emprise sur les animaux\|Emprise sur les animaux]]
+ - [[Compétences/Dressage\|Compétences/Dressage]]
+ - [[Compétences/Équitation\|Équitation]]
+ - [[Compétences/Escalade\|Escalade]]
+ - [[Compétences/Escamotage\|Escamotage]]
+ - [[Compétences/Hypnotisme\|Hypnotisme]]
  - [[Ventriloquie\|Ventriloquie]]  
 
 ---

@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/competences/langue/","tags":["Compétences","Compétences/Avancée"],"dg-note-properties":{"tags":["Compétences","Compétences/Avancée"]}}
+---
+
+# Langue
+**Source :** Livre de base p.94 / Core Rulebook p.96 *Speak Language*
+**Type :** Compétence avancée
+**Caractéristique :** [[Caractéristiques/Profil principal/Intelligence\|Intelligence]]
+**Talents liés :** [[Grand voyageur\|Grand voyageur]], [[Imitation\|Imitation]], [[Linguistique\|Linguistique]]
+## 📜 Description
+Cette compétence permet à deux individus de communiquer par l'intermédiaire d'une langue qu'ils parlent l'un et l'autre. La plupart des langues parlées dans le [[Vieux Monde\|Vieux Monde]] dérivent d'une racine commune, mais celle-ci a été si profondément modifiée que quasiment chaque race ou nation parle désormais son propre langage. En temps normal, aucun test de compétence n'est requis si tous les interlocuteurs connaissent la même langue. Un test peut être nécessaire si le personnage tente d'imiter ou de comprendre un accent ou un patois régional ou s'il désire se faire passer pour un autochtone d'un certain pays s'il ne s'agit pas de sa langue d'origine. À l'instar de [[Compétences/Connaissances académiques\|Connaissances académiques]], Langue n'est pas une compétence unique mais multiple. Les langues les plus répandues et les peuples ou les pays où on les pratique sont les suivants : le bretonnien ([[Bretonnie\|Bretonnie]]), l'eltharin ([[Elfes\|elfes]]), l'estalien ([[Estalie\|Estalie]]), le halfling ([[Halflings\|halflings]]), le khazalid ([[Nains\|nains]]), le kislévien ([[Kislev\|Kislev]]), le norse ([[Norsca\|Norsca]]), le reikspiel ([[Empire\|Empire]]) et le tiléen ([[Tilée\|Tilée]]). Il existe un autre langue, la langue classique, un ancien langage qui a les faveurs des érudits, mais que l'on parle fort peu aujourd'hui. Parmi les langues moins civilisée, on peut citer : le gobelinoïde ([[Gobelins\|gobelins]], [[Hobgobelins\|hobgobelins]], [[Orques\|orques]]), le grumbarth ([[Ogres\|ogres]]) et le langage sombre ([[Hommes-bêtes\|hommes-bêtes]], [[Chaos\|Chaos]]). 

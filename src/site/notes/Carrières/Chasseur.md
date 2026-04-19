@@ -26,7 +26,7 @@ Bien que l'[[Empire\|Empire]] soit loin des tribus qui le fondèrent il y a 2 50
 [[Compétences/Alphabet secret\|Alphabet secret]] (*Rôdeur*)
 [[Compétences/Braconnage\|Braconnage]] ou [[Compétences/Déplacement silencieux\|Déplacement silencieux]]
 [[Compétences/Dissimulation\|Dissimulation]]
-[[Fouille\|Fouille]] ou [[Natation\|Natation]]
+[[Compétences/Fouille\|Fouille]] ou [[Natation\|Natation]]
 [[Perception\|Perception]]
 [[Pistage\|Pistage]]
 [[Survie\|Survie]]

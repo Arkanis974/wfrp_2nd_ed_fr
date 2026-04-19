@@ -23,10 +23,10 @@ Dans les milieux criminels, force et brutalité sont des vertus appréciées et 
 
 ---
 ## 📚 Compétences
-[[Esquive\|Esquive]]
-[[Intimidation\|Intimidation]]
+[[Compétences/Esquive\|Esquive]]
+[[Compétences/Intimidation\|Intimidation]]
 [[Jambières de cuir\|Jambières de cuir]]
-[[Langage secret\|Langage secret]] (*langage des voleurs*)
+[[Compétences/Langage secret\|Langage secret]] (*langage des voleurs*)
 [[Résistance à l'alcool\|Résistance à l'alcool]]
 
 ---

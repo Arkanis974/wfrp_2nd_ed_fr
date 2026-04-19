@@ -27,8 +27,8 @@ Habituellement, les citoyens de l'[[Empire\|Empire]] n'ont pas véritablement le
 [[Compétences/Commérage\|Commérage]] ou [[Compétences/Connaissances académiques\|Connaissances académiques]] (*Histoire*)
 [[Compétences/Connaissances académiques\|Connaissances académiques]] (*Loi*) ou [[Compétences/Connaissances générales\|Connaissances générales]] (*Empire*) 
 [[Compétences/Dissimulation\|Dissimulation]]
-[[Langue\|Langue]] (*bretonnien* ou *tiléen*)
-[[Langue\|Langue]] (*reikspiel*) 
+[[Compétences/Langue\|Langue]] (*bretonnien* ou *tiléen*)
+[[Compétences/Langue\|Langue]] (*reikspiel*) 
 [[Lire/Écrire\|Lire/Écrire]] 
 [[Perception\|Perception]] 
 
