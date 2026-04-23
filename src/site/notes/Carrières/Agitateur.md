@@ -34,7 +34,7 @@ Habituellement, les citoyens de l'[[Empire\|Empire]] n'ont pas véritablement le
 
 ---
 ## ⚔️ Talents
-[[Combat de rue\|Combat de rue]] ou [[Sang-froid\|Sang-froid]] 
+[[Talents/Combat de rue\|Combat de rue]] ou [[Sang-froid\|Sang-froid]] 
 [[Éloquence\|Éloquence]] 
 [[Fuite\|Fuite]] 
 

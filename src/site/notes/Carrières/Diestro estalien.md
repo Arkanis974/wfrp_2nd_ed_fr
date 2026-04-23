@@ -33,9 +33,9 @@ Les [[Estalie\|Royaumes Estaliens]] se situent au sud-est de l'[[Empire\|Empire]
 
 ---
 ## ⚔️ Talents
-[[Combattant virevoltant\|Combattant virevoltant]] ou [[Réflexes éclair\|Réflexes éclair]]
-[[Coups précis\|Coups précis]] ou [[Sur ses gardes\|Sur ses gardes]]
-[[Coups puissants\|Coups puissants]]
+[[Talents/Combattant virevoltant\|Combattant virevoltant]] ou [[Réflexes éclair\|Réflexes éclair]]
+[[Talents/Coups précis\|Coups précis]] ou [[Sur ses gardes\|Sur ses gardes]]
+[[Talents/Coups puissants\|Coups puissants]]
 [[Maitrise\|Maitrise]] (*armes d'escrime*)
 
 ---

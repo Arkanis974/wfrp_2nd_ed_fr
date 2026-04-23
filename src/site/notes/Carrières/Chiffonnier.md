@@ -34,7 +34,7 @@ Les Chiffonniers sont des charognards qui vivent grâce aux déchets d'autrui. L
 
 ---
 ## ⚔️ Talents
-[[Code de la rue\|Code de la rue]] ou [[Sang-froid\|Sang-froid]]
+[[Talents/Code de la rue\|Code de la rue]] ou [[Sang-froid\|Sang-froid]]
 [[Dur à cuir\|Dur à cuir]] ou [[Résistance aux maladies\|Résistance aux maladies]]
 
 ---
