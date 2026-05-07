@@ -52,7 +52,7 @@ Cheval de selle avec selle et harnais
 ## 🚪 Évolution
 
 ### Accès
-[[Gardien tribal\|Gardien tribal]]
+[[Carrières/Gardien tribal\|Gardien tribal]]
 [[Messager\|Messager]]
 [[Patrouilleur\|Patrouilleur]]
 [[Soldat\|Soldat]]

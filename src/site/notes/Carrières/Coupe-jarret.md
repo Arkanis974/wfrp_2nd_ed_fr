@@ -54,7 +54,7 @@ Armure moyenne (*[[Gilet de mailles\|gilet de mailles]]* et *[[Gilet de cuir\|gi
 ### Débouchés
 [[Ancien prisonnier\|Ancien prisonnier]]
 [[Bourreau\|Bourreau]]
-[[Garde du corps\|Garde du corps]]
+[[Carrières/Garde du corps\|Garde du corps]]
 [[Gladiateur\|Gladiateur]]
 [[Mercenaire\|Mercenaire]]
 [[Racketteur\|Racketteur]]

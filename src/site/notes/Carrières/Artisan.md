@@ -48,14 +48,14 @@ Armure légère (*[[Gilet de cuir\|gilet de cuir]]*)
 [[Carrières/Bourgeois\|Bourgeois]]
 [[Carrières/Chirurgien barbier\|Chirurgien barbier]]
 [[Dilettante\|Dilettante]]
-[[Garde\|Garde]]
+[[Carrières/Garde\|Garde]]
 [[Mercanti\|Mercanti]]
 [[Paysan\|Paysan]]
 
 ### Débouchés
 [[Cartographe\|Cartographe]]
 [[Carrières/Émissaire elfe\|Émissaire elfe]]
-[[Fanatique\|Fanatique]]
+[[Carrières/Fanatique\|Fanatique]]
 [[Fermier\|Fermier]]
 [[Ingénieur\|Ingénieur]]
 [[Maitre artisan\|Maitre artisan]]

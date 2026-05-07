@@ -28,6 +28,12 @@
 [[Carrières/Éclaireur\|Éclaireur]]
 [[Carrières/Écuyer\|Écuyer]]
 [[Carrières/Émissaire elfe\|Émissaire elfe]]
+[[Carrières/Escroc\|Escroc]]
+[[Carrières/Étudiant\|Étudiant]]
+[[Carrières/Fanatique\|Fanatique]]
+[[Carrières/Garde\|Garde]]
+[[Carrières/Garde du corps\|Garde du corps]]
+[[Carrières/Gardien tribal\|Gardien tribal]]
 
 **Carrière avancée**
 *A venir*

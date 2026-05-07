@@ -74,14 +74,14 @@ Une au choix :
 
 ### Accès
 [[Dresseur d'animaux\|Dresseur d'animaux]]
-[[Escroc\|Escroc]]
+[[Carrières/Escroc\|Escroc]]
 [[Héraut\|Héraut]]
 [[Vagabond\|Vagabond]]
 [[Voleur\|Voleur]]
 
 ### Débouchés
 [[Charlatan\|Charlatan]]
-[[Escroc\|Escroc]]
+[[Carrières/Escroc\|Escroc]]
 [[Ménestrel\|Ménestrel]]
 [[Vagabond\|Vagabond]]
 [[Voleur\|Voleur]]

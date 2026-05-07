@@ -52,7 +52,7 @@ Nécessaire antipoison
 [[Carrières/Charbonnier\|Charbonnier]]
 [[Chasseur cornu\|Chasseur cornu]]
 [[Dresseur d'animaux\|Dresseur d'animaux]]
-[[Gardien tribal\|Gardien tribal]]
+[[Carrières/Gardien tribal\|Gardien tribal]]
 
 ### Débouchés
 [[Carrières/Charbonnier\|Charbonnier]]
@@ -60,7 +60,7 @@ Nécessaire antipoison
 [[Chevalier du Champ Verdoyant\|Chevalier du Champ Verdoyant]]
 [[Dresseur d'animaux\|Dresseur d'animaux]]
 [[Franc archer\|Franc archer]]
-[[Gardien tribal\|Gardien tribal]]
+[[Carrières/Gardien tribal\|Gardien tribal]]
 [[Mineur\|Mineur]]
 [[Pisteur\|Pisteur]]
 [[Sentinelle halfling\|Sentinelle halfling]]

@@ -51,7 +51,7 @@ Menottes
 
 ### Accès
 [[Carrières/Chasseur\|Chasseur]]
-[[Garde du corps\|Garde du corps]]
+[[Carrières/Garde du corps\|Garde du corps]]
 [[Gladiateur\|Gladiateur]]
 [[Kossar kislévite\|Kossar kislévite]]
 [[Mercenaire\|Mercenaire]]

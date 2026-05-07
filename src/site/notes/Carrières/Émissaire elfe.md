@@ -51,12 +51,12 @@ Accessoires de calligraphie
 
 ### Accès
 [[Carrières/Artisan\|Artisan]]
-[[Étudiant\|Étudiant]]
+[[Carrières/Étudiant\|Étudiant]]
 
 ### Débouchés
 [[Charlatan\|Charlatan]]
-[[Escroc\|Escroc]]
-[[Étudiant\|Étudiant]]
+[[Carrières/Escroc\|Escroc]]
+[[Carrières/Étudiant\|Étudiant]]
 [[Marchand\|Marchand]]
 [[Marin\|Marin]]
 [[Plaideur\|Plaideur]]
