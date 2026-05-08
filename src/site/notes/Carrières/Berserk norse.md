@@ -29,7 +29,7 @@ La [[Norsca\|Norsca]] est une contrée nordique austère et remplie de monstres 
 [[Compétences/Expression artistique\|Expression artistique]] (*Conteur*)
 [[Compétences/Intimidation\|Intimidation]]
 [[Compétences/Langue\|Langue]] (*Norse*)
-[[Natation\|Natation]]
+[[Compétences/Natation\|Natation]]
 [[Résistance à l'alcool\|Résistance à l'alcool]]
 
 ---

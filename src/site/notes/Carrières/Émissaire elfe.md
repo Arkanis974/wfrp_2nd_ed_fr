@@ -31,9 +31,9 @@ Les doyens des grandes familles marchandes [[Elfes\|elfes]] sont à des lieues d
 [[Compétences/Évaluation\|Évaluation]]
 [[Compétences/Langage secret\|Langage secret]] (*langage de guilde*)
 [[Compétences/Lire-Écrire\|Lire/Écrire]]
-[[Marchandage\|Marchandage]]
-[[Métier\|Métier]] (*marchand*)
-[[Natation\|Natation]]
+[[Compétences/Marchandage\|Marchandage]]
+[[Compétences/Métier\|Métier]] (*marchand*)
+[[Compétences/Natation\|Natation]]
 [[Perception\|Perception]]
 
 ---

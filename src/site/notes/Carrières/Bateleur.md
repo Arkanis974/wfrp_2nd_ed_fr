@@ -31,7 +31,7 @@ Acrobates, lanceurs de couteaux, hypnotiseurs, danseurs et ventriloques, l'[[Emp
  [[Compétences/Connaissances générales\|Connaissances générales]] (*Empire*)
  [[Compétences/Expression artistique\|Expression artistique]] (*deux au choix*)
  [[Compétences/Langue\|Langue]] (*Reikspiel*)
- [[Natation\|Natation]] **OU** [[Soins des animaux\|Soins des animaux]]
+ [[Compétences/Natation\|Natation]] **OU** [[Soins des animaux\|Soins des animaux]]
  [[Perception\|Perception]]
  Une au choix parmi :
  - [[Compétences/Baratin\|Baratin]]

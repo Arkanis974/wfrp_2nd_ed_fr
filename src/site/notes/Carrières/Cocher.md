@@ -24,7 +24,7 @@ Si l'[[Empire\|Empire]] est une puissante nation, ses terres sont loin d'être s
 ---
 ## 📚 Compétences
 [[Compétences/Alphabet secret\|Alphabet secret]] (*Rôdeur*)
-[[Compétences/Commérage\|Commérage]] ou [[Marchandage\|Marchandage]]
+[[Compétences/Commérage\|Commérage]] ou [[Compétences/Marchandage\|Marchandage]]
 [[Compétences/Conduite d'attelages\|Conduite d'attelages]]
 [[Compétences/Équitation\|Équitation]] ou [[Soins\|Soins]]
 [[Compétences/Langue\|Langue]] (*Bretonnien*, *Kislevien* ou *Tiléen*)

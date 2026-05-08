@@ -30,7 +30,7 @@ Les grandes villes de l'[[Empire\|Empire]] prenant de plus en plus d'importance,
 [[Compétences/Fouille\|Fouille]]
 [[Compétences/Langue\|Langue]] (*Bretonnien*, *Kislévien* ou *Tiléen*)
 [[Compétences/Langue\|Langue]] (*Reikspiel*)
-[[Marchandage\|Marchandage]]
+[[Compétences/Marchandage\|Marchandage]]
 [[Perception\|Perception]]
 
 ---

@@ -23,7 +23,7 @@ La collecte d'argent pour le compte du gouvernement est un travail ingrat, mais 
 
 ---
 ## 📚 Compétences
-[[Compétences/Commérage\|Commérage]] ou [[Marchandage\|Marchandage]]
+[[Compétences/Commérage\|Commérage]] ou [[Compétences/Marchandage\|Marchandage]]
 [[Compétences/Esquive\|Esquive]]
 [[Compétences/Évaluation\|Évaluation]]
 [[Compétences/Fouille\|Fouille]]

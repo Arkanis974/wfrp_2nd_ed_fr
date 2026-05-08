@@ -29,8 +29,8 @@ Les artisans sont des ouvriers expérimentés. Bien qu'ils se réunissent habitu
 [[Compétences/Évaluation\|Évaluation]]
 [[Compétences/Langage secret\|Langage secret]] (*langage de guilde*)
 [[Lire/Écrire\|Lire/Écrire]]
-[[Marchandage\|Marchandage]]
-[[Métier\|Métier]] (*deux au choix*)
+[[Compétences/Marchandage\|Marchandage]]
+[[Compétences/Métier\|Métier]] (*deux au choix*)
 [[Perception\|Perception]]
 
 ---

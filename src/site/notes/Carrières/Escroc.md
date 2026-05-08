@@ -26,7 +26,7 @@ Si les Escrocs avaient un proverbe, ce serait le suivant : ne travaille pas honn
 [[Compétences/Alphabet secret\|Alphabet secret]] (*voleur*) ou [[Compétences/Jeu\|Jeu]]
 [[Compétences/Baratin\|Baratin]]
 [[Compétences/Charisme\|Charisme]]
-[[Compétences/Commérage\|Commérage]] ou [[Marchandage\|Marchandage]]
+[[Compétences/Commérage\|Commérage]] ou [[Compétences/Marchandage\|Marchandage]]
 [[Compétences/Évaluation\|Évaluation]]
 [[Compétences/Expression artistique\|Expression artistique]] (*acteur* ou *conteur*)
 [[Compétences/Fouille\|Fouille]] ou [[Compétences/Langage secret\|Langage secret]] (*langage des voleurs*)

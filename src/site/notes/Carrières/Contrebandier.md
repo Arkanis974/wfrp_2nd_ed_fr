@@ -30,8 +30,8 @@ La plupart des routes et des mers du Vieux Monde sont soumises à des droits et 
 [[Compétences/Déplacement silencieux\|Déplacement silencieux]]
 [[Compétences/Évaluation\|Évaluation]]
 [[Compétences/Fouille\|Fouille]]
-[[Marchandage\|Marchandage]]
-[[Natation\|Natation]]
+[[Compétences/Marchandage\|Marchandage]]
+[[Compétences/Natation\|Natation]]
 [[Perception\|Perception]]
 
 ---

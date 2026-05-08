@@ -37,3 +37,7 @@
 [[Compétences/Langue\|Langue]]
 [[Compétences/Lecture sur les lèvres\|Lecture sur les lèvres]]
 [[Compétences/Lire-Écrire\|Lire/Écrire]]
+[[Compétences/Marchandage\|Marchandage]]
+[[Compétences/Métier\|Métier]]
+[[Compétences/Natation\|Natation]]
+[[Compétences/Navigation\|Navigation]]
