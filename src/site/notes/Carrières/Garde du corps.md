@@ -50,13 +50,13 @@ Armure légère (*[[Veste de cuir\|veste de cuir]]*)
 ### Accès
 [[Carrières/Coupe-jarret\|Coupe-jarret]]
 [[Carrières/Diestro estalien\|Diestro estalien]]
-[[Geôlier\|Geôlier]]
+[[Carrières/Geôlier\|Geôlier]]
 [[Mercenaire\|Mercenaire]]
 
 ### Débouchés
 [[Bourreau\|Bourreau]]
 [[Carrières/Chasseur de primes\|Chasseur de primes]]
-[[Geôlier\|Geôlier]]
+[[Carrières/Geôlier\|Geôlier]]
 [[Mercenaire\|Mercenaire]]
 [[Racketteur\|Racketteur]]
 [[Régisseur\|Régisseur]]

@@ -34,6 +34,8 @@
 [[Carrières/Garde\|Garde]]
 [[Carrières/Garde du corps\|Garde du corps]]
 [[Carrières/Gardien tribal\|Gardien tribal]]
+[[Carrières/Geôlier\|Geôlier]]
+[[Carrières/Gladiateur\|Gladiateur]]
 
 **Carrière avancée**
 *A venir*

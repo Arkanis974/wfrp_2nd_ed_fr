@@ -52,7 +52,7 @@ Menottes
 ### Accès
 [[Carrières/Chasseur\|Chasseur]]
 [[Carrières/Garde du corps\|Garde du corps]]
-[[Gladiateur\|Gladiateur]]
+[[Carrières/Gladiateur\|Gladiateur]]
 [[Kossar kislévite\|Kossar kislévite]]
 [[Mercenaire\|Mercenaire]]
 [[Sentinelle halfling\|Sentinelle halfling]]

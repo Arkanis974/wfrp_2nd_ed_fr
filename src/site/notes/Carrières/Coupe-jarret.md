@@ -55,6 +55,6 @@ Armure moyenne (*[[Gilet de mailles\|gilet de mailles]]* et *[[Gilet de cuir\|gi
 [[Ancien prisonnier\|Ancien prisonnier]]
 [[Bourreau\|Bourreau]]
 [[Carrières/Garde du corps\|Garde du corps]]
-[[Gladiateur\|Gladiateur]]
+[[Carrières/Gladiateur\|Gladiateur]]
 [[Mercenaire\|Mercenaire]]
 [[Racketteur\|Racketteur]]

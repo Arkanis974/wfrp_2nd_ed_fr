@@ -64,7 +64,7 @@ Outre
 ### Débouchés
 [[Carrières/Contrebandier\|Contrebandier]]
 [[Égoutier\|Égoutier]]
-[[Gladiateur\|Gladiateur]]
+[[Carrières/Gladiateur\|Gladiateur]]
 [[Pilleur de tombes\|Pilleur de tombes]]
 [[Porterune\|Porterune]]
 [[Sergent\|Sergent]]

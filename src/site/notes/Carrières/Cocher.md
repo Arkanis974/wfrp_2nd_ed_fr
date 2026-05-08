@@ -41,7 +41,7 @@ Si l'[[Empire\|Empire]] est une puissante nation, ses terres sont loin d'être s
 ---
 ## 🎒 Dotations
 Tromblon avec poudre et munitions pour 10 tirs
-Armure moyenne (*[[Gilet de mailles]\|gilet de mailles]]* et *[[Veste de cuir\|veste de cuir]]*)
+Armure moyenne (*[[Gilet de mailles\|gilet de mailles]]* et *[[Veste de cuir\|veste de cuir]]*)
 Instrument de musique (*Corne de cocher*)
 
 ---

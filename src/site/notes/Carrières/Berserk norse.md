@@ -52,7 +52,7 @@ Arme à deux mains ou Bouclier
 Aucun
 
 ### Débouchés
-[[Gladiateur\|Gladiateur]]
+[[Carrières/Gladiateur\|Gladiateur]]
 [[Marin\|Marin]]
 [[Mercenaire\|Mercenaire]]
 [[Sergent\|Sergent]]

@@ -50,7 +50,7 @@ Uniforme
 
 ### Accès
 [[Égoutier\|Égoutier]]
-[[Geôlier\|Geôlier]]
+[[Carrières/Geôlier\|Geôlier]]
 [[Soldat\|Soldat]]
 
 ### Débouchés
