@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/listes-des-talents/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/listes-des-talents/","contentClasses":"ma-classe-perso","dg-note-properties":{}}
 ---
 
 # Liste des talents
