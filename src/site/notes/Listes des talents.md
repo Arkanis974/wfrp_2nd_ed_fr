@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/listes-des-talents/","contentClasses":"ma-classe-perso","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/listes-des-talents/","dg-note-properties":{}}
 ---
 
-# Liste des talents (test)
+# Liste des talents
 ---
 [[Talents/Acrobatie équestre\|Acrobatie équestre]]
 [[Talents/Acuité auditive\|Acuité auditive]]
