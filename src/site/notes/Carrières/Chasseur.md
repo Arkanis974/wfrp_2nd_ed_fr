@@ -17,7 +17,7 @@ Bien que l'[[Empire\|Empire]] soit loin des tribus qui le fondèrent il y a 2 50
 |             —              |          +15%           |      —       |       +5%        |      +10%       |          +5%          |           —           |          —           |
 ### Profil secondaire
 
-| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Points de blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +3        |           —            |             —             |        —         |       —        |            —            |           —            |
 
@@ -27,9 +27,9 @@ Bien que l'[[Empire\|Empire]] soit loin des tribus qui le fondèrent il y a 2 50
 [[Compétences/Braconnage\|Braconnage]] ou [[Compétences/Déplacement silencieux\|Déplacement silencieux]]
 [[Compétences/Dissimulation\|Dissimulation]]
 [[Compétences/Fouille\|Fouille]] ou [[Compétences/Natation\|Natation]]
-[[Perception\|Perception]]
-[[Pistage\|Pistage]]
-[[Survie\|Survie]]
+[[Compétences/Perception\|Perception]]
+[[Compétences/Pistage\|Pistage]]
+[[Compétences/Survie\|Survie]]
 
 ---
 ## ⚔️ Talents

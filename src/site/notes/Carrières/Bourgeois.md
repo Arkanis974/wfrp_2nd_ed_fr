@@ -17,7 +17,7 @@ Les grandes villes de l'[[Empire\|Empire]] prenant de plus en plus d'importance,
 |            +5%             |            —            |      —       |        —         |       +5%       |         +10%          |          +5%          |         +5%          |
 ### Profil secondaire
 
-| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Points de blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
 
@@ -25,13 +25,13 @@ Les grandes villes de l'[[Empire\|Empire]] prenant de plus en plus d'importance,
 ## 📚 Compétences
 [[Compétences/Commérage\|Commérage]] ou [[Lire/Écrire\|Lire/Écrire]]
 [[Compétences/Conduite d'attelages\|Conduite d'attelages]]
-[[Compétences/Connaissances générales\|Connaissances générales]] (*Empire*) ou [[Résistance à l'alcool\|Résistance à l'alcool]]
+[[Compétences/Connaissances générales\|Connaissances générales]] (*Empire*) ou [[Compétences/Résistance à l'alcool\|Résistance à l'alcool]]
 [[Compétences/Évaluation\|Évaluation]]
 [[Compétences/Fouille\|Fouille]]
 [[Compétences/Langue\|Langue]] (*Bretonnien*, *Kislévien* ou *Tiléen*)
 [[Compétences/Langue\|Langue]] (*Reikspiel*)
 [[Compétences/Marchandage\|Marchandage]]
-[[Perception\|Perception]]
+[[Compétences/Perception\|Perception]]
 
 ---
 ## ⚔️ Talents

@@ -16,7 +16,7 @@
 
 ### Profil secondaire
 [[Caractéristiques/Profil secondaire/Attaques\|Attaques]]
-[[Caractéristiques/Profil secondaire/Blessures\|Blessures]]
+[[Caractéristiques/Profil secondaire/Points de blessures\|Points de blessures]]
 [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|Bonus d'Endurance]]
 [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|Bonus d'Endurance]]
 [[Caractéristiques/Profil secondaire/Magie\|Magie]]

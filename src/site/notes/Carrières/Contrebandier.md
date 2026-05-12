@@ -17,7 +17,7 @@ La plupart des routes et des mers du Vieux Monde sont soumises à des droits et 
 |            +5%             |           +5%           |      —       |        —         |      +10%       |         +10%          |           —           |         +10%         |
 ### Profil secondaire
 
-| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Points de blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
 
@@ -32,7 +32,7 @@ La plupart des routes et des mers du Vieux Monde sont soumises à des droits et 
 [[Compétences/Fouille\|Fouille]]
 [[Compétences/Marchandage\|Marchandage]]
 [[Compétences/Natation\|Natation]]
-[[Perception\|Perception]]
+[[Compétences/Perception\|Perception]]
 
 ---
 ## ⚔️ Talents

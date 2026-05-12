@@ -17,7 +17,7 @@ Si les Escrocs avaient un proverbe, ce serait le suivant : ne travaille pas honn
 |            +5%             |           +5%           |      —       |        —         |      +10%       |          +5%          |          +5%          |         +10%         |
 ### Profil secondaire
 
-| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Points de blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
 
@@ -31,7 +31,7 @@ Si les Escrocs avaient un proverbe, ce serait le suivant : ne travaille pas honn
 [[Compétences/Expression artistique\|Expression artistique]] (*acteur* ou *conteur*)
 [[Compétences/Fouille\|Fouille]] ou [[Compétences/Langage secret\|Langage secret]] (*langage des voleurs*)
 [[Compétences/Langue\|Langue]] (*reikspiel*)
-[[Perception\|Perception]]
+[[Compétences/Perception\|Perception]]
 
 ---
 ## ⚔️ Talents

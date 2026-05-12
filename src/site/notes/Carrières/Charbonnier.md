@@ -17,7 +17,7 @@ On trouve des Charbonniers dans tous les villages de l'[[Empire\|Empire]]. Ils b
 |            +5%             |            —            |     +5%      |       +5%        |       +5%       |          +5%          |          +5%          |         +5%          |
 ### Profil secondaire
 
-| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Points de blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
 
@@ -29,8 +29,8 @@ On trouve des Charbonniers dans tous les villages de l'[[Empire\|Empire]]. Ils b
 [[Compétences/Escalade\|Escalade]]
 [[Compétences/Fouille\|Fouille]]
 [[Compétences/Marchandage\|Marchandage]]
-[[Perception\|Perception]]
-[[Survie\|Survie]]
+[[Compétences/Perception\|Perception]]
+[[Compétences/Survie\|Survie]]
 
 ---
 ## ⚔️ Talents

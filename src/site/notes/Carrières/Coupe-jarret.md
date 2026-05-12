@@ -17,7 +17,7 @@ Dans les milieux criminels, force et brutalité sont des vertus appréciées et 
 |            +10%            |            —            |     +5%      |       +5%        |        —        |           —           |          +5%          |         +5%          |
 ### Profil secondaire
 
-| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Points de blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |       +1        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
 
@@ -27,7 +27,7 @@ Dans les milieux criminels, force et brutalité sont des vertus appréciées et 
 [[Compétences/Intimidation\|Intimidation]]
 [[Jambières de cuir\|Jambières de cuir]]
 [[Compétences/Langage secret\|Langage secret]] (*langage des voleurs*)
-[[Résistance à l'alcool\|Résistance à l'alcool]]
+[[Compétences/Résistance à l'alcool\|Résistance à l'alcool]]
 
 ---
 ## ⚔️ Talents

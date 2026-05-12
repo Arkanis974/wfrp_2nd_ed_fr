@@ -17,21 +17,21 @@ Les cours d'eau de l'[[Empire\|Empire]] sont des voies de communication et de co
 |            +10%            |           +5%           |     +5%      |       +5%        |      +10%       |          +5%          |           —           |          —           |
 ### Profil secondaire
 
-| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
-| :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
-|        —        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Points de blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
+| :-------------: | :------------------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
+|        —        |             +2             |           —            |             —             |        —         |       —        |            —            |           —            |
 
 ---
 ## 📚 Compétences
 [[Compétences/Canotage\|Canotage]]
-[[Compétences/Commérage\|Commérage]] **OU** [[Résistance à l'alcool\|Résistance à l'alcool]]
+[[Compétences/Commérage\|Commérage]] **OU** [[Compétences/Résistance à l'alcool\|Résistance à l'alcool]]
 [[Compétences/Connaissances générales\|Connaissances générales]] (*Empire* ou *Kislev*)
 [[Compétences/Langage secret\|Langage secret]] (*Langage des rôdeurs*) ou [[Compétences/Langue\|Langue]] (*Kislévien*)
 [[Compétences/Natation\|Natation]]
 [[Compétences/Navigation\|Navigation]]
-[[Orientation\|Orientation]]
-[[Perception\|Perception]]
-[[Survie\|Survie]]
+[[Compétences/Orientation\|Orientation]]
+[[Compétences/Perception\|Perception]]
+[[Compétences/Survie\|Survie]]
 
 ---
 ## ⚔️ Talents

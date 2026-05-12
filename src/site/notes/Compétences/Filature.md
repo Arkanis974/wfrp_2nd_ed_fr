@@ -8,4 +8,4 @@
 **Caractéristique :** [[Caractéristiques/Profil principal/Agilité\|Agilité]]
 **Talents liés :** Aucun
 ## 📜 Description
-Cette compétence permet de suivre autrui sans être vu. La Filature est souvent opposé à la [[Perception\|Perception]] de l'adversaire.
+Cette compétence permet de suivre autrui sans être vu. La Filature est souvent opposé à la [[Compétences/Perception\|Perception]] de l'adversaire.

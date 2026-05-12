@@ -18,20 +18,20 @@ Les artisans sont des ouvriers expérimentés. Bien qu'ils se réunissent habitu
 |             —              |            —            |     +5%      |       +5%        |      +10%       |          +5%          |         +10%          |          —           |
 ### Profil secondaire
 
-| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Points de blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
 
 ---
 ## 📚 Compétences
-[[Compétences/Commérage\|Commérage]] ou [[Soins des animaux\|Soins des animaux]]
+[[Compétences/Commérage\|Commérage]] ou [[Compétences/Soins des animaux\|Soins des animaux]]
 [[Compétences/Conduite d'attelages\|Conduite d'attelages]]
 [[Compétences/Évaluation\|Évaluation]]
 [[Compétences/Langage secret\|Langage secret]] (*langage de guilde*)
 [[Lire/Écrire\|Lire/Écrire]]
 [[Compétences/Marchandage\|Marchandage]]
 [[Compétences/Métier\|Métier]] (*deux au choix*)
-[[Perception\|Perception]]
+[[Compétences/Perception\|Perception]]
 
 ---
 ## ⚔️ Talents

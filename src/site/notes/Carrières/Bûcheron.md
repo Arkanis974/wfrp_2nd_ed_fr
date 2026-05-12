@@ -17,19 +17,19 @@ Les Bûcherons vivent dans les vastes forêts de l'[[Empire\|Empire]] et abatten
 |            +10%            |            —            |     +10%     |        —         |       +5%       |           —           |         +10%          |          —           |
 ### Profil secondaire
 
-| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Points de blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +3        |           —            |             —             |        —         |       —        |            —            |           —            |
 
 ---
 ## 📚 Compétences
 [[Compétences/Alphabet secret\|Alphabet secret]] (*Rôdeur*)
-[[Compétences/Braconnage\|Braconnage]] ou [[Pistage\|Pistage]]
+[[Compétences/Braconnage\|Braconnage]] ou [[Compétences/Pistage\|Pistage]]
 [[Compétences/Déplacement silencieux\|Déplacement silencieux]]
 [[Compétences/Dissimulation\|Dissimulation]]
 [[Compétences/Escalade\|Escalade]]
 [[Compétences/Langage secret\|Langage secret]] (*Langue des rôdeurs*)
-[[Perception\|Perception]]
+[[Compétences/Perception\|Perception]]
 
 ---
 ## ⚔️ Talents

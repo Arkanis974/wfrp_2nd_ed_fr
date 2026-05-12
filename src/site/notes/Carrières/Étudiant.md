@@ -17,20 +17,20 @@ Les grandes villes de l'[[Empire\|Empire]] abritent un certain nombre d'universi
 |             —              |            —            |      —       |        —         |      +10%       |         +10%          |          +5%          |         +10%         |
 ### Profil secondaire
 
-| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Points de blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
 
 ---
 ## 📚 Compétences
-[[Compétences/Charisme\|Charisme]] ou [[Résistance à l'alcool\|Résistance à l'alcool]]
+[[Compétences/Charisme\|Charisme]] ou [[Compétences/Résistance à l'alcool\|Résistance à l'alcool]]
 [[Compétences/Commérage\|Commérage]] ou [[Compétences/Connaissances académiques\|Connaissances académiques]] (une au choix)
 [[Compétences/Connaissances académiques\|Connaissances académiques]] (une au choix)
-[[Compétences/Fouille\|Fouille]] ou [[Soins\|Soins]]
+[[Compétences/Fouille\|Fouille]] ou [[Compétences/Soins\|Soins]]
 [[Compétences/Langue\|Langue]] (*classique*)
 [[Compétences/Langue\|Langue]] (*reikspiel*)
 [[Compétences/Lire-Écrire\|Lire-Écrire]]
-[[Perception\|Perception]]
+[[Compétences/Perception\|Perception]]
 
 ---
 ## ⚔️ Talents

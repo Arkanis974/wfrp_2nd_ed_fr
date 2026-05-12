@@ -17,7 +17,7 @@ Selon les habitant du [[Vieux Monde\|Vieux Monde]], les marchands d'[[Altdorf\|A
 |            +10%            |            —            |     +5%      |       +5%        |       +5%       |           —           |           —           |          —           |
 ### Profil secondaire
 
-| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Points de blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |       +1        |        +3        |           —            |             —             |        —         |       —        |            —            |           —            |
 
@@ -25,8 +25,8 @@ Selon les habitant du [[Vieux Monde\|Vieux Monde]], les marchands d'[[Altdorf\|A
 ## 📚 Compétences
 [[Compétences/Esquive\|Esquive]]
 [[Compétences/Intimidation\|Intimidation]]
-[[Perception\|Perception]]
-[[Soins\|Soins]]
+[[Compétences/Perception\|Perception]]
+[[Compétences/Soins\|Soins]]
 
 ---
 ## ⚔️ Talents

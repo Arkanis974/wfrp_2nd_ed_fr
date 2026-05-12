@@ -17,7 +17,7 @@ Si l'[[Empire\|Empire]] est une puissante nation, ses terres sont loin d'être s
 |            +5%             |          +10%           |      —       |        —         |      +10%       |           —           |          +5%          |         +5%          |
 ### Profil secondaire
 
-| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Points de blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
 
@@ -26,11 +26,11 @@ Si l'[[Empire\|Empire]] est une puissante nation, ses terres sont loin d'être s
 [[Compétences/Alphabet secret\|Alphabet secret]] (*Rôdeur*)
 [[Compétences/Commérage\|Commérage]] ou [[Compétences/Marchandage\|Marchandage]]
 [[Compétences/Conduite d'attelages\|Conduite d'attelages]]
-[[Compétences/Équitation\|Équitation]] ou [[Soins\|Soins]]
+[[Compétences/Équitation\|Équitation]] ou [[Compétences/Soins\|Soins]]
 [[Compétences/Langue\|Langue]] (*Bretonnien*, *Kislevien* ou *Tiléen*)
-[[Orientation\|Orientation]]
-[[Perception\|Perception]]
-[[Soins des animaux\|Soins des animaux]]
+[[Compétences/Orientation\|Orientation]]
+[[Compétences/Perception\|Perception]]
+[[Compétences/Soins des animaux\|Soins des animaux]]
 
 ---
 ## ⚔️ Talents

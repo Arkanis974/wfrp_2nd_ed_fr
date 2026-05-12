@@ -19,7 +19,7 @@ Acrobates, lanceurs de couteaux, hypnotiseurs, danseurs et ventriloques, l'[[Emp
 |            +5%             |          +10%           |      —       |        —         |      +10%       |           —           |          +5%          |         +10%         |
 ### Profil secondaire
 
-| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
+| [[Caractéristiques/Profil secondaire/Attaques\|A]] | [[Caractéristiques/Profil secondaire/Points de blessures\|B]] | [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]] | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]] | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] | [[Caractéristiques/Profil secondaire/Point de Destin\|PD]] | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
 | :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
 |        —        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
 
@@ -31,8 +31,8 @@ Acrobates, lanceurs de couteaux, hypnotiseurs, danseurs et ventriloques, l'[[Emp
  [[Compétences/Connaissances générales\|Connaissances générales]] (*Empire*)
  [[Compétences/Expression artistique\|Expression artistique]] (*deux au choix*)
  [[Compétences/Langue\|Langue]] (*Reikspiel*)
- [[Compétences/Natation\|Natation]] **OU** [[Soins des animaux\|Soins des animaux]]
- [[Perception\|Perception]]
+ [[Compétences/Natation\|Natation]] **OU** [[Compétences/Soins des animaux\|Soins des animaux]]
+ [[Compétences/Perception\|Perception]]
  Une au choix parmi :
  - [[Compétences/Baratin\|Baratin]]
  - [[Compétences/Emprise sur les animaux\|Emprise sur les animaux]]
@@ -41,7 +41,7 @@ Acrobates, lanceurs de couteaux, hypnotiseurs, danseurs et ventriloques, l'[[Emp
  - [[Compétences/Escalade\|Escalade]]
  - [[Compétences/Escamotage\|Escamotage]]
  - [[Compétences/Hypnotisme\|Hypnotisme]]
- - [[Ventriloquie\|Ventriloquie]]  
+ - [[Compétences/Ventriloquie\|Ventriloquie]]  
 
 ---
 ## ⚔️ Talents

@@ -8,4 +8,4 @@
 **Caractéristique :** [[Caractéristiques/Profil principal/Agilité\|Agilité]]
 **Talents liés :** [[Talents/Camouflage rural\|Camouflage rural]], [[Talents/Camouflage souterrain\|Camouflage souterrain]], [[Talents/Camouflage urbain\|Camouflage urbain]]
 ## 📜 Description
-Cette compétence est utilisée pour se déplacer discrètement. Un personnage utilisant cette compétence ne peut rien faire qu'une action de mouvement au cours d'un round. Le test de Déplacement silencieux est souvent opposé à un test de [[Perception\|Perception]] de l'adversaire.
+Cette compétence est utilisée pour se déplacer discrètement. Un personnage utilisant cette compétence ne peut rien faire qu'une action de mouvement au cours d'un round. Le test de Déplacement silencieux est souvent opposé à un test de [[Compétences/Perception\|Perception]] de l'adversaire.
