@@ -32,8 +32,8 @@ Dans les milieux criminels, force et brutalité sont des vertus appréciées et 
 ---
 ## ⚔️ Talents
 [[Talents/Coups assommants\|Coups assommants]]
-[[Talents/Coups précis\|Coups précis]] ou [[Lutte\|Lutte]]
-[[Désarmement\|Désarmement]]
+[[Talents/Coups précis\|Coups précis]] ou [[Talents/Lutte\|Lutte]]
+[[Talents/Désarmement\|Désarmement]]
 [[Réflexes éclair\|Réflexes éclair]] ou [[Sang-froid\|Sang-froid]]
 [[Résistance aux poisons\|Résistance aux poisons]] ou [[Sur ses gardes\|Sur ses gardes]]
 

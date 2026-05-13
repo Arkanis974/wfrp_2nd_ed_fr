@@ -38,7 +38,7 @@ Les doyens des grandes familles marchandes [[Elfes\|elfes]] sont à des lieues d
 
 ---
 ## ⚔️ Talents
-[[Dur en affaires\|Dur en affaires]] ou [[Grand voyageur\|Grand voyageur]]
+[[Talents/Dur en affaires\|Dur en affaires]] ou [[Talents/Grand voyageur\|Grand voyageur]]
 
 ---
 ## 🎒 Dotations

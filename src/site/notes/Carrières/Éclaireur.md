@@ -34,7 +34,7 @@ Les Éclaireurs sont habitués à évoluer en extérieur et effectuent des missi
 
 ---
 ## ⚔️ Talents
-[[Force accrue\|Force accrue]] ou [[Sang-froid\|Sang-froid]]
+[[Talents/Force accrue\|Force accrue]] ou [[Sang-froid\|Sang-froid]]
 [[Maitrise\|Maitrise]] (*armes paralysantes*)
 [[Sens de l'orientation\|Sens de l'orientation]]
 

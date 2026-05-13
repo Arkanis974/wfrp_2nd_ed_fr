@@ -35,7 +35,7 @@ Les cours d'eau de l'[[Empire\|Empire]] sont des voies de communication et de co
 
 ---
 ## ⚔️ Talents
-[[Grand voyageur\|Grand voyageur]]
+[[Talents/Grand voyageur\|Grand voyageur]]
 [[Sens de l'orientation\|Sens de l'orientation]]
 
 ---

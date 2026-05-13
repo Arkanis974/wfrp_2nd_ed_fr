@@ -37,7 +37,7 @@ Certains [[Elfes\|elfes]] vivent dans des clairières reculées, au sein de gran
 ---
 ## ⚔️ Talents
 [[Talents/Camouflage rural\|Camouflage rural]] ou [[Tireur d'élite\|Tireur d'élite]]
-[[Guerrier né\|Guerrier né]] ou [[Rechargement rapide\|Rechargement rapide]]
+[[Talents/Guerrier né\|Guerrier né]] ou [[Rechargement rapide\|Rechargement rapide]]
 
 ---
 ## 🎒 Dotations

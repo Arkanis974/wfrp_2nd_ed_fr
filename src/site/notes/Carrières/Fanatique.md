@@ -31,9 +31,9 @@ Les Fanatiques ont tout perdu. Peut-être leur famille a-t-elle été massacrée
 
 ---
 ## ⚔️ Talents
-[[Dur à cuir\|Dur à cuir]] ou [[Sociable\|Sociable]]
-[[Éloquence\|Éloquence]]
-[[Force accrue\|Force accrue]] ou [[Sang-froid\|Sang-froid]]
+[[Talents/Dur à cuire\|Dur à cuire]] ou [[Sociable\|Sociable]]
+[[Talents/Éloquence\|Éloquence]]
+[[Talents/Force accrue\|Force accrue]] ou [[Sang-froid\|Sang-froid]]
 [[Maitrise\|Maitrise]] (*fléaux*)
 
 ---

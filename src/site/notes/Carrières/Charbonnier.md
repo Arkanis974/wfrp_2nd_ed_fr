@@ -34,8 +34,8 @@ On trouve des Charbonniers dans tous les villages de l'[[Empire\|Empire]]. Ils b
 
 ---
 ## ⚔️ Talents
-[[Force accrue\|Force accrue]] ou [[Intelligent\|Intelligent]]
-[[Fuite\|Fuite]]
+[[Talents/Force accrue\|Force accrue]] ou [[Talents/Intelligent\|Intelligent]]
+[[Talents/Fuite\|Fuite]]
 
 ---
 ## 🎒 Dotations

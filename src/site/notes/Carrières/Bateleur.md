@@ -49,10 +49,10 @@ Acrobates, lanceurs de couteaux, hypnotiseurs, danseurs et ventriloques, l'[[Emp
 Deux au choix :
 - [[Talents/Acrobatie équestre\|Acrobatie équestre]]
 - [[Talents/Adresse au tir\|Adresse au tir]]
-- [[Éloquence\|Éloquence]]
-- [[Force accrue\|Force accrue]]
-- [[Imitation\|Imitation]]
-- [[Lutte\|Lutte]]
+- [[Talents/Éloquence\|Éloquence]]
+- [[Talents/Force accrue\|Force accrue]]
+- [[Talents/Imitation\|Imitation]]
+- [[Talents/Lutte\|Lutte]]
 - [[Maitrise\|Maitrise]] (*armes de jet*)
 - [[Réflexes éclair\|Réflexes éclair]]
 - [[Sur ses gardes\|Sur ses gardes]]

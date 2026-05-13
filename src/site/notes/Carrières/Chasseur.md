@@ -34,7 +34,7 @@ Bien que l'[[Empire\|Empire]] soit loin des tribus qui le fondèrent il y a 2 50
 ---
 ## ⚔️ Talents
 [[Talents/Camouflage rural\|Camouflage rural]] ou [[Tireur d'élite\|Tireur d'élite]]
-[[Dur à cuir\|Dur à cuir]] ou [[Maitrise\|Maitrise]] (*Arcs longs*)
+[[Talents/Dur à cuire\|Dur à cuire]] ou [[Maitrise\|Maitrise]] (*Arcs longs*)
 [[Rechargement rapide\|Rechargement rapide]]
 [[Réflexes éclair\|Réflexes éclair]] ou [[Résistance accrue\|Résistance accrue]]
 

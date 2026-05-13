@@ -34,7 +34,7 @@ Si l'[[Empire\|Empire]] est une puissante nation, ses terres sont loin d'être s
 
 ---
 ## ⚔️ Talents
-[[Grand voyageur\|Grand voyageur]] ou [[Sur ses gardes\|Sur ses gardes]]
+[[Talents/Grand voyageur\|Grand voyageur]] ou [[Sur ses gardes\|Sur ses gardes]]
 [[Maitrise\|Maitrise]] (*Armes à feu*)
 
 

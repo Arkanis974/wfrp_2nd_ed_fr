@@ -36,7 +36,7 @@ La plupart des routes et des mers du Vieux Monde sont soumises à des droits et 
 
 ---
 ## ⚔️ Talents
-[[Talents/Code de la rue\|Code de la rue]] ou [[Dur en affaires\|Dur en affaires]]
+[[Talents/Code de la rue\|Code de la rue]] ou [[Talents/Dur en affaires\|Dur en affaires]]
 
 ---
 ## 🎒 Dotations

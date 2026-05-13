@@ -39,7 +39,7 @@ La collecte d'argent pour le compte du gouvernement est un travail ingrat, mais 
 ## 🎒 Dotations
 Coffre
 Arbalète et 10 carreaux
-Armure moyenne (*[[Gilet de mailles]\|gilet de mailles]]* et *[[Gilet de cuir\|gilet de cuir]]*)
+Armure moyenne (*[[Gilet de mailles\|gilet de mailles]]* et *[[Gilet de cuir\|gilet de cuir]]*)
 Bouclier
 1d10 [[Couronnes d'or\|co]]
 

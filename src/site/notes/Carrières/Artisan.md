@@ -35,7 +35,7 @@ Les artisans sont des ouvriers expérimentés. Bien qu'ils se réunissent habitu
 
 ---
 ## ⚔️ Talents
-[[Dur en affaires\|Dur en affaires]] ou [[Intelligent\|Intelligent]]
+[[Talents/Dur en affaires\|Dur en affaires]] ou [[Talents/Intelligent\|Intelligent]]
 
 ---
 ## 🎒 Dotations

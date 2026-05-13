@@ -32,8 +32,8 @@ Selon les habitant du [[Vieux Monde\|Vieux Monde]], les marchands d'[[Altdorf\|A
 ## ⚔️ Talents
 [[Talents/Combat de rue\|Combat de rue]]
 [[Talents/Coups assommants\|Coups assommants]]
-[[Désarmement\|Désarmement]] ou [[Sur ses gardes\|Sur ses gardes]]
-[[Force accrue\|Force accrue]] ou [[Résistance accrue\|Résistance accrue]]
+[[Talents/Désarmement\|Désarmement]] ou [[Sur ses gardes\|Sur ses gardes]]
+[[Talents/Force accrue\|Force accrue]] ou [[Résistance accrue\|Résistance accrue]]
 [[Maitrise\|Maitrise]] (*armes de jet*)
 [[Maitrise\|Maitrise]] (*armes de parade*)
 
