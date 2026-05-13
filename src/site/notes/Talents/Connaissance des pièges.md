@@ -7,3 +7,5 @@
 
 ## 📜 Description
 Vous êtes expert un pièges. Vous bénéficiez d'un bonus de *+10%* aux tests de [[Compétences/Crochetage\|Crochetage]] et de [[Compétences/Perception\|Perception]] liés à la localisation et au désamorçage des pièges.
+
+*Note - Règle maison : Le bonus s'applique également aux tests de [[Compétences/Fouille\|Fouille]] liés à la recherche de pièges.*
