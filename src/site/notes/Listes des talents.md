@@ -46,3 +46,7 @@
 [[Talents/Lévitation\|Lévitation]]
 [[Talents/Linguistique\|Linguistique]]
 [[Talents/Lutte\|Lutte]]
+[[Talents/Magie commune\|Magie commune]]
+[[Talents/Magie mineure\|Magie mineure]]
+[[Talents/Magie noire\|Magie noire]]
+[[Talents/Magie vulgaire\|Magie vulgaire]]
