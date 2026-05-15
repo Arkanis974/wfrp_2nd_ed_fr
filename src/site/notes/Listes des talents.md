@@ -50,3 +50,4 @@
 [[Talents/Magie mineure\|Magie mineure]]
 [[Talents/Magie noire\|Magie noire]]
 [[Talents/Magie vulgaire\|Magie vulgaire]]
+[[Talents/Mains agiles\|Mains agiles]]
