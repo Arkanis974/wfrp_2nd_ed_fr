@@ -32,9 +32,9 @@ Selon les rumeurs, le sport auquel les Gladiateurs se livrent trouverait son ori
 [[Talents/Coups puissants\|Coups puissants]]
 [[Talents/Désarmement\|Désarmement]] ou [[Talents/Lutte\|Lutte]]
 [[Talents/Force accrue\|Force accrue]] ou [[Sain d'esprit\|Sain d'esprit]]
-[[Maitrise\|Maitrise]] (*armes lourdes*)
-[[Maitrise\|Maitrise]] (*armes de parade*)
-[[Maitrise\|Maitrise]] (*fléaux*)
+[[Talents/Maitrise\|Maitrise]] (*armes lourdes*)
+[[Talents/Maitrise\|Maitrise]] (*armes de parade*)
+[[Talents/Maitrise\|Maitrise]] (*fléaux*)
 
 ---
 ## 🎒 Dotations

@@ -53,8 +53,8 @@ Deux au choix :
 - [[Talents/Force accrue\|Force accrue]]
 - [[Talents/Imitation\|Imitation]]
 - [[Talents/Lutte\|Lutte]]
-- [[Maitrise\|Maitrise]] (*armes de jet*)
-- [[Réflexes éclair\|Réflexes éclair]]
+- [[Talents/Maitrise\|Maitrise]] (*armes de jet*)
+- [[Talents/Réflexes éclair\|Réflexes éclair]]
 - [[Sur ses gardes\|Sur ses gardes]]
 
 ---

@@ -34,7 +34,7 @@ L'[[Empire\|Empire]] est un état de droit, ce qui signifie qu'il abrite de nomb
 ---
 ## ⚔️ Talents
 [[Talents/Lutte\|Lutte]]
-[[Maitrise\|Maitrise]] (*armes paralysantes*)
+[[Talents/Maitrise\|Maitrise]] (*armes paralysantes*)
 [[Résistance aux maladies\|Résistance aux maladies]]
 [[Résistance aux poisons\|Résistance aux poisons]]
 

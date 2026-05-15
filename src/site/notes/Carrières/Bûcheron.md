@@ -34,8 +34,8 @@ Les Bûcherons vivent dans les vastes forêts de l'[[Empire\|Empire]] et abatten
 ---
 ## ⚔️ Talents
 [[Talents/Camouflage rural\|Camouflage rural]]
-[[Talents/Course à pied\|Course à pied]] ou [[Résistance accrue\|Résistance accrue]]
-[[Maitrise\|Maitrise]] (*Armes lourdes*)
+[[Talents/Course à pied\|Course à pied]] ou [[Talents/Résistance accrue\|Résistance accrue]]
+[[Talents/Maitrise\|Maitrise]] (*Armes lourdes*)
 
 ---
 ## 🎒 Dotations

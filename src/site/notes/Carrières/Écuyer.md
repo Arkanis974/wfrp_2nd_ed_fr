@@ -37,7 +37,7 @@ Les Écuyers sont des chevaliers en cours de formation. Souvent de noble extract
 ## ⚔️ Talents
 [[Talents/Coups puissants\|Coups puissants]]
 [[Talents/Étiquette\|Étiquette]]
-[[Maitrise\|Maitrise]] (*armes de cavalerie*)
+[[Talents/Maitrise\|Maitrise]] (*armes de cavalerie*)
 
 ---
 ## 🎒 Dotations
