@@ -33,7 +33,7 @@ La collecte d'argent pour le compte du gouvernement est un travail ingrat, mais 
 
 ---
 ## ⚔️ Talents
-[[Talents/Réflexes éclair\|Réflexes éclair]] ou [[Tireur d'élite\|Tireur d'élite]]
+[[Talents/Réflexes éclair\|Réflexes éclair]] ou [[Talents/Tireur d'élite\|Tireur d'élite]]
 
 ---
 ## 🎒 Dotations

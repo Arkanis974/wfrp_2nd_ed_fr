@@ -6,7 +6,7 @@
 **Source :** Livre de base p.95 / Core Rulebook p.96 *Trade*
 **Type :** Compétence avancée
 **Caractéristique :** Variable (voir description)
-**Talents liés :** [[Savoir-faire nain\|Savoir-faire nain]], [[Talent artistique\|Talent artistique]]
+**Talents liés :** [[Talents/Savoir-faire nain\|Savoir-faire nain]], [[Talents/Talent artistique\|Talent artistique]]
 ## 📜 Description
 Cette compétence permet de pratiquer un métier. À l'instar de [[Compétences/Connaissances académiques\|Connaissances académiques]], cette compétence n'est pas unique mais multiple. Les métiers les plus répandus et les caractéristiques associées sont les suivants :
 - Apothicaire - [[Caractéristiques/Profil principal/Intelligence\|Intelligence]]

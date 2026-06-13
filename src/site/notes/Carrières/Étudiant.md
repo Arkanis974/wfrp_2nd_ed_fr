@@ -36,7 +36,7 @@ Les grandes villes de l'[[Empire\|Empire]] abritent un certain nombre d'universi
 ## ⚔️ Talents
 [[Talents/Calcul mental\|Calcul mental]] ou [[Talents/Grand voyageur\|Grand voyageur]]
 [[Talents/Étiquette\|Étiquette]] ou [[Talents/Linguistique\|Linguistique]]
-[[Talents/Intelligent\|Intelligent]] ou [[Sociable\|Sociable]]
+[[Talents/Intelligent\|Intelligent]] ou [[Talents/Sociable\|Sociable]]
 
 ---
 ## 🎒 Dotations

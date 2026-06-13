@@ -36,7 +36,7 @@
 [[Talents/Combat de rue\|Combat de rue]] ou [[Talents/Désarmement\|Désarmement]]
 [[Talents/Coups assommants\|Coups assommants]]
 [[Talents/Coups puissants\|Coups puissants]]
-[[Talents/Intelligent\|Intelligent]] ou [[Sang-froid\|Sang-froid]]
+[[Talents/Intelligent\|Intelligent]] ou [[Talents/Sang-froid\|Sang-froid]]
 
 ---
 ## 🎒 Dotations

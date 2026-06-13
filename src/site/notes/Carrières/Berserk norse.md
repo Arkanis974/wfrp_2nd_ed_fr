@@ -37,7 +37,7 @@ La [[Norsca\|Norsca]] est une contrée nordique austère et remplie de monstres 
 [[Talents/Frénésie\|Frénésie]]
 [[Talents/Maitrise\|Maitrise]] (*Armes lourdes*)
 [[Talents/Menaçant\|Menaçant]]
-[[Sur ses gardes\|Sur ses gardes]]
+[[Talents/Sur ses gardes\|Sur ses gardes]]
 
 ---
 ## 🎒 Dotations

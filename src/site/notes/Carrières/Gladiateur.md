@@ -28,10 +28,10 @@ Selon les rumeurs, le sport auquel les Gladiateurs se livrent trouverait son ori
 
 ---
 ## ⚔️ Talents
-[[Talents/Coups précis\|Coups précis]] ou [[Sur ses gardes\|Sur ses gardes]]
+[[Talents/Coups précis\|Coups précis]] ou [[Talents/Sur ses gardes\|Sur ses gardes]]
 [[Talents/Coups puissants\|Coups puissants]]
 [[Talents/Désarmement\|Désarmement]] ou [[Talents/Lutte\|Lutte]]
-[[Talents/Force accrue\|Force accrue]] ou [[Sain d'esprit\|Sain d'esprit]]
+[[Talents/Force accrue\|Force accrue]] ou [[Talents/Sain d'esprit\|Sain d'esprit]]
 [[Talents/Maitrise\|Maitrise]] (*armes lourdes*)
 [[Talents/Maitrise\|Maitrise]] (*armes de parade*)
 [[Talents/Maitrise\|Maitrise]] (*fléaux*)

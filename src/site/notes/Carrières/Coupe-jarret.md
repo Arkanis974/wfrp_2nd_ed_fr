@@ -34,8 +34,8 @@ Dans les milieux criminels, force et brutalité sont des vertus appréciées et 
 [[Talents/Coups assommants\|Coups assommants]]
 [[Talents/Coups précis\|Coups précis]] ou [[Talents/Lutte\|Lutte]]
 [[Talents/Désarmement\|Désarmement]]
-[[Talents/Réflexes éclair\|Réflexes éclair]] ou [[Sang-froid\|Sang-froid]]
-[[Résistance aux poisons\|Résistance aux poisons]] ou [[Sur ses gardes\|Sur ses gardes]]
+[[Talents/Réflexes éclair\|Réflexes éclair]] ou [[Talents/Sang-froid\|Sang-froid]]
+[[Talents/Résistance aux poisons\|Résistance aux poisons]] ou [[Talents/Sur ses gardes\|Sur ses gardes]]
 
 ---
 ## 🎒 Dotations

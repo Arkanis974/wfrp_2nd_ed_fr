@@ -55,7 +55,7 @@ Deux au choix :
 - [[Talents/Lutte\|Lutte]]
 - [[Talents/Maitrise\|Maitrise]] (*armes de jet*)
 - [[Talents/Réflexes éclair\|Réflexes éclair]]
-- [[Sur ses gardes\|Sur ses gardes]]
+- [[Talents/Sur ses gardes\|Sur ses gardes]]
 
 ---
 ## 🎒 Dotations

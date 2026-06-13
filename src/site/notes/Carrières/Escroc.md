@@ -35,7 +35,7 @@ Si les Escrocs avaient un proverbe, ce serait le suivant : ne travaille pas honn
 
 ---
 ## ⚔️ Talents
-[[Talents/Chance\|Chance]] ou [[Sixième sens\|Sixième sens]]
+[[Talents/Chance\|Chance]] ou [[Talents/Sixième sens\|Sixième sens]]
 [[Talents/Code de la rue\|Code de la rue]] ou [[Talents/Fuite\|Fuite]]
 [[Talents/Éloquence\|Éloquence]]
 

@@ -35,7 +35,7 @@ Les Chasseurs de primes gagnent leur vie en traquant les criminels, les bandits 
 ## ⚔️ Talents
 [[Talents/Adresse au tir\|Adresse au tir]] ou [[Talents/Coups puissants\|Coups puissants]]
 [[Talents/Camouflage rural\|Camouflage rural]]
-[[Talents/Coups assommants\|Coups assommants]] ou [[Tireur d'élite\|Tireur d'élite]]
+[[Talents/Coups assommants\|Coups assommants]] ou [[Talents/Tireur d'élite\|Tireur d'élite]]
 [[Talents/Maitrise\|Maitrise]] (*Armes paralysantes*)
 
 ---

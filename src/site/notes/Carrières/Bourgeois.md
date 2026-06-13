@@ -36,7 +36,7 @@ Les grandes villes de l'[[Empire\|Empire]] prenant de plus en plus d'importance,
 ---
 ## ⚔️ Talents
 [[Talents/Dur en affaires\|Dur en affaires]]
-[[Talents/Intelligent\|Intelligent]] ou [[Sociable\|Sociable]]
+[[Talents/Intelligent\|Intelligent]] ou [[Talents/Sociable\|Sociable]]
 
 ---
 ## 🎒 Dotations

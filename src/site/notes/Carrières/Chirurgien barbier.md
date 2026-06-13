@@ -35,8 +35,8 @@ Les Chirurgiens barbiers offrent des soins efficaces, mais parfois douloureux, a
 ---
 ## ⚔️ Talents
 [[Talents/Chirurgie\|Chirurgie]]
-[[Talents/Intelligent\|Intelligent]] ou [[Résistance aux maladies\|Résistance aux maladies]]
-[[Talents/Résistance accrue\|Résistance accrue]] ou [[Sociable\|Sociable]]
+[[Talents/Intelligent\|Intelligent]] ou [[Talents/Résistance aux maladies\|Résistance aux maladies]]
+[[Talents/Résistance accrue\|Résistance accrue]] ou [[Talents/Sociable\|Sociable]]
 
 ---
 ## 🎒 Dotations

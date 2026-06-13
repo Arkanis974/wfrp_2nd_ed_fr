@@ -33,11 +33,11 @@ Au fil des siècles, les incursions du [[Chaos\|Chaos]] et des [[Peaux-Vertes\|p
 
 ---
 ## ⚔️ Talents
-[[Talents/Acuité auditive\|Acuité auditive]] ou [[Sang-froid\|Sang-froid]]
+[[Talents/Acuité auditive\|Acuité auditive]] ou [[Talents/Sang-froid\|Sang-froid]]
 [[Talents/Coups assommants\|Coups assommants]]
 [[Talents/Coups précis\|Coups précis]]
 [[Talents/Coups puissants\|Coups puissants]]
-[[Sens de l'orientation\|Sens de l'orientation]]
+[[Talents/Sens de l'orientation\|Sens de l'orientation]]
 
 ---
 ## 🎒 Dotations
