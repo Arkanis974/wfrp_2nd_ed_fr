@@ -4,7 +4,7 @@
 
 # Liste des carrières
 ---
-**Carrière de base**
+### Carrière de base
 [[Carrières/Agitateur\|Agitateur]]
 [[Carrières/Apprenti sorcier\|Apprenti sorcier]]
 [[Carrières/Artisan\|Artisan]]
@@ -37,6 +37,6 @@
 [[Carrières/Geôlier\|Geôlier]]
 [[Carrières/Gladiateur\|Gladiateur]]
 
-**Carrière avancée**
+### Carrière avancée
 *A venir*
 
