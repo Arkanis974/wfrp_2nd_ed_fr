@@ -36,6 +36,8 @@
 [[Carrières/Gardien tribal\|Gardien tribal]]
 [[Carrières/Geôlier\|Geôlier]]
 [[Carrières/Gladiateur\|Gladiateur]]
+[[Carrières/Hors-la-loi\|Hors-la-loi]]
+[[Carrières/Initié\|Initié]]
 
 ### Carrière avancée
 *A venir*

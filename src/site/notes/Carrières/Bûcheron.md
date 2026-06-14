@@ -53,7 +53,7 @@ Nécessaire antipoison
 ### Débouchés
 [[Carrières/Chasseur\|Chasseur]]
 [[Chevalier du Champ Verdoyant\|Chevalier du Champ Verdoyant]]
-[[Hors-la-loi\|Hors-la-loi]]
+[[Carrières/Hors-la-loi\|Hors-la-loi]]
 [[Milicien\|Milicien]]
 [[Pisteur\|Pisteur]]
 [[Vagabond\|Vagabond]]

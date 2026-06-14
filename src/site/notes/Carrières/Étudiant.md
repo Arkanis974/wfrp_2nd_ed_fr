@@ -62,6 +62,6 @@ Accessoires de calligraphie
 [[Carrières/Émissaire elfe\|Émissaire elfe]]
 [[Érudit\|Érudit]]
 [[Ingénieur\|Ingénieur]]
-[[Initié\|Initié]]
+[[Carrières/Initié\|Initié]]
 [[Médecin\|Médecin]]
 [[Plaideur\|Plaideur]]

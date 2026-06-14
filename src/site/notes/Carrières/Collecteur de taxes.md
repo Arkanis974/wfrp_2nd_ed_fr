@@ -53,7 +53,7 @@ Bouclier
 
 ### Débouchés
 [[Bandit de grand chemin\|Bandit de grand chemin]]
-[[Hors-la-loi\|Hors-la-loi]]
+[[Carrières/Hors-la-loi\|Hors-la-loi]]
 [[Passeur\|Passeur]]
 [[Politicien\|Politicien]]
 [[Sentinelle halfling\|Sentinelle halfling]]

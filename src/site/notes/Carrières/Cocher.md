@@ -56,7 +56,7 @@ Instrument de musique (*Corne de cocher*)
 [[Cartographe\|Cartographe]]
 [[Carrières/Collecteur de taxes\|Collecteur de taxes]]
 [[Carrières/Contrebandier\|Contrebandier]]
-[[Hors-la-loi\|Hors-la-loi]]
+[[Carrières/Hors-la-loi\|Hors-la-loi]]
 [[Passeur\|Passeur]]
 [[Patrouilleur\|Patrouilleur]]
 [[Pisteur\|Pisteur]]

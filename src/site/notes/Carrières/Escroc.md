@@ -64,7 +64,7 @@ Beaux atours ou dés (os) ou paquet  de cartes
 [[Carrières/Bateleur\|Bateleur]]
 [[Charlatan\|Charlatan]]
 [[Démagogue\|Démagogue]]
-[[Hors-la-loi\|Hors-la-loi]]
+[[Carrières/Hors-la-loi\|Hors-la-loi]]
 [[Ramoneur\|Ramoneur]]
 [[Serviteur\|Serviteur]]
 [[Voleur\|Voleur]]

@@ -49,12 +49,12 @@ Bouteille d'alcool fort de bonne qualité
 [[Carrières/Agitateur\|Agitateur]]
 [[Carrières/Artisan\|Artisan]]
 [[Champion de justice\|Champion de justice]]
-[[Initié\|Initié]]
+[[Carrières/Initié\|Initié]]
 [[Paysan\|Paysan]]
 
 ### Débouchés
 [[Carrières/Agitateur\|Agitateur]]
 [[Flagellant\|Flagellant]]
-[[Hors-la-loi\|Hors-la-loi]]
-[[Initié\|Initié]]
+[[Carrières/Hors-la-loi\|Hors-la-loi]]
+[[Carrières/Initié\|Initié]]
 [[Moine\|Moine]]

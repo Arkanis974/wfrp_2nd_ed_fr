@@ -65,5 +65,5 @@ Vêtements de bonne qualité
 [[Démagogue\|Démagogue]]
 [[Carrières/Escroc\|Escroc]]
 [[Carrières/Fanatique\|Fanatique]]
-[[Hors-la-loi\|Hors-la-loi]]
+[[Carrières/Hors-la-loi\|Hors-la-loi]]
 [[Politicien\|Politicien]]
