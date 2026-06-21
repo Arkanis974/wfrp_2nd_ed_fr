@@ -43,7 +43,7 @@
 [[Carrières/Matelot\|Matelot]]
 [[Carrières/Mercanti\|Mercanti]]
 [[Carrières/Mercenaire\|Mercenaire]]
-[[Carrières/Mercenaire\|Mercenaire]]
+[[Carrières/Messager\|Messager]]
 
 ### Carrière avancée
 *A venir*
