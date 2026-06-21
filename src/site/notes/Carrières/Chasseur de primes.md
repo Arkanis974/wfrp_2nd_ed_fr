@@ -53,13 +53,13 @@ Menottes
 [[Carrières/Chasseur\|Chasseur]]
 [[Carrières/Garde du corps\|Garde du corps]]
 [[Carrières/Gladiateur\|Gladiateur]]
-[[Kossar kislévite\|Kossar kislévite]]
-[[Mercenaire\|Mercenaire]]
+[[Carrières/Kossar kislévite\|Kossar kislévite]]
+[[Carrières/Mercenaire\|Mercenaire]]
 [[Sentinelle halfling\|Sentinelle halfling]]
 
 ### Débouchés
 [[Chasseur de vampires\|Chasseur de vampires]]
 [[Franc archer\|Franc archer]]
-[[Mercenaire\|Mercenaire]]
+[[Carrières/Mercenaire\|Mercenaire]]
 [[Pisteur\|Pisteur]]
 [[Spadassin\|Spadassin]]

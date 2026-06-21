@@ -49,7 +49,7 @@ Armure légère (*[[Veste de cuir\|veste de cuir]])
 
 ### Accès
 [[Carrières/Chasseur\|Chasseur]]
-[[Messager\|Messager]]
+[[Carrières/Messager\|Messager]]
 
 ### Débouchés
 [[Carrières/Chasseur\|Chasseur]]

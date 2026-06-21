@@ -49,7 +49,7 @@ Armure légère (*[[Gilet de cuir\|gilet de cuir]]*)
 [[Carrières/Chirurgien barbier\|Chirurgien barbier]]
 [[Dilettante\|Dilettante]]
 [[Carrières/Garde\|Garde]]
-[[Mercanti\|Mercanti]]
+[[Carrières/Mercanti\|Mercanti]]
 [[Paysan\|Paysan]]
 
 ### Débouchés

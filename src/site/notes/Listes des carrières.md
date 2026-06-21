@@ -38,6 +38,12 @@
 [[Carrières/Gladiateur\|Gladiateur]]
 [[Carrières/Hors-la-loi\|Hors-la-loi]]
 [[Carrières/Initié\|Initié]]
+[[Carrières/Kossar kislévite\|Kossar kislévite]]
+[[Carrières/Marin\|Marin]]
+[[Carrières/Matelot\|Matelot]]
+[[Carrières/Mercanti\|Mercanti]]
+[[Carrières/Mercenaire\|Mercenaire]]
+[[Carrières/Mercenaire\|Mercenaire]]
 
 ### Carrière avancée
 *A venir*

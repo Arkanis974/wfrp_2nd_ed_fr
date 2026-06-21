@@ -53,7 +53,7 @@ Carriole
 
 ### Débouchés
 [[Carrières/Contrebandier\|Contrebandier]]
-[[Mercanti\|Mercanti]]
+[[Carrières/Mercanti\|Mercanti]]
 [[Monte-en-l'air\|Monte-en-l'air]]
 [[Ramasseur de fumier\|Ramasseur de fumier]]
 [[Receleur\|Receleur]]

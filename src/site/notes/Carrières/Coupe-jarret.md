@@ -47,7 +47,7 @@ Armure moyenne (*[[Gilet de mailles\|gilet de mailles]]* et *[[Gilet de cuir\|gi
 
 ### Accès
 [[Ancien prisonnier\|Ancien prisonnier]]
-[[Matelot\|Matelot]]
+[[Carrières/Matelot\|Matelot]]
 [[Ramasseur de fumier\|Ramasseur de fumier]]
 [[Spadassin\|Spadassin]]
 
@@ -56,5 +56,5 @@ Armure moyenne (*[[Gilet de mailles\|gilet de mailles]]* et *[[Gilet de cuir\|gi
 [[Bourreau\|Bourreau]]
 [[Carrières/Garde du corps\|Garde du corps]]
 [[Carrières/Gladiateur\|Gladiateur]]
-[[Mercenaire\|Mercenaire]]
+[[Carrières/Mercenaire\|Mercenaire]]
 [[Racketteur\|Racketteur]]

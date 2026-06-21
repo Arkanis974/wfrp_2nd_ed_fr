@@ -58,6 +58,6 @@ Accessoires de calligraphie
 [[Carrières/Escroc\|Escroc]]
 [[Carrières/Étudiant\|Étudiant]]
 [[Marchand\|Marchand]]
-[[Marin\|Marin]]
+[[Carrières/Marin\|Marin]]
 [[Plaideur\|Plaideur]]
 [[Vagabond\|Vagabond]]

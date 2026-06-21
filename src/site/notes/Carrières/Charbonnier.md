@@ -48,7 +48,7 @@ Arme à une main (hachette)
 
 ### Accès
 [[Carrières/Chasseur\|Chasseur]]
-[[Mercanti\|Mercanti]]
+[[Carrières/Mercanti\|Mercanti]]
 [[Mineur\|Mineur]]
 [[Paysan\|Paysan]]
 

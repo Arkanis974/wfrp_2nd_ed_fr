@@ -49,7 +49,7 @@ Instrument de musique (*Corne de cocher*)
 
 ### Accès
 [[Carrières/Éclaireur\|Éclaireur]]
-[[Messager\|Messager]]
+[[Carrières/Messager\|Messager]]
 
 ### Débouchés
 [[Bandit de grand chemin\|Bandit de grand chemin]]

@@ -56,7 +56,7 @@ Uniforme
 ### Débouchés
 [[Carrières/Artisan\|Artisan]]
 [[Égoutier\|Égoutier]]
-[[Mercenaire\|Mercenaire]]
+[[Carrières/Mercenaire\|Mercenaire]]
 [[Patrouilleur\|Patrouilleur]]
 [[Plaideur\|Plaideur]]
 [[Racketteur\|Racketteur]]

@@ -53,7 +53,7 @@ Aucun
 
 ### Débouchés
 [[Carrières/Gladiateur\|Gladiateur]]
-[[Marin\|Marin]]
-[[Mercenaire\|Mercenaire]]
+[[Carrières/Marin\|Marin]]
+[[Carrières/Mercenaire\|Mercenaire]]
 [[Sergent\|Sergent]]
 [[Vétéran\|Vétéran]]

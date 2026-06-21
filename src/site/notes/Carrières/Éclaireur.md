@@ -53,7 +53,7 @@ Cheval de selle avec selle et harnais
 
 ### Accès
 [[Carrières/Gardien tribal\|Gardien tribal]]
-[[Messager\|Messager]]
+[[Carrières/Messager\|Messager]]
 [[Patrouilleur\|Patrouilleur]]
 [[Soldat\|Soldat]]
 
@@ -61,6 +61,6 @@ Cheval de selle avec selle et harnais
 [[Bandit de grand chemin\|Bandit de grand chemin]]
 [[Chevalier du Champ Verdoyant\|Chevalier du Champ Verdoyant]]
 [[Carrières/Cocher\|Cocher]]
-[[Mercenaire\|Mercenaire]]
+[[Carrières/Mercenaire\|Mercenaire]]
 [[Patrouilleur\|Patrouilleur]]
 [[Pisteur\|Pisteur]]

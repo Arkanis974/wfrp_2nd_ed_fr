@@ -54,8 +54,8 @@ Outre
 ### Accès
 [[Carrières/Contrebandier\|Contrebandier]]
 [[Égoutier\|Égoutier]]
-[[Kossar kislévite\|Kossar kislévite]]
-[[Mercenaire\|Mercenaire]]
+[[Carrières/Kossar kislévite\|Kossar kislévite]]
+[[Carrières/Mercenaire\|Mercenaire]]
 [[Mineur\|Mineur]]
 [[Pilleur de tombes\|Pilleur de tombes]]
 [[Porterune\|Porterune]]

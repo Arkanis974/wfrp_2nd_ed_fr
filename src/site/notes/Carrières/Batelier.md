@@ -51,7 +51,7 @@ Bateau à rames
 [[Passeur\|Passeur]]
 ### Débouchés
 [[Carrières/Contrebandier\|Contrebandier]]
-[[Marin\|Marin]]
-[[Matelot\|Matelot]]
+[[Carrières/Marin\|Marin]]
+[[Carrières/Matelot\|Matelot]]
 [[Navigateur\|Navigateur]]
 [[Pêcheur\|Pêcheur]]
