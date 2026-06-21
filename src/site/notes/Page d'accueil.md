@@ -3,8 +3,7 @@
 ---
 
 ---
-Bienvenu sur ce site dédié au jeu de rôle Warhammer Fantasy (WFRP).
-Vous y trouverez les règles pour la seconde édition de WFRP ainsi que des éléments sur l'univers (histoire, géographie, description des races et royaumes, etc.).
+***Le Vieux Monde est un lieu dangereux où la gloire, la folie et la mort marchent souvent côte à côte. Ce wiki rassemble les règles de Warhammer Fantasy Roleplay, 2e édition, afin d'aider les aventuriers à survivre un jour de plus.***
 
 ## Sommaire
 ---
