@@ -60,7 +60,7 @@ Armure légère (gilet de cuir)
 [[Carrières/Fanatique\|Fanatique]]
 [[Carrières/Matelot\|Matelot]]
 [[Carrières/Mercenaire\|Mercenaire]]
-[[Milicien\|Milicien]]
+[[Carrières/Milicien\|Milicien]]
 [[Paysan\|Paysan]]
 [[Patrouilleur\|Patrouilleur]]
 [[Percepteur\|Percepteur]]

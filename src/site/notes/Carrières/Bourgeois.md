@@ -56,7 +56,7 @@ Vêtements confortables
 [[Carrières/Artisan\|Artisan]]
 [[Aubergiste\|Aubergiste]]
 [[Marchand\|Marchand]]
-[[Milicien\|Milicien]]
+[[Carrières/Milicien\|Milicien]]
 [[Plaideur\|Plaideur]]
 [[Receleur\|Receleur]]
 [[Valet\|Valet]]

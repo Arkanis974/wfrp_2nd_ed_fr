@@ -60,5 +60,5 @@ Armure légère (*[[Gilet de cuir\|gilet de cuir]]*)
 [[Ingénieur\|Ingénieur]]
 [[Maitre artisan\|Maitre artisan]]
 [[Marchand\|Marchand]]
-[[Milicien\|Milicien]]
+[[Carrières/Milicien\|Milicien]]
 

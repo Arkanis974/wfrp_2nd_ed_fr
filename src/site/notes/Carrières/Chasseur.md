@@ -61,7 +61,7 @@ Nécessaire antipoison
 [[Dresseur d'animaux\|Dresseur d'animaux]]
 [[Franc archer\|Franc archer]]
 [[Carrières/Gardien tribal\|Gardien tribal]]
-[[Mineur\|Mineur]]
+[[Carrières/Mineur\|Mineur]]
 [[Pisteur\|Pisteur]]
 [[Sentinelle halfling\|Sentinelle halfling]]
 [[Soldat\|Soldat]]

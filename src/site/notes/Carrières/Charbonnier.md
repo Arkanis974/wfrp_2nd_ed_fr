@@ -49,13 +49,13 @@ Arme à une main (hachette)
 ### Accès
 [[Carrières/Chasseur\|Chasseur]]
 [[Carrières/Mercanti\|Mercanti]]
-[[Mineur\|Mineur]]
+[[Carrières/Mineur\|Mineur]]
 [[Paysan\|Paysan]]
 
 ### Débouchés
 [[Carrières/Bûcheron\|Bûcheron]]
 [[Carrières/Chasseur\|Chasseur]]
-[[Mineur\|Mineur]]
+[[Carrières/Mineur\|Mineur]]
 [[Pisteur\|Pisteur]]
 [[Ramoneur\|Ramoneur]]
 [[Vagabond\|Vagabond]]

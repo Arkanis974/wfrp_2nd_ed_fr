@@ -49,7 +49,7 @@ Bouclier
 ## 🚪 Évolution
 
 ### Accès
-[[Milicien\|Milicien]]
+[[Carrières/Milicien\|Milicien]]
 [[Patrouilleur\|Patrouilleur]]
 [[Serviteur\|Serviteur]]
 

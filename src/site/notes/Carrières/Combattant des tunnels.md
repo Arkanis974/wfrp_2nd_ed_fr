@@ -56,7 +56,7 @@ Outre
 [[Égoutier\|Égoutier]]
 [[Carrières/Kossar kislévite\|Kossar kislévite]]
 [[Carrières/Mercenaire\|Mercenaire]]
-[[Mineur\|Mineur]]
+[[Carrières/Mineur\|Mineur]]
 [[Pilleur de tombes\|Pilleur de tombes]]
 [[Porterune\|Porterune]]
 [[Ratier\|Ratier]]

@@ -44,6 +44,8 @@
 [[Carrières/Mercanti\|Mercanti]]
 [[Carrières/Mercenaire\|Mercenaire]]
 [[Carrières/Messager\|Messager]]
+[[Carrières/Milicien\|Milicien]]
+[[Carrières/Mineur\|Mineur]]
 
 ### Carrière avancée
 *A venir*

@@ -58,7 +58,7 @@ Mule et cariole ou bateau à rames
 [[Carrières/Marin\|Marin]]
 [[Carrières/Matelot\|Matelot]]
 [[Carrières/Mercanti\|Mercanti]]
-[[Mineur\|Mineur]]
+[[Carrières/Mineur\|Mineur]]
 [[Passeur\|Passeur]]
 [[Régisseur\|Régisseur]]
 

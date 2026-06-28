@@ -54,6 +54,6 @@ Nécessaire antipoison
 [[Carrières/Chasseur\|Chasseur]]
 [[Chevalier du Champ Verdoyant\|Chevalier du Champ Verdoyant]]
 [[Carrières/Hors-la-loi\|Hors-la-loi]]
-[[Milicien\|Milicien]]
+[[Carrières/Milicien\|Milicien]]
 [[Pisteur\|Pisteur]]
 [[Vagabond\|Vagabond]]
