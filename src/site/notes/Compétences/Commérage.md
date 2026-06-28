@@ -6,6 +6,6 @@
 **Source :** Livre de base p.92 / Core Rulebook p.93 *Gossip*
 **Type :** Compétence de base
 **Caractéristique :** [[Caractéristiques/Profil principal/Sociabilité\|Sociabilité]]
-**Talents liés :** [[Talents/Code de la rue\|Code de la rue]], [[Talents/Étiquette\|Étiquette]]
+**Talents liés :** [[Talents/Code de la rue\|Code de la rue]], [[Talents/Etiquette\|Etiquette]]
 ## 📜 Description
 Cette compétence permet d'obtenir des informations. Elle est utile pour avoir vent des rumeurs et des dernières nouvelles mais également pour engager une conversation des plus anodines.

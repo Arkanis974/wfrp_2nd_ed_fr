@@ -26,7 +26,7 @@ Le [[Vieux Monde\|Vieux Monde]] est en proie à des guerres incessantes et a par
 ---
 ## 📚 Compétences
 [[Compétences/Commérage\|Commérage]] ou [[Compétences/Marchandage\|Marchandage]]
-[[Compétences/Conduite d'attelages\|Conduite d'attelages]] ou [[Compétences/Équitation\|Équitation]]
+[[Compétences/Conduite d'attelages\|Conduite d'attelages]] ou [[Compétences/Equitation\|Equitation]]
 [[Compétences/Connaissances générales\|Connaissances générales]] (*[[Bretonnie\|Bretonnie]]*, *[[Kislev\|Kislev]]* ou *[[Tilée\|Tilée]]*)
 [[Compétences/Esquive\|Esquive]]
 [[Compétences/Fouille\|Fouille]] ou [[Compétences/Perception\|Perception]]
@@ -55,7 +55,7 @@ Potion de soins
 [[Carrières/Chasseur de primes\|Chasseur de primes]]
 [[Carrières/Coupe-jarret\|Coupe-jarret]]
 [[Démagogue\|Démagogue]]
-[[Carrières/Éclaireur\|Éclaireur]]
+[[Carrières/Eclaireur\|Eclaireur]]
 [[Égoutier\|Égoutier]]
 [[Carrières/Garde\|Garde]]
 [[Carrières/Garde du corps\|Garde du corps]]

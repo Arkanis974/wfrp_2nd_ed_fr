@@ -35,7 +35,7 @@ Habituellement, les citoyens de l'[[Empire\|Empire]] n'ont pas véritablement le
 ---
 ## ⚔️ Talents
 [[Talents/Combat de rue\|Combat de rue]] ou [[Talents/Sang-froid\|Sang-froid]] 
-[[Talents/Éloquence\|Éloquence]] 
+[[Talents/Eloquence\|Eloquence]] 
 [[Talents/Fuite\|Fuite]] 
 
 ---
@@ -51,7 +51,7 @@ Vêtements de bonne qualité
 [[Bandit de grand chemin\|Bandit de grand chemin]]
 [[Carrières/Bourgeois\|Bourgeois]]
 [[Capitaine\|Capitaine]]
-[[Carrières/Étudiant\|Étudiant]]
+[[Carrières/Etudiant\|Etudiant]]
 [[Carrières/Fanatique\|Fanatique]]
 [[Héraut\|Héraut]]
 [[Plaideur\|Plaideur]]

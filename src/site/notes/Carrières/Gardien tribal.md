@@ -53,7 +53,7 @@ Armure légère (*[[Veste de cuir\|veste de cuir]])
 
 ### Débouchés
 [[Carrières/Chasseur\|Chasseur]]
-[[Carrières/Éclaireur\|Éclaireur]]
+[[Carrières/Eclaireur\|Eclaireur]]
 [[Pisteur\|Pisteur]]
 [[Vagabond\|Vagabond]]
 [[Vétéran\|Vétéran]]

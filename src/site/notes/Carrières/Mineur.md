@@ -25,7 +25,7 @@ L’[[Empire\|Empire]] est flanqué de larges chaînes de montagnes. À l’est 
 ## 📚 Compétences
 [[Compétences/Conduite d'attelages\|Conduite d'attelages]] ou [[Compétences/Dissimulation\|Dissimulation]]
 [[Compétences/Escalade\|Escalade]]
-[[Compétences/Évaluation\|Évaluation]] ou [[Compétences/Survie\|Survie]]
+[[Compétences/Evaluation\|Evaluation]] ou [[Compétences/Survie\|Survie]]
 [[Compétences/Métier\|Métier]] (*mineur* ou *prospecteur*)
 [[Compétences/Orientation\|Orientation]]
 [[Compétences/Perception\|Perception]]

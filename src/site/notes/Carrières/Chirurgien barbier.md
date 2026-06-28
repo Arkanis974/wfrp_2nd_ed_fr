@@ -47,7 +47,7 @@ Outils d'artisan (*chirurgien barbier*)
 
 ### Accès
 [[Dilettante\|Dilettante]]
-[[Carrières/Étudiant\|Étudiant]]
+[[Carrières/Etudiant\|Etudiant]]
 [[Carrières/Initié\|Initié]]
 
 ### Débouchés

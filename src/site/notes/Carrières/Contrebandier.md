@@ -28,7 +28,7 @@ La plupart des routes et des mers du Vieux Monde sont soumises à des droits et 
 [[Compétences/Commérage\|Commérage]] ou [[Compétences/Langage secret\|Langage secret]] (*langage des voleurs*)
 [[Compétences/Conduite d'attelages\|Conduite d'attelages]]
 [[Compétences/Déplacement silencieux\|Déplacement silencieux]]
-[[Compétences/Évaluation\|Évaluation]]
+[[Compétences/Evaluation\|Evaluation]]
 [[Compétences/Fouille\|Fouille]]
 [[Compétences/Marchandage\|Marchandage]]
 [[Compétences/Natation\|Natation]]

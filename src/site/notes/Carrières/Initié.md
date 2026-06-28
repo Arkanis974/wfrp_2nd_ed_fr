@@ -36,7 +36,7 @@ La religion occupe aujourd'hui une place secondaire dans le coeur de nombreux ha
 
 ---
 ## ⚔️ Talents
-[[Talents/Éloquence\|Éloquence]]
+[[Talents/Eloquence\|Eloquence]]
 [[Talents/Force accrue\|Force accrue]] ou [[Talents/Réflexes éclair\|Réflexes éclair]]
 [[Talents/Guerrier né\|Guerrier né]] ou [[Talents/Sociable\|Sociable]]
 
@@ -52,7 +52,7 @@ Robe
 [[Chasseur de vampires\|Chasseur de vampires]]
 [[Chevalier\|Chevalier]]
 [[Dilettante\|Dilettante]]
-[[Carrières/Étudiant\|Étudiant]]
+[[Carrières/Etudiant\|Etudiant]]
 [[Carrières/Fanatique\|Fanatique]]
 [[Répurgateur\|Répurgateur]]
 [[Scribe\|Scribe]]

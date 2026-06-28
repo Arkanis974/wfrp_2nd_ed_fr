@@ -27,7 +27,7 @@ Si les Escrocs avaient un proverbe, ce serait le suivant : ne travaille pas honn
 [[Compétences/Baratin\|Baratin]]
 [[Compétences/Charisme\|Charisme]]
 [[Compétences/Commérage\|Commérage]] ou [[Compétences/Marchandage\|Marchandage]]
-[[Compétences/Évaluation\|Évaluation]]
+[[Compétences/Evaluation\|Evaluation]]
 [[Compétences/Expression artistique\|Expression artistique]] (*acteur* ou *conteur*)
 [[Compétences/Fouille\|Fouille]] ou [[Compétences/Langage secret\|Langage secret]] (*langage des voleurs*)
 [[Compétences/Langue\|Langue]] (*reikspiel*)
@@ -37,7 +37,7 @@ Si les Escrocs avaient un proverbe, ce serait le suivant : ne travaille pas honn
 ## ⚔️ Talents
 [[Talents/Chance\|Chance]] ou [[Talents/Sixième sens\|Sixième sens]]
 [[Talents/Code de la rue\|Code de la rue]] ou [[Talents/Fuite\|Fuite]]
-[[Talents/Éloquence\|Éloquence]]
+[[Talents/Eloquence\|Eloquence]]
 
 ---
 ## 🎒 Dotations
