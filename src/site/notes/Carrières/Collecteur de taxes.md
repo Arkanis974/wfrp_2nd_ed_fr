@@ -25,7 +25,7 @@ La collecte d'argent pour le compte du gouvernement est un travail ingrat, mais 
 ## 📚 Compétences
 [[Compétences/Commérage\|Commérage]] ou [[Compétences/Marchandage\|Marchandage]]
 [[Compétences/Esquive\|Esquive]]
-[[Compétences/Evaluation\|Evaluation]]
+[[Compétences/Evaluation\|Évaluation]]
 [[Compétences/Fouille\|Fouille]]
 [[Compétences/Langue\|Langue]] (*bretonnien*, *kislévien* ou *tiléen*)
 [[Lire/Écrire\|Lire/Écrire]]

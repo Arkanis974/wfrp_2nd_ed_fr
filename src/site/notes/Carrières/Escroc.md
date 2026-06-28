@@ -37,7 +37,7 @@ Si les Escrocs avaient un proverbe, ce serait le suivant : ne travaille pas honn
 ## ⚔️ Talents
 [[Talents/Chance\|Chance]] ou [[Talents/Sixième sens\|Sixième sens]]
 [[Talents/Code de la rue\|Code de la rue]] ou [[Talents/Fuite\|Fuite]]
-[[Talents/Eloquence\|Eloquence]]
+[[Talents/Eloquence\|Éloquence]]
 
 ---
 ## 🎒 Dotations
@@ -53,7 +53,7 @@ Beaux atours ou dés (os) ou paquet  de cartes
 [[Carrières/Bateleur\|Bateleur]]
 [[Carrières/Diestro estalien\|Diestro estalien]]
 [[Duelliste\|Duelliste]]
-[[Carrières/Emissaire elfe\|Emissaire elfe]]
+[[Carrières/Emissaire elfe\|Émissaire elfe]]
 [[Carrières/Marin\|Marin]]
 [[Noble\|Noble]]
 [[Valet\|Valet]]

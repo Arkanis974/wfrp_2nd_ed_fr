@@ -24,7 +24,7 @@ Les Éclaireurs sont habitués à évoluer en extérieur et effectuent des missi
 ---
 ## 📚 Compétences
 [[Compétences/Déplacement silencieux\|Déplacement silencieux]]
-[[Compétences/Equitation\|Equitation]]
+[[Compétences/Equitation\|Équitation]]
 [[Compétences/Fouille\|Fouille]]
 [[Compétences/Orientation\|Orientation]]
 [[Compétences/Perception\|Perception]]

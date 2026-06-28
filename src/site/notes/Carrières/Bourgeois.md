@@ -26,7 +26,7 @@ Les grandes villes de l'[[Empire\|Empire]] prenant de plus en plus d'importance,
 [[Compétences/Commérage\|Commérage]] ou [[Lire/Écrire\|Lire/Écrire]]
 [[Compétences/Conduite d'attelages\|Conduite d'attelages]]
 [[Compétences/Connaissances générales\|Connaissances générales]] (*Empire*) ou [[Compétences/Résistance à l'alcool\|Résistance à l'alcool]]
-[[Compétences/Evaluation\|Evaluation]]
+[[Compétences/Evaluation\|Évaluation]]
 [[Compétences/Fouille\|Fouille]]
 [[Compétences/Langue\|Langue]] (*Bretonnien*, *Kislévien* ou *Tiléen*)
 [[Compétences/Langue\|Langue]] (*Reikspiel*)

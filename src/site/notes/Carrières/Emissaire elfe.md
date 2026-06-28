@@ -28,7 +28,7 @@ Les doyens des grandes familles marchandes [[Elfes\|elfes]] sont à des lieues d
 [[Compétences/Charisme\|Charisme]]
 [[Compétences/Commérage\|Commérage]]
 [[Compétences/Connaissances générales\|Connaissances générales]] (*[[Empire\|Empire]]* ou *[[Pays Perdu\|Pays Perdu]]*)
-[[Compétences/Evaluation\|Evaluation]]
+[[Compétences/Evaluation\|Évaluation]]
 [[Compétences/Langage secret\|Langage secret]] (*langage de guilde*)
 [[Compétences/Lire-Écrire\|Lire/Écrire]]
 [[Compétences/Marchandage\|Marchandage]]
@@ -51,12 +51,12 @@ Accessoires de calligraphie
 
 ### Accès
 [[Carrières/Artisan\|Artisan]]
-[[Carrières/Etudiant\|Etudiant]]
+[[Carrières/Etudiant\|Étudiant]]
 
 ### Débouchés
 [[Charlatan\|Charlatan]]
 [[Carrières/Escroc\|Escroc]]
-[[Carrières/Etudiant\|Etudiant]]
+[[Carrières/Etudiant\|Étudiant]]
 [[Marchand\|Marchand]]
 [[Carrières/Marin\|Marin]]
 [[Plaideur\|Plaideur]]

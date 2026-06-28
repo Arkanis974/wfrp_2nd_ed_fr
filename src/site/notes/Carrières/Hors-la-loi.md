@@ -25,7 +25,7 @@ La justice de l'[[Empire\|Empire]] est expéditive et implacable. Il n'est pas �
 ## 📚 Compétences
 [[Compétences/Alphabet secret\|Alphabet secret]] (*voleur*) ou [[Compétences/Commérage\|Commérage]]
 [[Compétences/Braconnage\|Braconnage]] ou [[Compétences/Natation\|Natation]]
-[[Compétences/Conduite d'attelages\|Conduite d'attelages]] ou [[Compétences/Equitation\|Equitation]]
+[[Compétences/Conduite d'attelages\|Conduite d'attelages]] ou [[Compétences/Equitation\|Équitation]]
 [[Compétences/Connaissances générales\|Connaissances générales]] (*[[Empire\|Empire]]*) ou [[Compétences/Soins des animaux\|Soins des animaux]]
 [[Compétences/Déplacement silencieux\|Déplacement silencieux]]
 [[Compétences/Dissimulation\|Dissimulation]]
@@ -55,7 +55,7 @@ Armure légère (gilet de cuir)
 [[Chasseur cornu\|Chasseur cornu]]
 [[Carrières/Cocher\|Cocher]]
 [[Carrières/Collecteur de taxes\|Collecteur de taxes]]
-[[Carrières/Ecuyer\|Ecuyer]]
+[[Carrières/Ecuyer\|Écuyer]]
 [[Carrières/Escroc\|Escroc]]
 [[Carrières/Fanatique\|Fanatique]]
 [[Carrières/Matelot\|Matelot]]

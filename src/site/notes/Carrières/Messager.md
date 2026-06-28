@@ -25,7 +25,7 @@ Les distances séparant les villes et châteaux de l’[[Empire\|Empire]] étant
 ## 📚 Compétences
 [[Compétences/Alphabet secret\|Alphabet secret]] (*pisteur*)
 [[Compétences/Commérage\|Commérage]] ou [[Compétences/Connaissances générales\|Connaissances générales]] (*[[Empire\|Empire]]* ou *[[Pays Perdu\|Pays Perdu]]*)
-[[Compétences/Equitation\|Equitation]]
+[[Compétences/Equitation\|Équitation]]
 [[Compétences/Langue\|Langue]] (*reikspiel*)
 [[Compétences/Natation\|Natation]]
 [[Compétences/Orientation\|Orientation]]
@@ -56,7 +56,7 @@ Bouclier
 ### Débouchés
 [[Cartographe\|Cartographe]]
 [[Carrières/Cocher\|Cocher]]
-[[Carrières/Eclaireur\|Eclaireur]]
+[[Carrières/Eclaireur\|Éclaireur]]
 [[Carrières/Gardien tribal\|Gardien tribal]]
 [[Héraut\|Héraut]]
 [[Patrouilleur\|Patrouilleur]]

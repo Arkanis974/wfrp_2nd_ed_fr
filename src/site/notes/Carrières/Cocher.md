@@ -26,7 +26,7 @@ Si l'[[Empire\|Empire]] est une puissante nation, ses terres sont loin d'être s
 [[Compétences/Alphabet secret\|Alphabet secret]] (*Rôdeur*)
 [[Compétences/Commérage\|Commérage]] ou [[Compétences/Marchandage\|Marchandage]]
 [[Compétences/Conduite d'attelages\|Conduite d'attelages]]
-[[Compétences/Equitation\|Equitation]] ou [[Compétences/Soins\|Soins]]
+[[Compétences/Equitation\|Équitation]] ou [[Compétences/Soins\|Soins]]
 [[Compétences/Langue\|Langue]] (*Bretonnien*, *Kislevien* ou *Tiléen*)
 [[Compétences/Orientation\|Orientation]]
 [[Compétences/Perception\|Perception]]
@@ -48,7 +48,7 @@ Instrument de musique (*Corne de cocher*)
 ## 🚪 Évolution
 
 ### Accès
-[[Carrières/Eclaireur\|Eclaireur]]
+[[Carrières/Eclaireur\|Éclaireur]]
 [[Carrières/Messager\|Messager]]
 
 ### Débouchés

@@ -52,7 +52,7 @@ Livre imprimé
 ### Accès 
 [[Dilettante\|Dilettante]]
 [[Érudit\|Érudit]]
-[[Carrières/Etudiant\|Etudiant]] 
+[[Carrières/Etudiant\|Étudiant]] 
 [[Scribe\|Scribe]]
 [[Sorcier de village\|Sorcier de village]]
 

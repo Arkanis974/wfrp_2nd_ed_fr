@@ -35,7 +35,7 @@ Les grandes villes de l'[[Empire\|Empire]] abritent un certain nombre d'universi
 ---
 ## ⚔️ Talents
 [[Talents/Calcul mental\|Calcul mental]] ou [[Talents/Grand voyageur\|Grand voyageur]]
-[[Talents/Etiquette\|Etiquette]] ou [[Talents/Linguistique\|Linguistique]]
+[[Talents/Etiquette\|Étiquette]] ou [[Talents/Linguistique\|Linguistique]]
 [[Talents/Intelligent\|Intelligent]] ou [[Talents/Sociable\|Sociable]]
 
 ---
@@ -48,7 +48,7 @@ Accessoires de calligraphie
 
 ### Accès
 [[Dilettante\|Dilettante]]
-[[Carrières/Emissaire elfe\|Emissaire elfe]]
+[[Carrières/Emissaire elfe\|Émissaire elfe]]
 [[Ménestrel\|Ménestrel]]
 [[Noble\|Noble]]
 [[Pilleur de tombes\|Pilleur de tombes]]

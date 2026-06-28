@@ -23,7 +23,7 @@ Au sein de l’[[Empire\|Empire]], des armées sont en mouvement en permanence. 
 
 ---
 ## 📚 Compétences
-[[Compétences/Charisme\|Charisme]] ou [[Compétences/Evaluation\|Evaluation]]
+[[Compétences/Charisme\|Charisme]] ou [[Compétences/Evaluation\|Évaluation]]
 [[Compétences/Commérage\|Commérage]]
 [[Compétences/Conduite d'attelages\|Conduite d'attelages]] ou [[Compétences/Soins des animaux\|Soins des animaux]]
 [[Compétences/Fouille\|Fouille]]

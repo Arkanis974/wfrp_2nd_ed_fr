@@ -26,7 +26,7 @@ Les Écuyers sont des chevaliers en cours de formation. Souvent de noble extract
 [[Compétences/Charisme\|Charisme]] ou [[Compétences/Commérage\|Commérage]]
 [[Compétences/Connaissances académiques\|Connaissances académiques]] (*généalogie/héraldique*) ou [[Compétences/Connaissances générales\|Connaissances générales]] (*[[Bretonnie\|Bretonnie]]*)
 [[Compétences/Dressage\|Dressage]]
-[[Compétences/Equitation\|Equitation]]
+[[Compétences/Equitation\|Équitation]]
 [[Compétences/Esquive\|Esquive]]
 [[Compétences/Langue\|Langue]] (*bretonnien* ou *reikspiel*)
 [[Compétences/Soins des animaux\|Soins des animaux]]
@@ -36,7 +36,7 @@ Les Écuyers sont des chevaliers en cours de formation. Souvent de noble extract
 ---
 ## ⚔️ Talents
 [[Talents/Coups puissants\|Coups puissants]]
-[[Talents/Etiquette\|Etiquette]]
+[[Talents/Etiquette\|Étiquette]]
 [[Talents/Maitrise\|Maitrise]] (*armes de cavalerie*)
 
 ---
