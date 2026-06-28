@@ -52,7 +52,7 @@ Bouteille d'alcool fort de qualité médiocre
 [[Carrières/Batelier\|Batelier]]
 [[Carrières/Berserk norse\|Berserk norse]]
 [[Carrières/Contrebandier\|Contrebandier]]
-[[Carrières/Émissaire elfe\|Émissaire elfe]]
+[[Carrières/Emissaire elfe\|Emissaire elfe]]
 [[Passeur\|Passeur]]
 [[Pêcheur\|Pêcheur]]
 

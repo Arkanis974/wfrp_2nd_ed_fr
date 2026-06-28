@@ -48,7 +48,7 @@ Accessoires de calligraphie
 
 ### Accès
 [[Dilettante\|Dilettante]]
-[[Carrières/Émissaire elfe\|Émissaire elfe]]
+[[Carrières/Emissaire elfe\|Emissaire elfe]]
 [[Ménestrel\|Ménestrel]]
 [[Noble\|Noble]]
 [[Pilleur de tombes\|Pilleur de tombes]]
@@ -59,7 +59,7 @@ Accessoires de calligraphie
 [[Carrières/Apprenti sorcier\|Apprenti sorcier]]
 [[Cartographe\|Cartographe]]
 [[Carrières/Chirurgien barbier\|Chirurgien barbier]]
-[[Carrières/Émissaire elfe\|Émissaire elfe]]
+[[Carrières/Emissaire elfe\|Emissaire elfe]]
 [[Érudit\|Érudit]]
 [[Ingénieur\|Ingénieur]]
 [[Carrières/Initié\|Initié]]

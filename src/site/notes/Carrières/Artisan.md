@@ -54,7 +54,7 @@ Armure légère (*[[Gilet de cuir\|gilet de cuir]]*)
 
 ### Débouchés
 [[Cartographe\|Cartographe]]
-[[Carrières/Émissaire elfe\|Émissaire elfe]]
+[[Carrières/Emissaire elfe\|Emissaire elfe]]
 [[Carrières/Fanatique\|Fanatique]]
 [[Fermier\|Fermier]]
 [[Ingénieur\|Ingénieur]]
