@@ -57,7 +57,7 @@ Uniforme
 [[Carrières/Artisan\|Artisan]]
 [[Égoutier\|Égoutier]]
 [[Carrières/Mercenaire\|Mercenaire]]
-[[Patrouilleur\|Patrouilleur]]
+[[Carrières/Patrouilleur\|Patrouilleur]]
 [[Plaideur\|Plaideur]]
 [[Racketteur\|Racketteur]]
 [[Sergent\|Sergent]]

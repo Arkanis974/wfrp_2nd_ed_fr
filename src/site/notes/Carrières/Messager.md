@@ -50,7 +50,7 @@ Bouclier
 
 ### Accès
 [[Carrières/Milicien\|Milicien]]
-[[Patrouilleur\|Patrouilleur]]
+[[Carrières/Patrouilleur\|Patrouilleur]]
 [[Serviteur\|Serviteur]]
 
 ### Débouchés
@@ -59,7 +59,7 @@ Bouclier
 [[Carrières/Eclaireur\|Éclaireur]]
 [[Carrières/Gardien tribal\|Gardien tribal]]
 [[Héraut\|Héraut]]
-[[Patrouilleur\|Patrouilleur]]
+[[Carrières/Patrouilleur\|Patrouilleur]]
 [[Percepteur\|Percepteur]]
 [[Pisteur\|Pisteur]]
 [[Soldat\|Soldat]]

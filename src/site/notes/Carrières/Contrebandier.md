@@ -59,7 +59,7 @@ Mule et cariole ou bateau à rames
 [[Carrières/Matelot\|Matelot]]
 [[Carrières/Mercanti\|Mercanti]]
 [[Carrières/Mineur\|Mineur]]
-[[Passeur\|Passeur]]
+[[Carrières/Passeur\|Passeur]]
 [[Régisseur\|Régisseur]]
 
 ### Débouchés
@@ -68,6 +68,6 @@ Mule et cariole ou bateau à rames
 [[Charlatan\|Charlatan]]
 [[Carrières/Combattant des tunnels\|Combattant des tunnels]]
 [[Carrières/Marin\|Marin]]
-[[Passeur\|Passeur]]
+[[Carrières/Passeur\|Passeur]]
 [[Receleur\|Receleur]]
 [[Voleur\|Voleur]]

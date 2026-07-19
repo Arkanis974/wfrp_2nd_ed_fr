@@ -48,13 +48,13 @@ Bouclier
 
 ### Accès
 [[Carrières/Cocher\|Cocher]]
-[[Patrouilleur\|Patrouilleur]]
+[[Carrières/Patrouilleur\|Patrouilleur]]
 [[Régisseur\|Régisseur]]
 
 ### Débouchés
 [[Bandit de grand chemin\|Bandit de grand chemin]]
 [[Carrières/Hors-la-loi\|Hors-la-loi]]
-[[Passeur\|Passeur]]
+[[Carrières/Passeur\|Passeur]]
 [[Politicien\|Politicien]]
 [[Sentinelle halfling\|Sentinelle halfling]]
 [[Soldat\|Soldat]]

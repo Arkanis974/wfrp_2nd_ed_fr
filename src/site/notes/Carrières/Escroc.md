@@ -55,7 +55,7 @@ Beaux atours ou dés (os) ou paquet  de cartes
 [[Duelliste\|Duelliste]]
 [[Carrières/Emissaire elfe\|Émissaire elfe]]
 [[Carrières/Marin\|Marin]]
-[[Noble\|Noble]]
+[[Carrières/Noble\|Noble]]
 [[Valet\|Valet]]
 [[Voleur\|Voleur]]
 

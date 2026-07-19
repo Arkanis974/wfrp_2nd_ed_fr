@@ -50,7 +50,7 @@ Bouteille d'alcool fort de bonne qualité
 [[Carrières/Artisan\|Artisan]]
 [[Champion de justice\|Champion de justice]]
 [[Carrières/Initié\|Initié]]
-[[Paysan\|Paysan]]
+[[Carrières/Paysan\|Paysan]]
 
 ### Débouchés
 [[Carrières/Agitateur\|Agitateur]]

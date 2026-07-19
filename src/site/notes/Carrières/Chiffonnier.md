@@ -46,7 +46,7 @@ Carriole
 ## 🚪 Évolution
 
 ### Accès
-[[Paysan\|Paysan]]
+[[Carrières/Paysan\|Paysan]]
 [[Ramasseur de fumier\|Ramasseur de fumier]]
 [[Ratier\|Ratier]]
 [[Vagabond\|Vagabond]]

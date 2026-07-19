@@ -46,6 +46,10 @@
 [[Carrières/Messager\|Messager]]
 [[Carrières/Milicien\|Milicien]]
 [[Carrières/Mineur\|Mineur]]
+[[Carrières/Noble\|Noble]]
+[[Carrières/Passeur\|Passeur]]
+[[Carrières/Patrouilleur\|Patrouilleur]]
+[[Carrières/Paysan\|Paysan]]
 
 ### Carrière avancée
 *A venir*

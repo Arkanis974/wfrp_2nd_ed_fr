@@ -50,7 +50,7 @@ Accessoires de calligraphie
 [[Dilettante\|Dilettante]]
 [[Carrières/Emissaire elfe\|Émissaire elfe]]
 [[Ménestrel\|Ménestrel]]
-[[Noble\|Noble]]
+[[Carrières/Noble\|Noble]]
 [[Pilleur de tombes\|Pilleur de tombes]]
 [[Valet\|Valet]]
 

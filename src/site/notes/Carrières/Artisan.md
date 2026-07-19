@@ -50,7 +50,7 @@ Armure légère (*[[Gilet de cuir\|gilet de cuir]]*)
 [[Dilettante\|Dilettante]]
 [[Carrières/Garde\|Garde]]
 [[Carrières/Mercanti\|Mercanti]]
-[[Paysan\|Paysan]]
+[[Carrières/Paysan\|Paysan]]
 
 ### Débouchés
 [[Cartographe\|Cartographe]]

@@ -61,8 +61,8 @@ Armure légère (gilet de cuir)
 [[Carrières/Matelot\|Matelot]]
 [[Carrières/Mercenaire\|Mercenaire]]
 [[Carrières/Milicien\|Milicien]]
-[[Paysan\|Paysan]]
-[[Patrouilleur\|Patrouilleur]]
+[[Carrières/Paysan\|Paysan]]
+[[Carrières/Patrouilleur\|Patrouilleur]]
 [[Percepteur\|Percepteur]]
 [[Sorcier de village\|Sorcier de village]]
 ### Débouchés

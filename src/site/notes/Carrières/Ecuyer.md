@@ -51,12 +51,12 @@ Cheval de selle avec selle et harnais
 
 ### Accès
 [[Héraut\|Héraut]]
-[[Noble\|Noble]]
+[[Carrières/Noble\|Noble]]
 [[Valet\|Valet]]
 
 ### Débouchés
 [[Chevalier\|Chevalier]]
 [[Carrières/Hors-la-loi\|Hors-la-loi]]
-[[Noble\|Noble]]
+[[Carrières/Noble\|Noble]]
 [[Sergent\|Sergent]]
 [[Vétéran\|Vétéran]]

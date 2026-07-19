@@ -54,7 +54,7 @@ Uniforme
 [[Fermier\|Fermier]]
 [[Maitre artisan\|Maitre artisan]]
 [[Marchand\|Marchand]]
-[[Paysan\|Paysan]]
+[[Carrières/Paysan\|Paysan]]
 [[Pêcheur\|Pêcheur]]
 [[Percepteur\|Percepteur]]
 [[Ramoneur\|Ramoneur]]

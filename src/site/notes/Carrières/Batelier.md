@@ -48,7 +48,7 @@ Bateau à rames
 
 ### Accès
 [[Carrières/Contrebandier\|Contrebandier]]
-[[Passeur\|Passeur]]
+[[Carrières/Passeur\|Passeur]]
 ### Débouchés
 [[Carrières/Contrebandier\|Contrebandier]]
 [[Carrières/Marin\|Marin]]

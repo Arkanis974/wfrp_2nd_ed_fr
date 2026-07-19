@@ -50,7 +50,7 @@ Arme à une main (hachette)
 [[Carrières/Chasseur\|Chasseur]]
 [[Carrières/Mercanti\|Mercanti]]
 [[Carrières/Mineur\|Mineur]]
-[[Paysan\|Paysan]]
+[[Carrières/Paysan\|Paysan]]
 
 ### Débouchés
 [[Carrières/Bûcheron\|Bûcheron]]
