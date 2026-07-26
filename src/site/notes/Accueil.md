@@ -3,10 +3,11 @@
 ---
 
 ---
-***Le Vieux Monde est un lieu dangereux où la gloire, la folie et la mort marchent souvent côte à côte. Ce wiki rassemble les règles de Warhammer Fantasy Roleplay, 2e édition, afin d'aider les aventuriers à survivre un jour de plus.***
+***Le Vieux Monde est un lieu dangereux où la gloire, la folie et la mort marchent souvent côte à côte.***
 
-# Sommaire
+# Accueil
 ---
+Ce wiki rassemble les règles de Warhammer Fantasy Roleplay, 2e édition, afin d'aider les aventuriers à survivre un jour de plus. Vous y trouverez tout ce dont vous avez besoin afin de jouer une partie : de la création de personnage à l'explication des règles en passant par une description de l'équipement, des carrières, ..., et bien plus encore.
 ## Les règles
 ### [[Créer son personnage\|Créer son personnage]]
 
