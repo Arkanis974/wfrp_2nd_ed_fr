@@ -7,7 +7,12 @@
 
 # Sommaire
 ---
-[[Listes des caractéristiques\|Listes des caractéristiques]]
-[[Listes des carrières\|Listes des carrières]]
-[[Listes des compétences\|Listes des compétences]]
-[[Listes des talents\|Listes des talents]]
+## Les règles
+### [[Créer son personnage\|Créer son personnage]]
+
+
+## Les recueils
+### [[Listes des caractéristiques\|Listes des caractéristiques]]
+### [[Listes des carrières\|Listes des carrières]]
+### [[Listes des compétences\|Listes des compétences]]
+### [[Listes des talents\|Listes des talents]]
