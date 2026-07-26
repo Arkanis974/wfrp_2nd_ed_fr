@@ -1,0 +1,59 @@
+---
+{"dg-publish":true,"permalink":"/3-carrieres/3-1-carrieres-de-base/berserk-norse/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"]}}
+---
+
+# Berserk norse
+**Type :**  Carrière de base
+**Source :** Livre de base p.33 / Core Rulebook p.46 *Norse berserker*
+## 📜 Description
+La [[Norsca\|Norsca]] est une contrée nordique austère et remplie de monstres cruels comme les [[Troll\|trolls]] des glaces et les enfants du [[Chaos\|Chaos]], mais elle accouche également de solides guerriers.  Les Berserks norses constituent une organisation de combattants redoutés, et ce à juste titre. Pour montrer leur courage, ils combattent sans armure. Leur comportement donne tout lieu de croire qu'ils sont enragés. Les sagas content nombre de leurs exploits et ils occupent une place importante dans les récits des soldats impériaux qui ont eu l'occasion de les affronter. Certains Berserks se rendent dans l'[[Empire\|Empire]] parce qu'on les a exilés ou tout simplement parce qu'ils souhaitent découvrir le monde. Il est rare qu'ils restent longtemps au même endroit, car les gardes ont tendance à chasser ces lunatiques enragés. Les Berserks sont cependant des mercenaires prisés en raison de leur rareté et de leur efficacité.
+
+*Note : S'il s'agit de votre carrière de départ, vous êtes originaires de la Norsca*
+
+---
+## 🛡️ Plan d'Avancement
+### Profil principal
+
+| [[2.Caractéristiques/2.2.Profil principal/Capacité de combat\|CC]] | [[2.Caractéristiques/2.2.Profil principal/Capacité de tir\|CT]] | [[2.Caractéristiques/2.2.Profil principal/Force\|F]] | [[2.Caractéristiques/2.2.Profil principal/Endurance\|E]] | [[2.Caractéristiques/2.2.Profil principal/Agilité\|Ag]] | [[2.Caractéristiques/2.2.Profil principal/Intelligence\|Int]] | [[2.Caractéristiques/2.2.Profil principal/Force mentale\|FM]] | [[2.Caractéristiques/2.2.Profil principal/Sociabilité\|Soc]] |
+| :------------------------: | :---------------------: | :----------: | :--------------: | :-------------: | :-------------------: | :-------------------: | :------------------: |
+|            +15%            |            —            |     +10%     |       +10%       |        —        |           —           |         +10%          |          —           |
+### Profil secondaire
+
+| [[2.Caractéristiques/2.3Profil secondaire/Attaques\|A]] | [[2.Caractéristiques/2.3Profil secondaire/Points de blessures\|B]] | [[2.Caractéristiques/2.3Profil secondaire/Bonus de Force\|BF]] | [[2.Caractéristiques/2.3Profil secondaire/Bonus d'Endurance\|BE]] | [[2.Caractéristiques/2.3Profil secondaire/Mouvement\|M]] | [[2.Caractéristiques/2.3Profil secondaire/Magie\|Mag]] | [[2.Caractéristiques/2.3Profil secondaire/Point de Destin\|PD]] | [[2.Caractéristiques/2.3Profil secondaire/Point de Folie\|PF]] |
+| :-------------: | :--------------: | :--------------------: | :-----------------------: | :--------------: | :------------: | :---------------------: | :--------------------: |
+|        —        |        +2        |           —            |             —             |        —         |       —        |            —            |           —            |
+
+---
+## 📚 Compétences
+[[4.Compétences/Connaissances générales\|Connaissances générales]] (*Norsca*)
+[[4.Compétences/Expression artistique\|Expression artistique]] (*Conteur*)
+[[4.Compétences/Intimidation\|Intimidation]]
+[[4.Compétences/Langue\|Langue]] (*Norse*)
+[[4.Compétences/Natation\|Natation]]
+[[4.Compétences/Résistance à l'alcool\|Résistance à l'alcool]]
+
+---
+## ⚔️ Talents
+[[5.Talents/Frénésie\|Frénésie]]
+[[5.Talents/Maitrise\|Maitrise]] (*Armes lourdes*)
+[[5.Talents/Menaçant\|Menaçant]]
+[[5.Talents/Sur ses gardes\|Sur ses gardes]]
+
+---
+## 🎒 Dotations
+Armure légère (*[[Gilet de cuir\|gilet de cuir]]*)
+Bouteille d'alcool fort
+Arme à deux mains ou Bouclier
+
+---
+## 🚪 Évolution
+
+### Accès
+Aucun
+
+### Débouchés
+[[3.Carrières/3.1.Carrières de base/Gladiateur\|Gladiateur]]
+[[3.Carrières/3.1.Carrières de base/Marin\|Marin]]
+[[3.Carrières/3.1.Carrières de base/Mercenaire\|Mercenaire]]
+[[Sergent\|Sergent]]
+[[Vétéran\|Vétéran]]

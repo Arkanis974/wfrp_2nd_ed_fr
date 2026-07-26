@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/2-caracteristiques/2-3-profil-secondaire/attaques/","tags":["Caractéristiques","Profil_secondaire"],"dg-note-properties":{"tags":["Caractéristiques","Profil_secondaire"]}}
+---
+
+# Attaques (A)
+**Source :** Livre de base p.18 / Core Rulebook p.17 *Attacks (A)*
+**Profil :** Profil secondaire
+
+## 📜 Description
+Cette caractéristique représente la vitesse des attaques de votre personnage. Le nombre indique le nombre maximum d'attaques que le personnage peut effectuer en l'espace de 10 secondes.
+
+La page "[[2.Caractéristiques/2.1.Les caractéristiques\|2.1.Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
