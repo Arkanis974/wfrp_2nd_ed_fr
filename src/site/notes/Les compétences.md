@@ -4,6 +4,7 @@
 
 # Les compétences
 Les compétences représentent un savoir-faire lié à la carrière du personnage. Chaque compétence est liée une [[Caractéristiques/Les caractéristiques\|caractéristiques]] précise. L'usage d'une compétence requiert souvent un test de compétence. Ce test prend la forme d'un *d100* avec pour objectif de ne pas dépasser la valeur de la [[Caractéristiques/Les caractéristiques\|caractéristique]] associée.
+
 *Par exemple, la compétence [[Compétences/Perception\|Perception]] est associée à la caractéristique [[Caractéristiques/Profil principal/Intelligence\|Intelligence]]. Lorsque le joueur doit faire un test de [[Compétences/Perception\|Perception]], il ne doit pas dépasser la valeur d'[[Caractéristiques/Profil principal/Intelligence\|Intelligence]] de son personnage.*
 
 Les compétences sont classées en 2 types : 
