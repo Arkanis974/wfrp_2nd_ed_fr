@@ -49,9 +49,9 @@ Armure légère (gilet de cuir)
 ### Accès
 [[Carrières/Carrières de base/Agitateur\|Agitateur]]
 [[Ancien prisonnier\|Ancien prisonnier]]
-[[Aubergiste\|Aubergiste]]
+[[Carrières/Carrières avancées/Aubergiste\|Aubergiste]]
 [[Carrières/Carrières de base/Bûcheron\|Bûcheron]]
-[[Charlatan\|Charlatan]]
+[[Carrières/Carrières avancées/Charlatan\|Charlatan]]
 [[Chasseur cornu\|Chasseur cornu]]
 [[Carrières/Carrières de base/Cocher\|Cocher]]
 [[Carrières/Carrières de base/Collecteur de taxes\|Collecteur de taxes]]
@@ -67,7 +67,7 @@ Armure légère (gilet de cuir)
 [[Carrières/Carrières de base/Sorcier de village\|Sorcier de village]]
 ### Débouchés
 [[Ancien prisonnier\|Ancien prisonnier]]
-[[Bandit de grand chemin\|Bandit de grand chemin]]
+[[Carrières/Carrières avancées/Bandit de grand chemin\|Bandit de grand chemin]]
 [[Démagogue\|Démagogue]]
 [[Carrières/Carrières de base/Vagabond\|Vagabond]]
 [[Vétéran\|Vétéran]]

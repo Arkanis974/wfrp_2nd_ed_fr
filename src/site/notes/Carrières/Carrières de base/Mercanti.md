@@ -57,7 +57,7 @@ Tente
 ### Débouchés
 [[Carrières/Carrières de base/Artisan\|Artisan]]
 [[Carrières/Carrières de base/Charbonnier\|Charbonnier]]
-[[Charlatan\|Charlatan]]
+[[Carrières/Carrières avancées/Charlatan\|Charlatan]]
 [[Carrières/Carrières de base/Contrebandier\|Contrebandier]]
 [[Espion\|Espion]]
 [[Ramasseur de fumier\|Ramasseur de fumier]]

@@ -52,7 +52,7 @@ Outils d'artisan (*chirurgien barbier*)
 
 ### Débouchés
 [[Carrières/Carrières de base/Artisan\|Artisan]]
-[[Bourreau\|Bourreau]]
+[[Carrières/Carrières avancées/Bourreau\|Bourreau]]
 [[Médecin\|Médecin]]
 [[Carrières/Carrières de base/Trafiquant de cadavres\|Trafiquant de cadavres]]
 [[Carrières/Carrières de base/Vagabond\|Vagabond]]

@@ -58,7 +58,7 @@ Cheval de selle avec selle et harnais
 [[Carrières/Carrières de base/Soldat\|Soldat]]
 
 ### Débouchés
-[[Bandit de grand chemin\|Bandit de grand chemin]]
+[[Carrières/Carrières avancées/Bandit de grand chemin\|Bandit de grand chemin]]
 [[Chevalier du Champ Verdoyant\|Chevalier du Champ Verdoyant]]
 [[Carrières/Carrières de base/Cocher\|Cocher]]
 [[Carrières/Carrières de base/Mercenaire\|Mercenaire]]

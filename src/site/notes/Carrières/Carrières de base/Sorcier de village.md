@@ -52,7 +52,7 @@ Aucun
 
 ### Débouchés
 [[Carrières/Carrières de base/Apprenti sorcier\|Apprenti sorcier]]
-[[Charlatan\|Charlatan]]
+[[Carrières/Carrières avancées/Charlatan\|Charlatan]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Carrières/Carrières de base/Initié\|Initié]]
 [[Carrières/Carrières de base/Vagabond\|Vagabond]]

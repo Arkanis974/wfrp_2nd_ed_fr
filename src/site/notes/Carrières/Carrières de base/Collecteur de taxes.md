@@ -52,7 +52,7 @@ Bouclier
 [[Carrières/Carrières de base/Régisseur\|Régisseur]]
 
 ### Débouchés
-[[Bandit de grand chemin\|Bandit de grand chemin]]
+[[Carrières/Carrières avancées/Bandit de grand chemin\|Bandit de grand chemin]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Carrières/Carrières de base/Passeur\|Passeur]]
 [[Politicien\|Politicien]]

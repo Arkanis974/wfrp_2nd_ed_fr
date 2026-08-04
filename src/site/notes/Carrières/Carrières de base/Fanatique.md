@@ -48,7 +48,7 @@ Bouteille d'alcool fort de bonne qualité
 ### Accès
 [[Carrières/Carrières de base/Agitateur\|Agitateur]]
 [[Carrières/Carrières de base/Artisan\|Artisan]]
-[[Champion de justice\|Champion de justice]]
+[[Carrières/Carrières avancées/Champion de justice\|Champion de justice]]
 [[Carrières/Carrières de base/Initié\|Initié]]
 [[Carrières/Carrières de base/Paysan\|Paysan]]
 

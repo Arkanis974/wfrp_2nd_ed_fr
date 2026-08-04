@@ -48,9 +48,9 @@ Vêtements de bonne qualité
 ## 🚪 Évolution
 
 ### Accès
-[[Bandit de grand chemin\|Bandit de grand chemin]]
+[[Carrières/Carrières avancées/Bandit de grand chemin\|Bandit de grand chemin]]
 [[Carrières/Carrières de base/Bourgeois\|Bourgeois]]
-[[Capitaine\|Capitaine]]
+[[Carrières/Carrières avancées/Capitaine\|Capitaine]]
 [[Carrières/Carrières de base/Etudiant\|Étudiant]]
 [[Carrières/Carrières de base/Fanatique\|Fanatique]]
 [[Héraut\|Héraut]]
@@ -61,7 +61,7 @@ Vêtements de bonne qualité
 
 ### Débouchés
 [[Ancien prisonnier\|Ancien prisonnier]]
-[[Charlatan\|Charlatan]]
+[[Carrières/Carrières avancées/Charlatan\|Charlatan]]
 [[Démagogue\|Démagogue]]
 [[Carrières/Carrières de base/Escroc\|Escroc]]
 [[Carrières/Carrières de base/Fanatique\|Fanatique]]

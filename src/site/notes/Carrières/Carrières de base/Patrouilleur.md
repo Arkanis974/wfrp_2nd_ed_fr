@@ -58,7 +58,7 @@ Cheval de guerre avec selle et harnais (ou poney pour les [[Halflings\|halflings
 [[Percepteur\|Percepteur]]
 
 ### Débouchés
-[[Bandit de grand chemin\|Bandit de grand chemin]]
+[[Carrières/Carrières avancées/Bandit de grand chemin\|Bandit de grand chemin]]
 [[Carrières/Carrières de base/Collecteur de taxes\|Collecteur de taxes]]
 [[Carrières/Carrières de base/Eclaireur\|Éclaireur]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]

@@ -54,7 +54,7 @@ Armure légère (*[[Veste de cuir\|veste de cuir]]*)
 [[Carrières/Carrières de base/Mercenaire\|Mercenaire]]
 
 ### Débouchés
-[[Bourreau\|Bourreau]]
+[[Carrières/Carrières avancées/Bourreau\|Bourreau]]
 [[Carrières/Carrières de base/Chasseur de primes\|Chasseur de primes]]
 [[Carrières/Carrières de base/Geôlier\|Geôlier]]
 [[Carrières/Carrières de base/Mercenaire\|Mercenaire]]

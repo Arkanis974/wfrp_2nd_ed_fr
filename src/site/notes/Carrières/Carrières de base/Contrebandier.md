@@ -48,7 +48,7 @@ Mule et cariole ou bateau à rames
 ## 🚪 Évolution
 
 ### Accès
-[[Aubergiste\|Aubergiste]]
+[[Carrières/Carrières avancées/Aubergiste\|Aubergiste]]
 [[Carrières/Carrières de base/Batelier\|Batelier]]
 [[Carrières/Carrières de base/Chiffonnier\|Chiffonnier]]
 [[Carrières/Carrières de base/Cocher\|Cocher]]
@@ -65,7 +65,7 @@ Mule et cariole ou bateau à rames
 ### Débouchés
 [[Ancien prisonnier\|Ancien prisonnier]]
 [[Carrières/Carrières de base/Batelier\|Batelier]]
-[[Charlatan\|Charlatan]]
+[[Carrières/Carrières avancées/Charlatan\|Charlatan]]
 [[Carrières/Carrières de base/Combattant des tunnels\|Combattant des tunnels]]
 [[Carrières/Carrières de base/Marin\|Marin]]
 [[Carrières/Carrières de base/Passeur\|Passeur]]

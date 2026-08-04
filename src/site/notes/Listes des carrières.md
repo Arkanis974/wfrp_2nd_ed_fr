@@ -68,4 +68,13 @@
 [[Carrières/Carrières de base/Voleur\|Voleur]]
 ## Carrière avancée
 [[Carrières/Carrières avancées/Aristocrate\|Aristocrate]]
-
+[[Carrières/Carrières avancées/Assassin\|Assassin]]
+[[Carrières/Carrières avancées/Aubergiste\|Aubergiste]]
+[[Carrières/Carrières avancées/Bandit de grand chemin\|Bandit de grand chemin]]
+[[Carrières/Carrières avancées/Baron du crime\|Baron du crime]]
+[[Carrières/Carrières avancées/Bourreau\|Bourreau]]
+[[Carrières/Carrières avancées/Capitaine\|Capitaine]]
+[[Carrières/Carrières avancées/Capitaine de navire\|Capitaine de navire]]
+[[Carrières/Carrières avancées/Champion\|Champion]]
+[[Carrières/Carrières avancées/Champion de justice\|Champion de justice]]
+[[Carrières/Carrières avancées/Charlatan\|Charlatan]]

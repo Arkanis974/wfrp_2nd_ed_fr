@@ -56,7 +56,7 @@ Huile pour lampe
 
 ### Débouchés
 [[Carrières/Carrières de base/Agitateur\|Agitateur]]
-[[Aubergiste\|Aubergiste]]
+[[Carrières/Carrières avancées/Aubergiste\|Aubergiste]]
 [[Carrières/Carrières de base/Bourgeois\|Bourgeois]]
 [[Espion\|Espion]]
 [[Carrières/Carrières de base/Mercanti\|Mercanti]]

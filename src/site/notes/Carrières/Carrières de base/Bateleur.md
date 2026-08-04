@@ -81,7 +81,7 @@ Une au choix :
 [[Carrières/Carrières de base/Voleur\|Voleur]]
 
 ### Débouchés
-[[Charlatan\|Charlatan]]
+[[Carrières/Carrières avancées/Charlatan\|Charlatan]]
 [[Carrières/Carrières de base/Escroc\|Escroc]]
 [[Ménestrel\|Ménestrel]]
 [[Carrières/Carrières de base/Vagabond\|Vagabond]]

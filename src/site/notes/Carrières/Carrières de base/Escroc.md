@@ -49,7 +49,7 @@ Beaux atours ou dés (os) ou paquet  de cartes
 
 ### Accès
 [[Carrières/Carrières de base/Agitateur\|Agitateur]]
-[[Assassin\|Assassin]]
+[[Carrières/Carrières avancées/Assassin\|Assassin]]
 [[Carrières/Carrières de base/Bateleur\|Bateleur]]
 [[Carrières/Carrières de base/Diestro estalien\|Diestro estalien]]
 [[Duelliste\|Duelliste]]
@@ -62,7 +62,7 @@ Beaux atours ou dés (os) ou paquet  de cartes
 ### Débouchés
 [[Ancien prisonnier\|Ancien prisonnier]]
 [[Carrières/Carrières de base/Bateleur\|Bateleur]]
-[[Charlatan\|Charlatan]]
+[[Carrières/Carrières avancées/Charlatan\|Charlatan]]
 [[Démagogue\|Démagogue]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Ramoneur\|Ramoneur]]

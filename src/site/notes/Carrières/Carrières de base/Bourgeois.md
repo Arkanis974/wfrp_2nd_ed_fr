@@ -48,13 +48,13 @@ Vêtements confortables
 ## 🚪 Évolution
 
 ### Accès
-[[Aubergiste\|Aubergiste]]
+[[Carrières/Carrières avancées/Aubergiste\|Aubergiste]]
 [[Carrières/Carrières de base/Serviteur\|Serviteur]]
 
 ### Débouchés
 [[Carrières/Carrières de base/Agitateur\|Agitateur]]
 [[Carrières/Carrières de base/Artisan\|Artisan]]
-[[Aubergiste\|Aubergiste]]
+[[Carrières/Carrières avancées/Aubergiste\|Aubergiste]]
 [[Marchand\|Marchand]]
 [[Carrières/Carrières de base/Milicien\|Milicien]]
 [[Plaideur\|Plaideur]]

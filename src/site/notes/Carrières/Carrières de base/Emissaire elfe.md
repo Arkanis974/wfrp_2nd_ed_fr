@@ -54,7 +54,7 @@ Accessoires de calligraphie
 [[Carrières/Carrières de base/Etudiant\|Étudiant]]
 
 ### Débouchés
-[[Charlatan\|Charlatan]]
+[[Carrières/Carrières avancées/Charlatan\|Charlatan]]
 [[Carrières/Carrières de base/Escroc\|Escroc]]
 [[Carrières/Carrières de base/Etudiant\|Étudiant]]
 [[Marchand\|Marchand]]

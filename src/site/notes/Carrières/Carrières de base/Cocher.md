@@ -52,7 +52,7 @@ Instrument de musique (*Corne de cocher*)
 [[Carrières/Carrières de base/Messager\|Messager]]
 
 ### Débouchés
-[[Bandit de grand chemin\|Bandit de grand chemin]]
+[[Carrières/Carrières avancées/Bandit de grand chemin\|Bandit de grand chemin]]
 [[Cartographe\|Cartographe]]
 [[Carrières/Carrières de base/Collecteur de taxes\|Collecteur de taxes]]
 [[Carrières/Carrières de base/Contrebandier\|Contrebandier]]

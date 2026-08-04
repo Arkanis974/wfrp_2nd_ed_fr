@@ -51,7 +51,7 @@ Outils de crochetage
 ### Accès
 [[Ancien prisonnier\|Ancien prisonnier]]
 [[Carrières/Carrières de base/Bateleur\|Bateleur]]
-[[Bourreau\|Bourreau]]
+[[Carrières/Carrières avancées/Bourreau\|Bourreau]]
 [[Carrières/Carrières de base/Collecteur de taxes\|Collecteur de taxes]]
 [[Carrières/Carrières de base/Contrebandier\|Contrebandier]]
 [[Carrières/Carrières de base/Escroc\|Escroc]]
@@ -66,7 +66,7 @@ Outils de crochetage
 [[Carrières/Carrières de base/Vagabond\|Vagabond]]
 ### Débouchés
 [[Carrières/Carrières de base/Bateleur\|Bateleur]]
-[[Charlatan\|Charlatan]]
+[[Carrières/Carrières avancées/Charlatan\|Charlatan]]
 [[Carrières/Carrières de base/Escroc\|Escroc]]
 [[Monte-en-l'air\|Monte-en-l'air]]
 [[Carrières/Carrières de base/Pilleur de tombes\|Pilleur de tombes]]

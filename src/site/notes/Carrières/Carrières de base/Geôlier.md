@@ -55,7 +55,7 @@ Une au choix parmi :
 [[Carrières/Carrières de base/Ratier\|Ratier]]
 
 ### Débouchés
-[[Bourreau\|Bourreau]]
+[[Carrières/Carrières avancées/Bourreau\|Bourreau]]
 [[Égoutier\|Égoutier]]
 [[Carrières/Carrières de base/Garde\|Garde]]
 [[Carrières/Carrières de base/Garde du corps\|Garde du corps]]

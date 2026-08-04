@@ -51,7 +51,7 @@ Armure légère (*[[Veste de cuir\|veste de cuir]]*)
 [[Carrières/Carrières de base/Contrebandier\|Contrebandier]]
 
 ### Débouchés
-[[Bandit de grand chemin\|Bandit de grand chemin]]
+[[Carrières/Carrières avancées/Bandit de grand chemin\|Bandit de grand chemin]]
 [[Carrières/Carrières de base/Batelier\|Batelier]]
 [[Carrières/Carrières de base/Contrebandier\|Contrebandier]]
 [[Carrières/Carrières de base/Marin\|Marin]]
