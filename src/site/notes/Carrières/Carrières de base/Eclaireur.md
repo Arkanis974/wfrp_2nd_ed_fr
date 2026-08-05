@@ -63,4 +63,4 @@ Cheval de selle avec selle et harnais
 [[Carrières/Carrières de base/Cocher\|Cocher]]
 [[Carrières/Carrières de base/Mercenaire\|Mercenaire]]
 [[Carrières/Carrières de base/Patrouilleur\|Patrouilleur]]
-[[Pisteur\|Pisteur]]
+[[Carrières/Carrières avancées/Pisteur\|Pisteur]]

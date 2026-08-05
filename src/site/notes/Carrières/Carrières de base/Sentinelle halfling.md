@@ -57,7 +57,7 @@ Poney avec selle et harnais
 
 ### Débouchés
 [[Carrières/Carrières de base/Chasseur de primes\|Chasseur de primes]]
-[[Chasseur de vampires\|Chasseur de vampires]]
+[[Carrières/Carrières avancées/Chasseur de vampires\|Chasseur de vampires]]
 [[Carrières/Carrières de base/Mercenaire\|Mercenaire]]
-[[Pisteur\|Pisteur]]
+[[Carrières/Carrières avancées/Pisteur\|Pisteur]]
 [[Carrières/Carrières de base/Vagabond\|Vagabond]]

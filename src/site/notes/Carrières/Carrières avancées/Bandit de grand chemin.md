@@ -71,4 +71,4 @@ Cheval de selle avec selle et harnais
 [[Chef de bande\|Chef de bande]]
 [[Duelliste\|Duelliste]]
 [[Prince des voleurs\|Prince des voleurs]]
-[[Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]

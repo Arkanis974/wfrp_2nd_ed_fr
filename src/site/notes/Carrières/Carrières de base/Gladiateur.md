@@ -57,4 +57,4 @@ Armure moyenne (*[[Gilet de mailles\|gilet de mailles]]* et *[[Veste de cuir\|ve
 [[Carrières/Carrières de base/Mercenaire\|Mercenaire]]
 [[Carrières/Carrières de base/Spadassin\|Spadassin]]
 [[Carrières/Carrières de base/Tueur de trolls\|Tueur de trolls]]
-[[Vétéran\|Vétéran]]
+[[Carrières/Carrières avancées/Vétéran\|Vétéran]]

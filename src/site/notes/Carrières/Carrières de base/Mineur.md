@@ -58,5 +58,5 @@ Lampe-tempête
 [[Carrières/Carrières de base/Contrebandier\|Contrebandier]]
 [[Ingénieur\|Ingénieur]]
 [[Carrières/Carrières de base/Mercenaire\|Mercenaire]]
-[[Pisteur\|Pisteur]]
+[[Carrières/Carrières avancées/Pisteur\|Pisteur]]
 [[Ramoneur\|Ramoneur]]

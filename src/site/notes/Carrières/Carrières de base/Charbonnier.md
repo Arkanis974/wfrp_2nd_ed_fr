@@ -56,6 +56,6 @@ Arme à une main (hachette)
 [[Carrières/Carrières de base/Bûcheron\|Bûcheron]]
 [[Carrières/Carrières de base/Chasseur\|Chasseur]]
 [[Carrières/Carrières de base/Mineur\|Mineur]]
-[[Pisteur\|Pisteur]]
+[[Carrières/Carrières avancées/Pisteur\|Pisteur]]
 [[Ramoneur\|Ramoneur]]
 [[Carrières/Carrières de base/Vagabond\|Vagabond]]

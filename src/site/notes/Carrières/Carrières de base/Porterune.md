@@ -56,6 +56,6 @@ Porte-bonheur
 ### Débouchés
 [[Carrières/Carrières de base/Combattant des tunnels\|Combattant des tunnels]]
 [[Carrières/Carrières de base/Pilleur de tombes\|Pilleur de tombes]]
-[[Pisteur\|Pisteur]]
+[[Carrières/Carrières avancées/Pisteur\|Pisteur]]
 [[Carrières/Carrières de base/Ratier\|Ratier]]
-[[Vétéran\|Vétéran]]
+[[Carrières/Carrières avancées/Vétéran\|Vétéran]]

@@ -63,5 +63,5 @@ Cheval de guerre avec selle et harnais (ou poney pour les [[Halflings\|halflings
 [[Carrières/Carrières de base/Eclaireur\|Éclaireur]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Carrières/Carrières de base/Messager\|Messager]]
-[[Pisteur\|Pisteur]]
-[[Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Pisteur\|Pisteur]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]

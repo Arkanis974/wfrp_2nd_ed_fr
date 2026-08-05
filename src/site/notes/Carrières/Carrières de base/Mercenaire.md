@@ -73,5 +73,5 @@ Potion de soins
 [[Carrières/Carrières de base/Combattant des tunnels\|Combattant des tunnels]]
 [[Carrières/Carrières de base/Garde du corps\|Garde du corps]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
-[[Sergent\|Sergent]]
-[[Vétéran\|Vétéran]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Vétéran\|Vétéran]]

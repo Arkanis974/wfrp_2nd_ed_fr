@@ -58,5 +58,5 @@ Cheval de selle avec selle et harnais
 [[Chevalier\|Chevalier]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Carrières/Carrières de base/Noble\|Noble]]
-[[Sergent\|Sergent]]
-[[Vétéran\|Vétéran]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Vétéran\|Vétéran]]

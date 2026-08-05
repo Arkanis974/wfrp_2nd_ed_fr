@@ -58,7 +58,7 @@ Huile pour lampe
 
 ### Débouchés
 [[Ancien prisonnier\|Ancien prisonnier]]
-[[Chasseur de vampires\|Chasseur de vampires]]
+[[Carrières/Carrières avancées/Chasseur de vampires\|Chasseur de vampires]]
 [[Carrières/Carrières de base/Combattant des tunnels\|Combattant des tunnels]]
 [[Carrières/Carrières de base/Ratier\|Ratier]]
 [[Receleur\|Receleur]]

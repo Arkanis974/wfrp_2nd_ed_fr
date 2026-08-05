@@ -60,5 +60,5 @@ Uniforme
 [[Carrières/Carrières de base/Patrouilleur\|Patrouilleur]]
 [[Plaideur\|Plaideur]]
 [[Racketteur\|Racketteur]]
-[[Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]
 [[Carrières/Carrières de base/Soldat\|Soldat]]

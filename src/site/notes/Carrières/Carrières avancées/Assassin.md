@@ -62,10 +62,10 @@ Grappin
 [[Chef de bande\|Chef de bande]]
 [[Duelliste\|Duelliste]]
 [[Espion\|Espion]]
-[[Franc archer\|Franc archer]]
+[[Carrières/Carrières avancées/Franc-archer\|Franc-archer]]
 ### Débouchés
 [[Carrières/Carrières avancées/Champion\|Champion]]
 [[Chef de bande\|Chef de bande]]
 [[Carrières/Carrières de base/Escroc\|Escroc]]
 [[Répurgateur\|Répurgateur]]
-[[Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]

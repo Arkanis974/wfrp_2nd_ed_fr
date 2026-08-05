@@ -59,6 +59,6 @@ Uniforme
 [[Carrières/Carrières de base/Eclaireur\|Éclaireur]]
 [[Carrières/Carrières de base/Garde\|Garde]]
 [[Carrières/Carrières de base/Mercenaire\|Mercenaire]]
-[[Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]
 [[Carrières/Carrières de base/Vagabond\|Vagabond]]
-[[Vétéran\|Vétéran]]
+[[Carrières/Carrières avancées/Vétéran\|Vétéran]]

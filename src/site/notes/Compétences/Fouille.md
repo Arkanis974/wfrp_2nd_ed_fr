@@ -9,3 +9,5 @@
 **Talents liés :** Aucun
 ## 📜 Description
 On utilise cette compétence pour rechercher des indices, des trésors et autres objets cachés (y compris des pièges) dans un lieu donné. Un test est nécessaire pour chaque pièce ou zone.
+
+*Règle maison : le bonus de [[Talents/Connaissance des pièges\|Connaissance des pièges]] s'applique également au test de Fouille.*

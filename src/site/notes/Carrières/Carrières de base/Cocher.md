@@ -59,4 +59,4 @@ Instrument de musique (*Corne de cocher*)
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Carrières/Carrières de base/Passeur\|Passeur]]
 [[Carrières/Carrières de base/Patrouilleur\|Patrouilleur]]
-[[Pisteur\|Pisteur]]
+[[Carrières/Carrières avancées/Pisteur\|Pisteur]]

@@ -60,8 +60,8 @@ Unité de troupes
 [[Chevalier du cercle intérieur\|Chevalier du cercle intérieur]]
 [[Explorateur\|Explorateur]]
 [[Répurgateur\|Répurgateur]]
-[[Rôdeur fantôme\|Rôdeur fantôme]]
-[[Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Rôdeur fantôme\|Rôdeur fantôme]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]
 ### Débouchés
 [[Carrières/Carrières de base/Agitateur\|Agitateur]]
 [[Chef de bande\|Chef de bande]]

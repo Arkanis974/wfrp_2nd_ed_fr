@@ -69,7 +69,7 @@ Outre
 [[Carrières/Carrières de base/Bûcheron\|Bûcheron]]
 [[Carrières/Carrières de base/Chiffonnier\|Chiffonnier]]
 [[Moine\|Moine]]
-[[Pisteur\|Pisteur]]
+[[Carrières/Carrières avancées/Pisteur\|Pisteur]]
 [[Ramasseur de fumier\|Ramasseur de fumier]]
 [[Vaurien\|Vaurien]]
 [[Carrières/Carrières de base/Voleur\|Voleur]]

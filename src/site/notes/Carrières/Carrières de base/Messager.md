@@ -61,5 +61,5 @@ Bouclier
 [[Héraut\|Héraut]]
 [[Carrières/Carrières de base/Patrouilleur\|Patrouilleur]]
 [[Percepteur\|Percepteur]]
-[[Pisteur\|Pisteur]]
+[[Carrières/Carrières avancées/Pisteur\|Pisteur]]
 [[Carrières/Carrières de base/Soldat\|Soldat]]

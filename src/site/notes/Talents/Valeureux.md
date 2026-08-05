@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/valeureux/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
+{"dg-publish":true,"permalink":"/talents/valeureux/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"aliases":["Coeur vaillant"]}}
 ---
 
 # Valeureux

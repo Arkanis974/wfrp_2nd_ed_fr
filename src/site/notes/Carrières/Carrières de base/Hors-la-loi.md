@@ -70,5 +70,5 @@ Armure légère (gilet de cuir)
 [[Carrières/Carrières avancées/Bandit de grand chemin\|Bandit de grand chemin]]
 [[Démagogue\|Démagogue]]
 [[Carrières/Carrières de base/Vagabond\|Vagabond]]
-[[Vétéran\|Vétéran]]
+[[Carrières/Carrières avancées/Vétéran\|Vétéran]]
 [[Carrières/Carrières de base/Voleur\|Voleur]]

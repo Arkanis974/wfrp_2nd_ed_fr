@@ -60,4 +60,4 @@ Grappin
 [[Carrières/Carrières de base/Coupe-jarret\|Coupe-jarret]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Officier en second\|Officier en second]]
-[[Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]

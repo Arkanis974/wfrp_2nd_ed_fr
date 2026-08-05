@@ -21,6 +21,7 @@
 [[Talents/Combattant virevoltant\|Combattant virevoltant]]
 [[Talents/Connaissance des pièges\|Connaissance des pièges]]
 [[Talents/Contorsionniste\|Contorsionniste]]
+[[Talents/Coup au but\|Coup au but]]
 [[Talents/Coups assommants\|Coups assommants]]
 [[Talents/Coups précis\|Coups précis]]
 [[Talents/Coups puissants\|Coups puissants]]

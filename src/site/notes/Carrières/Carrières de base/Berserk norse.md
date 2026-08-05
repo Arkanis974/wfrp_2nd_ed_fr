@@ -55,5 +55,5 @@ Aucun
 [[Carrières/Carrières de base/Gladiateur\|Gladiateur]]
 [[Carrières/Carrières de base/Marin\|Marin]]
 [[Carrières/Carrières de base/Mercenaire\|Mercenaire]]
-[[Sergent\|Sergent]]
-[[Vétéran\|Vétéran]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Vétéran\|Vétéran]]

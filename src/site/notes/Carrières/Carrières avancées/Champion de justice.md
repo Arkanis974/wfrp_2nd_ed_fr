@@ -46,11 +46,11 @@ Rondache ou Main gauche
 ## 🚪 Évolution
 
 ### Accès
-[[Sergent\|Sergent]]
-[[Vétéran\|Vétéran]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Vétéran\|Vétéran]]
 ### Débouchés
 [[Carrières/Carrières avancées/Assassin\|Assassin]]
 [[Carrières/Carrières avancées/Champion\|Champion]]
 [[Carrières/Carrières de base/Fanatique\|Fanatique]]
 [[Répurgateur\|Répurgateur]]
-[[Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]

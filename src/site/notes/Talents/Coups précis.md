@@ -7,3 +7,5 @@
 
 ## 📜 Description
 Vous êtes passé maitre dans l'art de frapper le point faible de l'ennemi. La valeur de vos *coups critiques* augmente de *+1*.
+
+*Un personnage a le droit de prendre Coup au but à la place du talent [[Talents/Coups précis\|Coups précis]] dans le cadre d'une carrière proposant celui-ci, mais il peut tout aussi bien acheter les deux contre 100xp chacun.*

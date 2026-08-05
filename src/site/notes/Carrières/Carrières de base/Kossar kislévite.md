@@ -55,5 +55,5 @@ Aucun
 [[Carrières/Carrières de base/Chasseur de primes\|Chasseur de primes]]
 [[Carrières/Carrières de base/Combattant des tunnels\|Combattant des tunnels]]
 [[Carrières/Carrières de base/Mercenaire\|Mercenaire]]
-[[Sergent\|Sergent]]
-[[Vétéran\|Vétéran]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Vétéran\|Vétéran]]

@@ -38,6 +38,8 @@ Les nains disgraciés, malheureux en amour ou humiliés renoncent à la sociét�
 [[Talents/Maitrise\|Maitrise]] (*armes lourdes*)
 [[Talents/Réflexes éclair\|Réflexes éclair]] ou [[Talents/Résistance accrue\|Résistance accrue]]
 
+*Règle maison : Le talent [[Talents/Ambidextre\|Ambidextre]] peut être ajouté à la liste des talents au lieu de [[Talents/Maitrise\|Maitrise]] (armes lourdes).*
+
 ---
 ## 🎒 Dotations
 Arme à deux mains
@@ -50,4 +52,4 @@ Une bouteille d'alcool fort de qualité médiocre
 ### Accès
 [[Carrières/Carrières de base/Gladiateur\|Gladiateur]]
 ### Débouchés
-[[Tueur de géants\|Tueur de géants]]
+[[Carrières/Carrières avancées/Tueur de géants\|Tueur de géants]]

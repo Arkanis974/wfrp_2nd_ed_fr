@@ -67,5 +67,5 @@ Outre
 [[Carrières/Carrières de base/Gladiateur\|Gladiateur]]
 [[Carrières/Carrières de base/Pilleur de tombes\|Pilleur de tombes]]
 [[Carrières/Carrières de base/Porterune\|Porterune]]
-[[Sergent\|Sergent]]
-[[Vétéran\|Vétéran]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Vétéran\|Vétéran]]

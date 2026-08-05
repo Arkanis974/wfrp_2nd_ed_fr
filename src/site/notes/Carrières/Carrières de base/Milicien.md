@@ -68,5 +68,5 @@ Uniforme
 [[Carrières/Carrières de base/Mercenaire\|Mercenaire]]
 [[Carrières/Carrières de base/Messager\|Messager]]
 [[Carrières/Carrières de base/Sentinelle halfling\|Sentinelle halfling]]
-[[Sergent\|Sergent]]
+[[Carrières/Carrières avancées/Sergent\|Sergent]]
 [[Carrières/Carrières de base/Voleur\|Voleur]]

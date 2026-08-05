@@ -55,5 +55,5 @@ Nécessaire antipoison
 [[Chevalier du Champ Verdoyant\|Chevalier du Champ Verdoyant]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Carrières/Carrières de base/Milicien\|Milicien]]
-[[Pisteur\|Pisteur]]
+[[Carrières/Carrières avancées/Pisteur\|Pisteur]]
 [[Carrières/Carrières de base/Vagabond\|Vagabond]]

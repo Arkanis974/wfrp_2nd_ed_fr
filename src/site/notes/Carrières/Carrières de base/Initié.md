@@ -49,7 +49,7 @@ Robe
 ## 🚪 Évolution
 
 ### Accès
-[[Chasseur de vampires\|Chasseur de vampires]]
+[[Carrières/Carrières avancées/Chasseur de vampires\|Chasseur de vampires]]
 [[Chevalier\|Chevalier]]
 [[Dilettante\|Dilettante]]
 [[Carrières/Carrières de base/Etudiant\|Étudiant]]

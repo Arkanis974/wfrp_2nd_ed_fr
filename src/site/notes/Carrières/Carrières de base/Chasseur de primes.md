@@ -58,8 +58,8 @@ Menottes
 [[Carrières/Carrières de base/Sentinelle halfling\|Sentinelle halfling]]
 
 ### Débouchés
-[[Chasseur de vampires\|Chasseur de vampires]]
-[[Franc archer\|Franc archer]]
+[[Carrières/Carrières avancées/Chasseur de vampires\|Chasseur de vampires]]
+[[Carrières/Carrières avancées/Franc-archer\|Franc-archer]]
 [[Carrières/Carrières de base/Mercenaire\|Mercenaire]]
-[[Pisteur\|Pisteur]]
+[[Carrières/Carrières avancées/Pisteur\|Pisteur]]
 [[Carrières/Carrières de base/Spadassin\|Spadassin]]
