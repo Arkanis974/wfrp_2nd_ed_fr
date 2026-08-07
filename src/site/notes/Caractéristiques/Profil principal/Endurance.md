@@ -9,4 +9,4 @@
 ## 📜 Description
 Cette caractéristique représente la capacité de votre personnage à supporter les blessures, la maladie et le poison.
 
-La page "[[Caractéristiques/Les caractéristiques\|Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
+La page "[[Les caractéristiques\|Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.

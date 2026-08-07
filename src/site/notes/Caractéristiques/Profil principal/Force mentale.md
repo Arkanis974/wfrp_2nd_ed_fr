@@ -9,4 +9,4 @@
 ## 📜 Description
 Cette caractéristique représente la résistance mentale de votre personnage et sa persévérance.
 
-La page "[[Caractéristiques/Les caractéristiques\|Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
+La page "[[Les caractéristiques\|Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
