@@ -50,7 +50,7 @@ Robe
 
 ### Accès
 [[Carrières/Carrières avancées/Chasseur de vampires\|Chasseur de vampires]]
-[[Chevalier\|Chevalier]]
+[[Carrières/Carrières avancées/Chevalier\|Chevalier]]
 [[Dilettante\|Dilettante]]
 [[Carrières/Carrières de base/Etudiant\|Étudiant]]
 [[Carrières/Carrières de base/Fanatique\|Fanatique]]

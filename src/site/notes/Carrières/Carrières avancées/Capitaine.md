@@ -55,16 +55,16 @@ Unité de troupes
 
 ### Accès
 [[Carrières/Carrières avancées/Aristocrate\|Aristocrate]]
-[[Chef de bande\|Chef de bande]]
-[[Chevalier\|Chevalier]]
-[[Chevalier du cercle intérieur\|Chevalier du cercle intérieur]]
+[[Carrières/Carrières avancées/Chef de bande\|Chef de bande]]
+[[Carrières/Carrières avancées/Chevalier\|Chevalier]]
+[[Carrières/Carrières avancées/Chevalier du cercle intérieur\|Chevalier du cercle intérieur]]
 [[Explorateur\|Explorateur]]
 [[Répurgateur\|Répurgateur]]
 [[Carrières/Carrières avancées/Rôdeur fantôme\|Rôdeur fantôme]]
 [[Carrières/Carrières avancées/Sergent\|Sergent]]
 ### Débouchés
 [[Carrières/Carrières de base/Agitateur\|Agitateur]]
-[[Chef de bande\|Chef de bande]]
+[[Carrières/Carrières avancées/Chef de bande\|Chef de bande]]
 [[Explorateur\|Explorateur]]
 [[Marchand\|Marchand]]
 [[Politicien\|Politicien]]

@@ -68,7 +68,7 @@ Cheval de selle avec selle et harnais
 [[Vaurien\|Vaurien]]
 ### Débouchés
 [[Carrières/Carrières de base/Agitateur\|Agitateur]]
-[[Chef de bande\|Chef de bande]]
+[[Carrières/Carrières avancées/Chef de bande\|Chef de bande]]
 [[Duelliste\|Duelliste]]
 [[Prince des voleurs\|Prince des voleurs]]
 [[Carrières/Carrières avancées/Sergent\|Sergent]]

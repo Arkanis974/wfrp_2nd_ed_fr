@@ -61,5 +61,5 @@ Armure légère (*[[Armure de cuir complète\|Armure de cuir complète]] de qual
 ### Débouchés
 [[Carrières/Carrières avancées/Capitaine\|Capitaine]]
 [[Carrières/Carrières avancées/Chasseur de vampires\|Chasseur de vampires]]
-[[Chef de bande\|Chef de bande]]
+[[Carrières/Carrières avancées/Chef de bande\|Chef de bande]]
 [[Carrières/Carrières avancées/Franc-archer\|Franc-archer]]

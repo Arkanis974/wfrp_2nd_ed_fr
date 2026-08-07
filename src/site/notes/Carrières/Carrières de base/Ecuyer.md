@@ -55,7 +55,7 @@ Cheval de selle avec selle et harnais
 [[Carrières/Carrières de base/Valet\|Valet]]
 
 ### Débouchés
-[[Chevalier\|Chevalier]]
+[[Carrières/Carrières avancées/Chevalier\|Chevalier]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Carrières/Carrières de base/Noble\|Noble]]
 [[Carrières/Carrières avancées/Sergent\|Sergent]]

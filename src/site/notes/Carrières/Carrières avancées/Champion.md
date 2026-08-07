@@ -50,7 +50,7 @@ Armure moyenne (*[[Gilet de mailles\|Gilet de mailles]]* et *[[Veste de cuir\|Ve
 ### Accès
 [[Carrières/Carrières avancées/Assassin\|Assassin]]
 [[Carrières/Carrières avancées/Champion de justice\|Champion de justice]]
-[[Chevalier du cercle intérieur\|Chevalier du cercle intérieur]]
+[[Carrières/Carrières avancées/Chevalier du cercle intérieur\|Chevalier du cercle intérieur]]
 [[Duelliste\|Duelliste]]
 [[Carrières/Carrières avancées/Franc-archer\|Franc-archer]]
 [[Répurgateur\|Répurgateur]]

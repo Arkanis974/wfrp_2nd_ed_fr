@@ -66,6 +66,6 @@ Bouteille d'alcool fort de bonne qualité
 ### Débouchés
 [[Carrières/Carrières avancées/Champion\|Champion]]
 [[Carrières/Carrières avancées/Champion de justice\|Champion de justice]]
-[[Chef de bande\|Chef de bande]]
+[[Carrières/Carrières avancées/Chef de bande\|Chef de bande]]
 [[Carrières/Carrières avancées/Franc-archer\|Franc-archer]]
 [[Carrières/Carrières avancées/Sergent\|Sergent]]

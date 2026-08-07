@@ -73,5 +73,5 @@ Bouclier
 ### Débouchés
 [[Carrières/Carrières avancées/Capitaine\|Capitaine]]
 [[Carrières/Carrières avancées/Champion de justice\|Champion de justice]]
-[[Chevalier\|Chevalier]]
+[[Carrières/Carrières avancées/Chevalier\|Chevalier]]
 [[Duelliste\|Duelliste]]

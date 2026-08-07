@@ -56,13 +56,13 @@ Eau bénite
 
 ### Accès
 [[Carrières/Carrières de base/Chasseur de primes\|Chasseur de primes]]
-[[Chevalier\|Chevalier]]
+[[Carrières/Carrières avancées/Chevalier\|Chevalier]]
 [[Carrières/Carrières de base/Pilleur de tombes\|Pilleur de tombes]]
 [[Carrières/Carrières avancées/Pisteur\|Pisteur]]
 [[Carrières/Carrières avancées/Rôdeur fantôme\|Rôdeur fantôme]]
 [[Carrières/Carrières de base/Sentinelle halfling\|Sentinelle halfling]]
 ### Débouchés
-[[Chevalier\|Chevalier]]
+[[Carrières/Carrières avancées/Chevalier\|Chevalier]]
 [[Démagogue\|Démagogue]]
 [[Carrières/Carrières avancées/Franc-archer\|Franc-archer]]
 [[Carrières/Carrières de base/Initié\|Initié]]

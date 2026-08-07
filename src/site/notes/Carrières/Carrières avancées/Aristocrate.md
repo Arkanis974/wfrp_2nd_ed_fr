@@ -55,12 +55,12 @@ Destrier avec selle et harnais
 
 ### Accès
 [[Carrières/Carrières avancées/Capitaine de navire\|Capitaine de navire]]
-[[Chevalier\|Chevalier]]
-[[Chevalier du cercle intérieur\|Chevalier du cercle intérieur]]
+[[Carrières/Carrières avancées/Chevalier\|Chevalier]]
+[[Carrières/Carrières avancées/Chevalier du cercle intérieur\|Chevalier du cercle intérieur]]
 [[Courtisan\|Courtisan]]
 [[Politicien\|Politicien]]
 ### Débouchés
 [[Carrières/Carrières avancées/Capitaine\|Capitaine]]
 [[Carrières/Carrières avancées/Capitaine de navire\|Capitaine de navire]]
-[[Chevalier\|Chevalier]]
+[[Carrières/Carrières avancées/Chevalier\|Chevalier]]
 [[Erudit\|Érudit]]
