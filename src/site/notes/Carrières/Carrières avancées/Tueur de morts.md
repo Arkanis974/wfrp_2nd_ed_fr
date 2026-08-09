@@ -55,7 +55,7 @@ Peu de gens survivent à une existence de chasseur de vampires. Parmi ceux qui y
 ## 🎒 Dotations
 Eau bénite
 6 pieux
-Arme eb argent
+Arme en argent
 
 ---
 ## 🚪 Évolution
