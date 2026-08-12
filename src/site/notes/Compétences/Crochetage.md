@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences/crochetage/","tags":["Compétences/Avancée","Compétences"],"dg-note-properties":{"tags":["Compétences/Avancée","Compétences"],"Lien":["[[Accueil]]","[[Les compétences]]","[[Listes des compétences]]"]}}
+{"dg-publish":true,"permalink":"/competences/crochetage/","tags":["Compétences/Avancée","Compétences"],"dg-note-properties":{"tags":["Compétences/Avancée","Compétences"]}}
 ---
 
 # Crochetage

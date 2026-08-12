@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/les-races-de-warhammer/","tags":["Caractéristiques","Univers"],"dg-note-properties":{"tags":["Caractéristiques","Univers"],"Lien":["[[Accueil]]","[[Les caractéristiques]]","[[Les compétences\|Les compétences]]","[[Les talents\|Les talents]]"]}}
+{"dg-publish":true,"permalink":"/les-races-de-warhammer/","tags":["Caractéristiques","Univers"],"dg-note-properties":{"tags":["Caractéristiques","Univers"]}}
 ---
 
 # Les races de Warhammer
@@ -167,7 +167,7 @@ Un personnage halfling reçoit les compétences suivantes :
 - [[Compétences/Langue\|Langue]] (*reikspiel*)
 - [[Compétences/Métier\|Métier]] (*cuisinier* ou *fermier*).
 
-Vous pouvez trouver plus d'information sur les compétences à la page [[Les compétences]].
+Vous pouvez trouver plus d'information sur les compétences à la page [[Les compétences\|Les compétences]].
 
 ##### Les talents
 Un personnage halfling commence la partie avec les talents :
@@ -176,7 +176,7 @@ Un personnage halfling commence la partie avec les talents :
 - [[Talents/Vision nocturne\|Vision nocturne]]
 - et 1 talent déterminé aléatoirement par 1d100.
 
-Vous pouvez trouver plus d'information sur les talents à la page [[Les talents]].
+Vous pouvez trouver plus d'information sur les talents à la page [[Les talents\|Les talents]].
 
 | *Talent*                    | *Résultat du d100* |
 | --------------------------- | :----------------: |

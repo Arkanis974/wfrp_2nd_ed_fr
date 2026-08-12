@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/les-caracteristiques/","tags":["Caractéristiques"],"dg-note-properties":{"tags":["Caractéristiques"],"Lien":["[[Accueil]]","[[Listes des caractéristiques]]","[[Les races de Warhammer]]"]}}
+{"dg-publish":true,"permalink":"/les-caracteristiques/","tags":["Caractéristiques"],"dg-note-properties":{"tags":["Caractéristiques"]}}
 ---
 
 # Les caractéristiques

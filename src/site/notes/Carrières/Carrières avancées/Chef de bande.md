@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-avancees/chef-de-bande/","tags":["Carrière","Carrière/Avancée"],"dg-note-properties":{"tags":["Carrière","Carrière/Avancée"],"Lien":["[[Accueil]]","[[Listes des carrières]]"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-avancees/chef-de-bande/","tags":["Carrière","Carrière/Avancée"],"dg-note-properties":{"tags":["Carrière","Carrière/Avancée"]}}
 ---
 
 # Chef de bande

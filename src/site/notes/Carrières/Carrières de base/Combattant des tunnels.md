@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/combattant-des-tunnels/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"],"Lien":["[[Accueil]]","[[Listes des carrières]]"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/combattant-des-tunnels/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"]}}
 ---
 
 # Combattants des tunnels

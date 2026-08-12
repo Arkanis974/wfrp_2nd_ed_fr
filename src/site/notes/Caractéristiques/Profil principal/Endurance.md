@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caracteristiques/profil-principal/endurance/","tags":["Caractéristiques","Profil_principal"],"dg-note-properties":{"tags":["Caractéristiques","Profil_principal"],"Lien":["[[Accueil]]","[[Les caractéristiques\|Les caractéristiques]]"]}}
+{"dg-publish":true,"permalink":"/caracteristiques/profil-principal/endurance/","tags":["Caractéristiques","Profil_principal"],"dg-note-properties":{"tags":["Caractéristiques","Profil_principal"]}}
 ---
 
 # Endurance (E)
@@ -9,4 +9,4 @@
 ## 📜 Description
 Cette caractéristique représente la capacité de votre personnage à supporter les blessures, la maladie et le poison.
 
-La page "[[Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
+La page "[[Les caractéristiques\|Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.

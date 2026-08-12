@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/savoir-faire-nain/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
+{"dg-publish":true,"permalink":"/talents/savoir-faire-nain/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
 ---
 
 # Savoir-faire nain

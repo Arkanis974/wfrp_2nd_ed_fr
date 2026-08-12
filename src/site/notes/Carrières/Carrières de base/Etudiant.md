@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/etudiant/","tags":["Carrière","Carrière/Base"],"dg-note-properties":{"tags":["Carrière","Carrière/Base"],"aliases":["Étudiant"],"Lien":["[[Accueil]]","[[Listes des carrières]]"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/etudiant/","tags":["Carrière","Carrière/Base"],"dg-note-properties":{"tags":["Carrière","Carrière/Base"],"aliases":["Étudiant"]}}
 ---
 
 # Étudiant

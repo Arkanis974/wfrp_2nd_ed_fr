@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/ecuyer/","tags":["Carrière","Carrière/Base"],"dg-note-properties":{"tags":["Carrière","Carrière/Base"],"aliases":["Écuyer"],"Lien":["[[Accueil]]","[[Listes des carrières]]"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/ecuyer/","tags":["Carrière","Carrière/Base"],"dg-note-properties":{"tags":["Carrière","Carrière/Base"],"aliases":["Écuyer"]}}
 ---
 
 # Écuyer

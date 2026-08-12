@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences/sens-de-la-magie/","tags":["Compétences","Compétences/Avancée"],"dg-note-properties":{"tags":["Compétences","Compétences/Avancée"],"Lien":["[[Accueil]]","[[Les compétences]]","[[Listes des compétences]]"]}}
+{"dg-publish":true,"permalink":"/competences/sens-de-la-magie/","tags":["Compétences","Compétences/Avancée"],"dg-note-properties":{"tags":["Compétences","Compétences/Avancée"]}}
 ---
 
 # Sens de la magie

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-avancees/tueur-de-geants/","tags":["Carrière","Carrière/Base"],"dg-note-properties":{"tags":["Carrière","Carrière/Base"],"Lien":["[[Listes des carrières]]"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-avancees/tueur-de-geants/","tags":["Carrière","Carrière/Base"],"dg-note-properties":{"tags":["Carrière","Carrière/Base"]}}
 ---
 
 # Tueur de géants

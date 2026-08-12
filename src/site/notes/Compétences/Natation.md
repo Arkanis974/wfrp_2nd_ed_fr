@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences/natation/","tags":["Compétences","Compétences/Base"],"dg-note-properties":{"tags":["Compétences","Compétences/Base"],"Lien":["[[Accueil]]","[[Les compétences]]","[[Listes des compétences]]"]}}
+{"dg-publish":true,"permalink":"/competences/natation/","tags":["Compétences","Compétences/Base"],"dg-note-properties":{"tags":["Compétences","Compétences/Base"]}}
 ---
 
 # Natation

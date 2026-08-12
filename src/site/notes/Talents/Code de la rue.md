@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/code-de-la-rue/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
+{"dg-publish":true,"permalink":"/talents/code-de-la-rue/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
 ---
 
 # Code de la rue

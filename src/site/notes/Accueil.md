@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/accueil/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
----
 # Accueil
 
 ***Le Vieux Monde est un lieu dangereux où la gloire, la folie et la mort marchent souvent côte à côte.***

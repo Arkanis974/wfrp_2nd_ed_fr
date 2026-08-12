@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/coup-au-but/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
+{"dg-publish":true,"permalink":"/talents/coup-au-but/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
 ---
 
 # Coup au but

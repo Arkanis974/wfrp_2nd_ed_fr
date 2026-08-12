@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/eloquence/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"aliases":["Éloquence"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
+{"dg-publish":true,"permalink":"/talents/eloquence/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"aliases":["Éloquence"]}}
 ---
 
 # Éloquence

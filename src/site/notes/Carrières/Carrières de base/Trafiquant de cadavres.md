@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/trafiquant-de-cadavres/","tags":["Carrière","Carrière/Base"],"dg-note-properties":{"tags":["Carrière","Carrière/Base"],"Lien":["[[Accueil]]","[[Listes des carrières]]"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/trafiquant-de-cadavres/","tags":["Carrière","Carrière/Base"],"dg-note-properties":{"tags":["Carrière","Carrière/Base"]}}
 ---
 
 # Trafiquant de cadavres

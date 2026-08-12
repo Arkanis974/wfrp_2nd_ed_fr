@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/dur-a-cuire/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
+{"dg-publish":true,"permalink":"/talents/dur-a-cuire/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
 ---
 
 # Dur à cuire

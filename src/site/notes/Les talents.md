@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/les-talents/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]"]}}
+{"dg-publish":true,"permalink":"/les-talents/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
 ---
 
 # Les talents

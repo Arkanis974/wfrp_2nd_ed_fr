@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences/navigation/","tags":["Carrière/Base","Compétences/Avancée"],"dg-note-properties":{"tags":["Carrière/Base","Compétences/Avancée"],"Lien":["[[Accueil]]","[[Les compétences]]","[[Listes des compétences]]"]}}
+{"dg-publish":true,"permalink":"/competences/navigation/","tags":["Carrière/Base","Compétences/Avancée"],"dg-note-properties":{"tags":["Carrière/Base","Compétences/Avancée"]}}
 ---
 
 # Navigation

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/les-competences/","tags":["Compétences"],"dg-note-properties":{"tags":["Compétences"],"Lien":["[[Accueil]]","[[Listes des compétences\|Listes des compétences]]","[[Les races de Warhammer]]"]}}
+{"dg-publish":true,"permalink":"/les-competences/","tags":["Compétences"],"dg-note-properties":{"tags":["Compétences"]}}
 ---
 
 # Les compétences
@@ -17,4 +17,4 @@ Lorsqu'une carrière propose une compétence déjà possédée par le personnage
 - 2 fois : *+10%* au test de compétence
 - 3 fois : *+20%* au test de compétence.
 
-Une liste des compétences est disponible à la page "[[Listes des compétences]]".
+Une liste des compétences est disponible à la page "[[Listes des compétences\|Listes des compétences]]".

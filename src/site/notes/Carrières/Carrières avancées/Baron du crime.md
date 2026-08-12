@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-avancees/baron-du-crime/","tags":["Carrière","Carrière/Avancée"],"dg-note-properties":{"tags":["Carrière","Carrière/Avancée"],"Lien":["[[Listes des carrières]]"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-avancees/baron-du-crime/","tags":["Carrière","Carrière/Avancée"],"dg-note-properties":{"tags":["Carrière","Carrière/Avancée"]}}
 ---
 
 # Baron du crime

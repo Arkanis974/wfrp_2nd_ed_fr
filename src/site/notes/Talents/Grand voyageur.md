@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/grand-voyageur/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
+{"dg-publish":true,"permalink":"/talents/grand-voyageur/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
 ---
 
 # Grand voyageur

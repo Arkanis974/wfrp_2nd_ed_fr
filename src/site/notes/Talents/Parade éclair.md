@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/parade-eclair/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
+{"dg-publish":true,"permalink":"/talents/parade-eclair/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
 ---
 
 # Parade éclair
