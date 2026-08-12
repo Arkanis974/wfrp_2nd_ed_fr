@@ -18,7 +18,7 @@ Tout ce dont vous avez besoin de savoir pour [[Creer son personnage\|créer votr
 
 
 ## Les recueils
-### [[Listes des caracteristiques\|Listes des caracteristiques]]
+### [[Listes des caracteristiques\|Liste des caractéristiques]]
 ### [[Listes des carrières\|Listes des carrières]]
 ### [[Listes des compétences\|Listes des compétences]]
 ### [[Listes des talents\|Listes des talents]]
