@@ -17,6 +17,7 @@ Les caractéristiques des humains sont déterminées selon le tableau suivant.
 | [[Caractéristiques/Profil principal/Capacité de combat\|CC]] | [[Caractéristiques/Profil principal/Capacité de tir\|CT]] | [[Caractéristiques/Profil principal/Force\|F]] | [[Caractéristiques/Profil principal/Endurance\|E]] | [[Caractéristiques/Profil principal/Agilité\|Ag]] | [[Caractéristiques/Profil principal/Intelligence\|Int]] | [[Caractéristiques/Profil principal/Force mentale\|FM]] | [[Caractéristiques/Profil principal/Sociabilité\|Soc]] |
 | :------------------------: | :---------------------: | :----------: | :--------------: | :-------------: | :-------------------: | :-------------------: | :------------------: |
 |          20+2d10           |         20+2d10         |   20+2d10    |     20+2d10      |     20+2d10     |        20+2d10        |        20+2d10        |       20+2d10        |
+
 **Profil secondaire**
 
 | [[Caractéristiques/Profil secondaire/Attaques\|A]] |                 [[Caractéristiques/Profil secondaire/Points de blessures\|B]]                 |         [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]]          |        [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]]        | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] |            [[Caractéristiques/Profil secondaire/Point de Destin\|PD]]            | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
@@ -76,6 +77,7 @@ Les caractéristiques des nains sont déterminées selon le tableau suivant.
 | [[Caractéristiques/Profil principal/Capacité de combat\|CC]] | [[Caractéristiques/Profil principal/Capacité de tir\|CT]] | [[Caractéristiques/Profil principal/Force\|F]] | [[Caractéristiques/Profil principal/Endurance\|E]] | [[Caractéristiques/Profil principal/Agilité\|Ag]] | [[Caractéristiques/Profil principal/Intelligence\|Int]] | [[Caractéristiques/Profil principal/Force mentale\|FM]] | [[Caractéristiques/Profil principal/Sociabilité\|Soc]] |
 | :------------------------: | :---------------------: | :----------: | :--------------: | :-------------: | :-------------------: | :-------------------: | :------------------: |
 |          30+2d10           |         20+2d10         |   20+2d10    |     30+2d10      |     10+2d10     |        20+2d10        |        20+2d10        |       10+2d10        |
+
 **Profil secondaire**
 
 | [[Caractéristiques/Profil secondaire/Attaques\|A]] |                 [[Caractéristiques/Profil secondaire/Points de blessures\|B]]                 |         [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]]          |        [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]]        | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] |           [[Caractéristiques/Profil secondaire/Point de Destin\|PD]]            | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
@@ -114,6 +116,7 @@ Les caractéristiques des elfes sont déterminées selon le tableau suivant.
 | [[Caractéristiques/Profil principal/Capacité de combat\|CC]] | [[Caractéristiques/Profil principal/Capacité de tir\|CT]] | [[Caractéristiques/Profil principal/Force\|F]] | [[Caractéristiques/Profil principal/Endurance\|E]] | [[Caractéristiques/Profil principal/Agilité\|Ag]] | [[Caractéristiques/Profil principal/Intelligence\|Int]] | [[Caractéristiques/Profil principal/Force mentale\|FM]] | [[Caractéristiques/Profil principal/Sociabilité\|Soc]] |
 | :------------------------: | :---------------------: | :----------: | :--------------: | :-------------: | :-------------------: | :-------------------: | :------------------: |
 |          20+2d10           |         30+2d10         |   20+2d10    |     20+2d10      |     30+2d10     |        20+2d10        |        20+2d10        |       20+2d10        |
+
 **Profil secondaire**
 
 | [[Caractéristiques/Profil secondaire/Attaques\|A]] |                [[Caractéristiques/Profil secondaire/Points de blessures\|B]]                 |         [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]]          |        [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]]        | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] |            [[Caractéristiques/Profil secondaire/Point de Destin\|PD]]            | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
@@ -149,6 +152,7 @@ Les caractéristiques des halflings sont déterminées selon le tableau suivant.
 | [[Caractéristiques/Profil principal/Capacité de combat\|CC]] | [[Caractéristiques/Profil principal/Capacité de tir\|CT]] | [[Caractéristiques/Profil principal/Force\|F]] | [[Caractéristiques/Profil principal/Endurance\|E]] | [[Caractéristiques/Profil principal/Agilité\|Ag]] | [[Caractéristiques/Profil principal/Intelligence\|Int]] | [[Caractéristiques/Profil principal/Force mentale\|FM]] | [[Caractéristiques/Profil principal/Sociabilité\|Soc]] |
 | :------------------------: | :---------------------: | :----------: | :--------------: | :-------------: | :-------------------: | :-------------------: | :------------------: |
 |          10+2d10           |         30+2d10         |   10+2d10    |     10+2d10      |     30+2d10     |        20+2d10        |        20+2d10        |       30+2d10        |
+
 **Profil secondaire**
 
 | [[Caractéristiques/Profil secondaire/Attaques\|A]] |                [[Caractéristiques/Profil secondaire/Points de blessures\|B]]                |         [[Caractéristiques/Profil secondaire/Bonus de Force\|BF]]          |        [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|BE]]        | [[Caractéristiques/Profil secondaire/Mouvement\|M]] | [[Caractéristiques/Profil secondaire/Magie\|Mag]] |            [[Caractéristiques/Profil secondaire/Point de Destin\|PD]]            | [[Caractéristiques/Profil secondaire/Point de Folie\|PF]] |
