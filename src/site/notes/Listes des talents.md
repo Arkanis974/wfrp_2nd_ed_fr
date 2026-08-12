@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/listes-des-talents/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/listes-des-talents/","dg-note-properties":{"Lien":["[[Accueil]]","[[Les talents]]"]}}
 ---
 
 # Liste des talents

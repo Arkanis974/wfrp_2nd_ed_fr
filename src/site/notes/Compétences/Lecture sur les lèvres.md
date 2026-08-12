@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences/lecture-sur-les-levres/","tags":["Compétences","Compétences/Avancée"],"dg-note-properties":{"tags":["Compétences","Compétences/Avancée"]}}
+{"dg-publish":true,"permalink":"/competences/lecture-sur-les-levres/","tags":["Compétences","Compétences/Avancée"],"dg-note-properties":{"tags":["Compétences","Compétences/Avancée"],"Lien":["[[Accueil]]","[[Les compétences]]","[[Listes des compétences]]"]}}
 ---
 
 # Lecture sur les lèvres

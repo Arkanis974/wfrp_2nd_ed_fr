@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences/equitation/","tags":["Compétences","Compétences/Base"],"dg-note-properties":{"tags":["Compétences","Compétences/Base"],"aliases":["Équitation"]}}
+{"dg-publish":true,"permalink":"/competences/equitation/","tags":["Compétences","Compétences/Base"],"dg-note-properties":{"tags":["Compétences","Compétences/Base"],"aliases":["Équitation"],"Lien":["[[Accueil]]","[[Les compétences]]","[[Listes des compétences]]"]}}
 ---
 
 # Équitation

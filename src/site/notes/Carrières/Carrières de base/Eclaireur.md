@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/eclaireur/","tags":["Carrière","Carrière/Base"],"dg-note-properties":{"tags":["Carrière","Carrière/Base"],"aliases":["Éclaireur"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/eclaireur/","tags":["Carrière","Carrière/Base"],"dg-note-properties":{"tags":["Carrière","Carrière/Base"],"aliases":["Éclaireur"],"Lien":["[[Accueil]]","[[Listes des carrières]]"]}}
 ---
 
 # Éclaireur

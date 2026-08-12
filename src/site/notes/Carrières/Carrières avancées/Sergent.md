@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-avancees/sergent/","tags":["Carrière","Carrière/Avancée"],"dg-note-properties":{"tags":["Carrière","Carrière/Avancée"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-avancees/sergent/","tags":["Carrière","Carrière/Avancée"],"dg-note-properties":{"tags":["Carrière","Carrière/Avancée"],"Lien":["[[Accueil]]","[[Listes des carrières]]"]}}
 ---
 
 # Sergent

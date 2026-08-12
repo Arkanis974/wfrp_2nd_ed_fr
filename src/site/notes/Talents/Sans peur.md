@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/sans-peur/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
+{"dg-publish":true,"permalink":"/talents/sans-peur/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
 ---
 
 # Sans peur

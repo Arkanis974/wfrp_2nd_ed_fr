@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/resistance-aux-poisons/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
+{"dg-publish":true,"permalink":"/talents/resistance-aux-poisons/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
 ---
 
 # Résistance aux poisons

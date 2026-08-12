@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caracteristiques/profil-secondaire/magie/","tags":["Caractéristiques","Profil_secondaire"],"dg-note-properties":{"tags":["Caractéristiques","Profil_secondaire"]}}
+{"dg-publish":true,"permalink":"/caracteristiques/profil-secondaire/magie/","tags":["Caractéristiques","Profil_secondaire"],"dg-note-properties":{"tags":["Caractéristiques","Profil_secondaire"],"Lien":["[[Accueil]]","[[Les caractéristiques\|Les caractéristiques]]"]}}
 ---
 
 # Magie (Mag)
@@ -9,4 +9,4 @@
 ## 📜 Description
 Cette caractéristique représente l'aptitude magique de votre personnage.
 
-La page "[[Les caractéristiques\|Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
+La page "[[Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.

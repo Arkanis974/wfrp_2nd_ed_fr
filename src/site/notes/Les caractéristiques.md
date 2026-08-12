@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/les-caracteristiques/","tags":["Caractéristiques"],"dg-note-properties":{"tags":["Caractéristiques"]}}
+{"dg-publish":true,"permalink":"/les-caracteristiques/","tags":["Caractéristiques"],"dg-note-properties":{"tags":["Caractéristiques"],"Lien":["[[Accueil]]","[[Listes des caractéristiques]]","[[Les races de Warhammer]]"]}}
 ---
 
 # Les caractéristiques
@@ -12,7 +12,7 @@ Les caractéristique du *profil secondaire* sont les suivantes : [[Caractéristi
 
 Le tableau ci-dessous indique comment sont déterminées les caractéristiques pour chaque race de personnage.
 
-**Détermination des caractéristiques**
+## Détermination des caractéristiques selon la race
 
 | Caractéristique                                 |                       [[Elfes\|Elfe]]                       |                   [[Halflings\|Halfling]]                   |                     [[Humains\|Humain]]                     |                       [[Nains\|Nain]]                       |
 | ----------------------------------------------- | :---------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: |
@@ -25,7 +25,7 @@ Le tableau ci-dessous indique comment sont déterminées les caractéristiques p
 | [[Caractéristiques/Profil principal/Force mentale\|Force Mentale (FM)]]           |                           20+2d10                           |                           20+2d10                           |                           20+2d10                           |                           20+2d10                           |
 | [[Caractéristiques/Profil principal/Sociabilité\|Sociabilité (Soc)]]              |                           20+2d10                           |                           30+2d10                           |                           20+2d10                           |                           10+2d10                           |
 | [[Caractéristiques/Profil secondaire/Attaques\|Attaques (A)]]                      |                              1                              |                              1                              |                              1                              |                              1                              |
-| [[Caractéristiques/Profil secondaire/Points de blessures\|Point de Blessures (B)]]           |      1d10 + voir table *Point de Blessures* ci-dessous      |      1d10 + voir table *Point de Blessures* ci-dessous      |      1d10 + voir table *Point de Blessures* ci-dessous      |      1d10 + voir table *Point de Blessures* ci-dessous      |
+| [[Caractéristiques/Profil secondaire/Points de blessures\|Point de Blessures (B)]] |      1d10 + voir table *Point de Blessures* ci-dessous      |      1d10 + voir table *Point de Blessures* ci-dessous      |      1d10 + voir table *Point de Blessures* ci-dessous      |      1d10 + voir table *Point de Blessures* ci-dessous      |
 | [[Caractéristiques/Profil secondaire/Bonus de Force\|Bonus de Force (BF)]]         |  Chiffre des dizaines de la [[Caractéristiques/Profil principal/Force\|Force]] de votre personnage   |  Chiffre des dizaines de la [[Caractéristiques/Profil principal/Force\|Force]] de votre personnage   |  Chiffre des dizaines de la [[Caractéristiques/Profil principal/Force\|Force]] de votre personnage   |  Chiffre des dizaines de la [[Caractéristiques/Profil principal/Force\|Force]] de votre personnage   |
 | [[Caractéristiques/Profil secondaire/Bonus d'Endurance\|Bonus d'Endurance (BE)]]   | Chiffre des dizaines de l'[[Caractéristiques/Profil principal/Endurance\|Endurance]] de votre personnage | Chiffre des dizaines de l'[[Caractéristiques/Profil principal/Endurance\|Endurance]] de votre personnage | Chiffre des dizaines de l'[[Caractéristiques/Profil principal/Endurance\|Endurance]] de votre personnage | Chiffre des dizaines de l'[[Caractéristiques/Profil principal/Endurance\|Endurance]] de votre personnage |
 | [[Caractéristiques/Profil secondaire/Mouvement\|Mouvement (M)]]                    |                              5                              |                              4                              |                              4                              |                              3                              |
@@ -33,7 +33,7 @@ Le tableau ci-dessous indique comment sont déterminées les caractéristiques p
 | [[Caractéristiques/Profil secondaire/Point de Folie\|Point de Folie (PF)]]         |                              0                              |                              0                              |                              0                              |                              0                              |
 | [[Caractéristiques/Profil secondaire/Point de Destin\|Point de Destin (PD)]]       |       1d10 + voir table *Point de Destin* ci-dessous        |       1d10 + voir table *Point de Destin* ci-dessous        |       1d10 + voir table *Point de Destin* ci-dessous        |       1d10 + voir table *Point de Destin* ci-dessous        |
 
-**Table Points de Blessures de départ**
+## Points de Blessures de départ selon la race
 
 | Résultat du d10 | [[Elfes\|Elfe]] | [[Halflings\|Halfling]] | [[Humains\|Humain]] | [[Nains\|Nain]] |
 | --------------- | :-------------: | :---------------------: | :-----------------: | :-------------: |
@@ -42,7 +42,7 @@ Le tableau ci-dessous indique comment sont déterminées les caractéristiques p
 | 7-9             |       11        |           10            |         12          |       13        |
 | 10              |       12        |           11            |         13          |       14        |
 
-**Table des Points de Destin de départ**
+## Points de Destin de départ selon la race
 
 | Résultat du d10 | [[Elfes\|Elfe]] | [[Halflings\|Halfling]] | [[Humains\|Humain]] | [[Nains\|Nain]] |
 | --------------- | :-------------: | :---------------------: | :-----------------: | :-------------: |

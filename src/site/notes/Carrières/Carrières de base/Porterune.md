@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/porterune/","tags":["Carrière","Carrière/Base"],"dg-note-properties":{"tags":["Carrière","Carrière/Base"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/porterune/","tags":["Carrière","Carrière/Base"],"dg-note-properties":{"tags":["Carrière","Carrière/Base"],"Lien":["[[Accueil]]","[[Listes des carrières]]"]}}
 ---
 
 # Porterune

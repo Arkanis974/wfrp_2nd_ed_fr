@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/acrobatie-equestre/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
+{"dg-publish":true,"permalink":"/talents/acrobatie-equestre/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
 ---
 
 # Acrobatie équestre

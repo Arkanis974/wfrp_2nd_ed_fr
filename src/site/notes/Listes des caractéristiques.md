@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/listes-des-caracteristiques/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/listes-des-caracteristiques/","dg-note-properties":{"Lien":["[[Accueil]]","[[Les caractéristiques]]"]}}
 ---
 
 # Liste des caractéristiques

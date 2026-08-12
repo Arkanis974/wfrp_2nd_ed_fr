@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/resistance-aux-maladies/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
+{"dg-publish":true,"permalink":"/talents/resistance-aux-maladies/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
 ---
 
 # Résistance aux maladies

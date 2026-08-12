@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/listes-des-carrieres/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/listes-des-carrieres/","dg-note-properties":{"Lien":["[[Accueil]]"]}}
 ---
 
 # Liste des carrières

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/etiquette/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"aliases":["Étiquette"]}}
+{"dg-publish":true,"permalink":"/talents/etiquette/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"aliases":["Étiquette"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
 ---
 
 # Étiquette

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/combat-de-rue/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
+{"dg-publish":true,"permalink":"/talents/combat-de-rue/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
 ---
 
 # Combat de rue

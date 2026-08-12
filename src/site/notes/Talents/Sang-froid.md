@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/sang-froid/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
+{"dg-publish":true,"permalink":"/talents/sang-froid/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
 ---
 
 # Sang-froid

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences/survie/","tags":["Compétences","Compétences/Base"],"dg-note-properties":{"tags":["Compétences","Compétences/Base"]}}
+{"dg-publish":true,"permalink":"/competences/survie/","tags":["Compétences","Compétences/Base"],"dg-note-properties":{"tags":["Compétences","Compétences/Base"],"Lien":["[[Accueil]]","[[Les compétences]]","[[Listes des compétences]]"]}}
 ---
 
 # Survie

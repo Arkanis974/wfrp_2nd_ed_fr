@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences/lire-ecrire/","tags":["Compétences","Compétences/Avancée"],"dg-note-properties":{"tags":["Compétences","Compétences/Avancée"],"aliases":["Lire/Écrire"]}}
+{"dg-publish":true,"permalink":"/competences/lire-ecrire/","tags":["Compétences","Compétences/Avancée"],"dg-note-properties":{"tags":["Compétences","Compétences/Avancée"],"aliases":["Lire/Écrire"],"Lien":["[[Accueil]]","[[Les compétences]]","[[Listes des compétences]]"]}}
 ---
 
 # Lire/écrire

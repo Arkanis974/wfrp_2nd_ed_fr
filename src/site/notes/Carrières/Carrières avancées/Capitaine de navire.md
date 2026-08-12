@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-avancees/capitaine-de-navire/","tags":["Carrière","Carrière/Avancée"],"dg-note-properties":{"tags":["Carrière","Carrière/Avancée"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-avancees/capitaine-de-navire/","tags":["Carrière","Carrière/Avancée"],"dg-note-properties":{"tags":["Carrière","Carrière/Avancée"],"Lien":["[[Accueil]]","[[Listes des carrières]]"]}}
 ---
 
 # Capitaine de navire

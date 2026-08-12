@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/talents/harmonie-aethyrique/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"]}}
+{"dg-publish":true,"permalink":"/talents/harmonie-aethyrique/","tags":["Talent"],"dg-note-properties":{"tags":["Talent"],"Lien":["[[Accueil]]","[[Les talents]]","[[Listes des talents]]"]}}
 ---
 
 # Harmonie aethyrique

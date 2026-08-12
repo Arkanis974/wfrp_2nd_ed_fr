@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/chirurgien-barbier/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/chirurgien-barbier/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"],"Lien":["[[Accueil]]","[[Listes des carrières]]"]}}
 ---
 
-# Chirurgien barbien
+# Chirurgien barbier
 **Type :** Carrière de base
 **Source :** Livre de base p.37 / Core Rulebook p.32 *Barber-surgeon*
 ## 📜 Description

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/collecteur-de-taxes/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-de-base/collecteur-de-taxes/","tags":["Carrière/Base","Carrière"],"dg-note-properties":{"tags":["Carrière/Base","Carrière"],"Lien":["[[Accueil]]","[[Listes des carrières]]"]}}
 ---
 
 # Collecteur de taxes

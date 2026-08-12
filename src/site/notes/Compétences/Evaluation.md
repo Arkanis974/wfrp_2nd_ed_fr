@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences/evaluation/","tags":["Compétences","Compétences/Base"],"dg-note-properties":{"tags":["Compétences","Compétences/Base"],"aliases":["Évaluation"]}}
+{"dg-publish":true,"permalink":"/competences/evaluation/","tags":["Compétences","Compétences/Base"],"dg-note-properties":{"tags":["Compétences","Compétences/Base"],"aliases":["Évaluation"],"Lien":["[[Accueil]]","[[Les compétences]]","[[Listes des compétences]]"]}}
 ---
 
 # Évaluation

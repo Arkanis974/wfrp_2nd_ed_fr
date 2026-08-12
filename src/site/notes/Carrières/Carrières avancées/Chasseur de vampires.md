@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carrieres/carrieres-avancees/chasseur-de-vampires/","tags":["Carrière","Carrière/Avancée"],"dg-note-properties":{"tags":["Carrière","Carrière/Avancée"]}}
+{"dg-publish":true,"permalink":"/carrieres/carrieres-avancees/chasseur-de-vampires/","tags":["Carrière","Carrière/Avancée"],"dg-note-properties":{"tags":["Carrière","Carrière/Avancée"],"Lien":["[[Accueil]]","[[Listes des carrières]]"]}}
 ---
 
 # Chasseur de vampires

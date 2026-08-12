@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences/orientation/","tags":["Compétences","Compétences/Avancée"],"dg-note-properties":{"tags":["Compétences","Compétences/Avancée"]}}
+{"dg-publish":true,"permalink":"/competences/orientation/","tags":["Compétences","Compétences/Avancée"],"dg-note-properties":{"tags":["Compétences","Compétences/Avancée"],"Lien":["[[Accueil]]","[[Les compétences]]","[[Listes des compétences]]"]}}
 ---
 
 # Orientation
