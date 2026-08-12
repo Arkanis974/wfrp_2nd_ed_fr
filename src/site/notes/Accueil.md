@@ -14,7 +14,7 @@ Ce wiki rassemble les règles de Warhammer Fantasy Roleplay, 2e édition, afin d
 Ici, sont compilées toutes les règles qu'il faut connaitre pour participer à une partie de WJDR.
 
 ### Créer son personnage
-Tout ce dont vous avez besoin de savoir pour [[Créer son personnage\|créer votre personnage]].
+Tout ce dont vous avez besoin de savoir pour [[Creer son personnage\|créer votre personnage]].
 
 
 ## Les recueils
