@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caracteristiques/profil-principal/intelligence/","tags":["Caractéristiques","Profil_principal"],"dg-note-properties":{"tags":["Caractéristiques","Profil_principal"],"Lien":["[[Accueil]]","[[Les caractéristiques\|Les caractéristiques]]"]}}
+{"dg-publish":true,"permalink":"/caracteristiques/profil-principal/intelligence/","tags":["Caractéristiques","Profil_principal"],"dg-note-properties":{"tags":["Caractéristiques","Profil_principal"],"Lien":["[[Accueil]]","[[Les caracteristiques\|Les caracteristiques]]"]}}
 ---
 
 # Intelligence (Int)
@@ -9,4 +9,4 @@
 ## 📜 Description
 Cette caractéristique représente l'intellect de votre personnage, sa perspicacité et sa capacité de raisonnement.
 
-La page "[[Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
+La page "[[Les caracteristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences/charisme/","tags":["Compétences/Base","Compétences"],"dg-note-properties":{"tags":["Compétences/Base","Compétences"],"Lien":["[[Accueil]]","[[Les compétences]]","[[Listes des compétences]]"]}}
+{"dg-publish":true,"permalink":"/competences/charisme/","tags":["Compétences/Base","Compétences"],"dg-note-properties":{"tags":["Compétences/Base","Compétences"],"Lien":["[[Accueil]]","[[Les competences]]","[[Listes des compétences]]"]}}
 ---
 
 # Charisme

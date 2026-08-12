@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caracteristiques/profil-secondaire/bonus-d-endurance/","tags":["Caractéristiques","Profil_secondaire"],"dg-note-properties":{"tags":["Caractéristiques","Profil_secondaire"],"Lien":["[[Accueil]]","[[Les caractéristiques\|Les caractéristiques]]"]}}
+{"dg-publish":true,"permalink":"/caracteristiques/profil-secondaire/bonus-d-endurance/","tags":["Caractéristiques","Profil_secondaire"],"dg-note-properties":{"tags":["Caractéristiques","Profil_secondaire"],"Lien":["[[Accueil]]","[[Les caracteristiques\|Les caracteristiques]]"]}}
 ---
 
 # Bonus d'Endurance (BE)
@@ -9,4 +9,4 @@
 ## 📜 Description
 Cette caractéristique, dérivée de l'[[Caractéristiques/Profil principal/Endurance\|Endurance]], détermine la résistance aux dégats.
 
-La page "[[Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
+La page "[[Les caracteristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/les-races-de-warhammer/","tags":["Caractéristiques","Univers"],"dg-note-properties":{"tags":["Caractéristiques","Univers"],"Lien":["[[Accueil]]","[[Les caractéristiques]]","[[Les compétences\|Les compétences]]","[[Les talents\|Les talents]]"]}}
+{"dg-publish":true,"permalink":"/les-races-de-warhammer/","tags":["Caractéristiques","Univers"],"dg-note-properties":{"tags":["Caractéristiques","Univers"],"Lien":["[[Accueil]]","[[Les caracteristiques]]","[[Les competences\|Les competences]]","[[Les talents\|Les talents]]"]}}
 ---
 
 # Les races de Warhammer
@@ -30,7 +30,7 @@ Un personnage humain reçoit les compétences suivantes :
 - [[Compétences/Connaissances générales\|Connaissances générales]] (*[[Empire\|Empire]]*)
 - [[Compétences/Langue\|Langue]] (*reikspiel*).
 
-Vous pouvez trouver plus d'information sur les compétences à la page [[Les compétences\|Les compétences]].
+Vous pouvez trouver plus d'information sur les compétences à la page [[Les competences\|Les competences]].
 
 ##### Les talents
 Un personnage humain commence la partie avec 2 talents déterminés aléatoirement par 1d100.
@@ -90,7 +90,7 @@ Un personnage nain reçoit les compétences suivantes :
 - [[Compétences/Langue\|Langue]] (*reikspiel*)
 - [[Compétences/Métier\|Métier]] (*forgeron*, *maçon* ou *mineur*).
 
-Vous pouvez trouver plus d'information sur les compétences à la page [[Les compétences\|Les compétences]].
+Vous pouvez trouver plus d'information sur les compétences à la page [[Les competences\|Les competences]].
 
 ##### Les talents
 Un personnage nain commence la partie avec les talents :
@@ -128,7 +128,7 @@ Un personnage elfe reçoit les compétences suivantes :
 - [[Compétences/Langue\|Langue]] (*eltharin*)
 - [[Compétences/Langue\|Langue]] (*reikspiel*).
 
-Vous pouvez trouver plus d'information sur les compétences à la page [[Les compétences\|Les compétences]].
+Vous pouvez trouver plus d'information sur les compétences à la page [[Les competences\|Les competences]].
 
 ##### Les talents
 Un personnage elfe commence la partie avec les talents :
@@ -167,7 +167,7 @@ Un personnage halfling reçoit les compétences suivantes :
 - [[Compétences/Langue\|Langue]] (*reikspiel*)
 - [[Compétences/Métier\|Métier]] (*cuisinier* ou *fermier*).
 
-Vous pouvez trouver plus d'information sur les compétences à la page [[Les compétences]].
+Vous pouvez trouver plus d'information sur les compétences à la page [[Les competences]].
 
 ##### Les talents
 Un personnage halfling commence la partie avec les talents :

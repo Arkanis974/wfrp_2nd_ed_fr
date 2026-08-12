@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caracteristiques/profil-secondaire/points-de-blessures/","tags":["Caractéristiques","Profil_secondaire"],"dg-note-properties":{"tags":["Caractéristiques","Profil_secondaire"],"Lien":["[[Accueil]]","[[Les caractéristiques\|Les caractéristiques]]"]}}
+{"dg-publish":true,"permalink":"/caracteristiques/profil-secondaire/points-de-blessures/","tags":["Caractéristiques","Profil_secondaire"],"dg-note-properties":{"tags":["Caractéristiques","Profil_secondaire"],"Lien":["[[Accueil]]","[[Les caracteristiques\|Les caracteristiques]]"]}}
 ---
 
 # Points de blessures (B)
@@ -9,4 +9,4 @@
 ## 📜 Description
 Cette caractéristique représente la vitalité globale de votre personnage. Elle indique la quantité de dégâts qu'il peut subir avant de se retrouver dans un état critique.
 
-La page "[[Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
+La page "[[Les caracteristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.

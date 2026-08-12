@@ -18,7 +18,7 @@ Tout ce dont vous avez besoin de savoir pour [[Créer son personnage\|créer vot
 
 
 ## Les recueils
-### [[Listes des caractéristiques\|Listes des caractéristiques]]
+### [[Listes des caracteristiques\|Listes des caracteristiques]]
 ### [[Listes des carrières\|Listes des carrières]]
 ### [[Listes des compétences\|Listes des compétences]]
 ### [[Listes des talents\|Listes des talents]]

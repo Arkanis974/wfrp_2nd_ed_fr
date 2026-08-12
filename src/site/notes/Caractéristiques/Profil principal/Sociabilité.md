@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caracteristiques/profil-principal/sociabilite/","tags":["Caractéristiques","Profil_principal"],"dg-note-properties":{"tags":["Caractéristiques","Profil_principal"],"Lien":["[[Accueil]]","[[Les caractéristiques\|Les caractéristiques]]"]}}
+{"dg-publish":true,"permalink":"/caracteristiques/profil-principal/sociabilite/","tags":["Caractéristiques","Profil_principal"],"dg-note-properties":{"tags":["Caractéristiques","Profil_principal"],"Lien":["[[Accueil]]","[[Les caracteristiques\|Les caracteristiques]]"]}}
 ---
 
 # Sociabilité (Soc)
@@ -9,4 +9,4 @@
 ## 📜 Description
 Cette caractéristique représente le charisme de votre personnage et sa capacité à interagir socialement.
 
-La page "[[Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
+La page "[[Les caracteristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.

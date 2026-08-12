@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caracteristiques/profil-principal/capacite-de-tir/","tags":["Caractéristiques","Profil_principal"],"dg-note-properties":{"tags":["Caractéristiques","Profil_principal"],"Lien":["[[Accueil]]","[[Les caractéristiques\|Les caractéristiques]]"]}}
+{"dg-publish":true,"permalink":"/caracteristiques/profil-principal/capacite-de-tir/","tags":["Caractéristiques","Profil_principal"],"dg-note-properties":{"tags":["Caractéristiques","Profil_principal"],"Lien":["[[Accueil]]","[[Les caracteristiques\|Les caracteristiques]]"]}}
 ---
 
 # Capacité de tir (CT)
@@ -9,4 +9,4 @@
 ## 📜 Description
 Cette caractéristique représente l'aptitude de votre personnage à se servir d'armes à projectiles, comme les arcs, les arbalètes et les pistolets.
 
-La page "[[Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
+La page "[[Les caracteristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
