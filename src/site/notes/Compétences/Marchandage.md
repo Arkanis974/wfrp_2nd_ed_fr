@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences/marchandage/","tags":["Compétences","Compétences/Base"],"dg-note-properties":{"tags":["Compétences","Compétences/Base"],"Lien":["[[Accueil]]","[[Les competences]]","[[Listes des compétences]]"]}}
+{"dg-publish":true,"permalink":"/competences/marchandage/","tags":["Compétences","Compétences/Base"],"dg-note-properties":{"tags":["Compétences","Compétences/Base"],"Lien":["[[Accueil]]","[[Les compétences]]","[[Listes des compétences]]"]}}
 ---
 
 # Marchandage

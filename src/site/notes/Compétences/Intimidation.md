@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences/intimidation/","tags":["Compétences","Compétences/Base"],"dg-note-properties":{"tags":["Compétences","Compétences/Base"],"Lien":["[[Accueil]]","[[Les competences]]","[[Listes des compétences]]"]}}
+{"dg-publish":true,"permalink":"/competences/intimidation/","tags":["Compétences","Compétences/Base"],"dg-note-properties":{"tags":["Compétences","Compétences/Base"],"Lien":["[[Accueil]]","[[Les compétences]]","[[Listes des compétences]]"]}}
 ---
 
 # Intimidation

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/listes-des-competences/","dg-note-properties":{"Lien":["[[Accueil]]","[[Les competences]]"]}}
+{"dg-publish":true,"permalink":"/listes-des-competences/","dg-note-properties":{"Lien":["[[Accueil]]","[[Les compétences]]"]}}
 ---
 
 # Liste des compétences

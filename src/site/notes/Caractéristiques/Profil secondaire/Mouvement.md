@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caracteristiques/profil-secondaire/mouvement/","tags":["Caractéristiques","Profil_secondaire","A_MODIFIER"],"dg-note-properties":{"tags":["Caractéristiques","Profil_secondaire","A_MODIFIER"],"Lien":["[[Accueil]]","[[Les caracteristiques\|Les caracteristiques]]"]}}
+{"dg-publish":true,"permalink":"/caracteristiques/profil-secondaire/mouvement/","tags":["Caractéristiques","Profil_secondaire","A_MODIFIER"],"dg-note-properties":{"tags":["Caractéristiques","Profil_secondaire","A_MODIFIER"],"Lien":["[[Accueil]]","[[Les caractéristiques\|Les caractéristiques]]"]}}
 ---
 
 # Mouvement (M)
@@ -9,4 +9,4 @@
 ## 📜 Description
 Cette caractéristique représente la vitesse de déplacement au sol de votre personnage. Pour tout ce qui concerne les vitesses de déplacement en combat et hors combat, veuillez vous reporter au *Chapitre 6 : Combat, dégâts et mouvements*.
 
-La page "[[Les caracteristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
+La page "[[Les caractéristiques]]" indique comment sont déterminées chacune des caractéristiques de votre personnage en fonction de sa race.
