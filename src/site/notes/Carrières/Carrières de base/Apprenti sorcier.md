@@ -57,6 +57,6 @@ Livre imprimé
 [[Carrières/Carrières de base/Sorcier de village\|Sorcier de village]]
 
 ### Débouchés 
-[[Compagnon sorcier\|Compagnon sorcier]]
+[[Carrières/Carrières avancées/Compagnon sorcier\|Compagnon sorcier]]
 [[Erudti\|Érudit]]
 [[Carrières/Carrières de base/Scribe\|Scribe]]

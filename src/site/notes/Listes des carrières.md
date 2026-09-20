@@ -82,6 +82,8 @@
 [[Carrières/Carrières avancées/Chef de bande\|Chef de bande]]
 [[Carrières/Carrières avancées/Chevalier\|Chevalier]]
 [[Carrières/Carrières avancées/Chevalier du cercle intérieur\|Chevalier du cercle intérieur]]
+[[Carrières/Carrières avancées/Compagnon sorcier\|Compagnon sorcier]]
+[[Carrières/Carrières avancées/Courtisan\|Courtisan]]
 [[Carrières/Carrières avancées/Franc-archer\|Franc-archer]]
 [[Carrières/Carrières avancées/Pisteur\|Pisteur]]
 [[Carrières/Carrières avancées/Rôdeur fantôme\|Rôdeur fantôme]]

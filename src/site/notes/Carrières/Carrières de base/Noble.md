@@ -56,7 +56,7 @@ Bijoux d'une valeur de de 6d10 [[Couronnes d'or\|co]]
 [[Intendant\|Intendant]]
 
 ### Débouchés
-[[Courtisan\|Courtisan]]
+[[Carrières/Carrières avancées/Courtisan\|Courtisan]]
 [[Dilettante\|Dilettante]]
 [[Carrières/Carrières de base/Ecuyer\|Écuyer]]
 [[Carrières/Carrières de base/Escroc\|Escroc]]
