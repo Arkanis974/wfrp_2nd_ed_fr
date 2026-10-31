@@ -59,6 +59,6 @@ Navire
 [[Officier en second\|Officier en second]]
 ### Débouchés
 [[Carrières/Carrières avancées/Aristocrate\|Aristocrate]]
-[[Érudit\|Érudit]]
-[[Espion\|Espion]]
+[[Carrières/Carrières avancées/Erudit\|Erudit]]
+[[Carrières/Carrières avancées/Espion\|Espion]]
 [[Explorateur\|Explorateur]]

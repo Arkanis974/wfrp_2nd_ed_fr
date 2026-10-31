@@ -63,4 +63,4 @@ Destrier avec selle et harnais
 [[Carrières/Carrières avancées/Capitaine\|Capitaine]]
 [[Carrières/Carrières avancées/Capitaine de navire\|Capitaine de navire]]
 [[Carrières/Carrières avancées/Chevalier\|Chevalier]]
-[[Erudit\|Érudit]]
+[[Carrières/Carrières avancées/Erudit\|Érudit]]

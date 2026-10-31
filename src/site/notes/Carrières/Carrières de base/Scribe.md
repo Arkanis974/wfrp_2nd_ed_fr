@@ -58,7 +58,7 @@ Accessoires de calligraphie
 [[Carrières/Carrières de base/Apprenti sorcier\|Apprenti sorcier]]
 [[Cartographe\|Cartographe]]
 [[Chasseur cornu\|Chasseur cornu]]
-[[Erudit\|Érudit]]
+[[Carrières/Carrières avancées/Erudit\|Érudit]]
 [[Carrières/Carrières de base/Initié\|Initié]]
 [[Navigateur\|Navigateur]]
 [[Plaideur\|Plaideur]]

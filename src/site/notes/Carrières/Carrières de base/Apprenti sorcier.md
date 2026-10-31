@@ -51,7 +51,7 @@ Livre imprimé
 ## 🚪 Évolution
 ### Accès 
 [[Dilettante\|Dilettante]]
-[[Érudit\|Érudit]]
+[[Carrières/Carrières avancées/Erudit\|Erudit]]
 [[Carrières/Carrières de base/Etudiant\|Étudiant]] 
 [[Carrières/Carrières de base/Scribe\|Scribe]]
 [[Carrières/Carrières de base/Sorcier de village\|Sorcier de village]]

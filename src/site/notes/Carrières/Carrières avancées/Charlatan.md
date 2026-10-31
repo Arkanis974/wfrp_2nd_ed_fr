@@ -74,7 +74,7 @@ Faux documents
 [[Carrières/Carrières de base/Voleur\|Voleur]]
 ### Débouchés
 [[Carrières/Carrières avancées/Démagogue\|Démagogue]]
-[[Espion\|Espion]]
+[[Carrières/Carrières avancées/Espion\|Espion]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Monte-en-l'air\|Monte-en-l'air]]
 [[Politicien\|Politicien]]

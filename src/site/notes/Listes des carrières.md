@@ -86,6 +86,8 @@
 [[Carrières/Carrières avancées/Courtisan\|Courtisan]]
 [[Carrières/Carrières avancées/Démagogue\|Démagogue]]
 [[Carrières/Carrières avancées/Duelliste\|Duelliste]]
+[[Carrières/Carrières avancées/Erudit\|Érudit]]
+[[Carrières/Carrières avancées/Espion\|Espion]]
 [[Carrières/Carrières avancées/Franc-archer\|Franc-archer]]
 [[Carrières/Carrières avancées/Pisteur\|Pisteur]]
 [[Carrières/Carrières avancées/Rôdeur fantôme\|Rôdeur fantôme]]

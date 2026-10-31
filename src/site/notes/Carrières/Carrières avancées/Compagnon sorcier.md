@@ -57,5 +57,5 @@ Accessoires de calligraphie
 [[Carrières/Carrières de base/Apprenti sorcier\|Apprenti sorcier]]
 ### Débouchés
 [[Carrières/Carrières avancées/Charlatan\|Charlatan]]
-[[Érudit\|Érudit]]
+[[Carrières/Carrières avancées/Erudit\|Erudit]]
 [[Maitre sorcier\|Maitre sorcier]]

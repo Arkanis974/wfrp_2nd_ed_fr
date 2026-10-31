@@ -61,7 +61,7 @@ Grappin
 [[Carrières/Carrières avancées/Champion de justice\|Champion de justice]]
 [[Carrières/Carrières avancées/Chef de bande\|Chef de bande]]
 [[Carrières/Carrières avancées/Duelliste\|Duelliste]]
-[[Espion\|Espion]]
+[[Carrières/Carrières avancées/Espion\|Espion]]
 [[Carrières/Carrières avancées/Franc-archer\|Franc-archer]]
 ### Débouchés
 [[Carrières/Carrières avancées/Champion\|Champion]]

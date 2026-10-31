@@ -58,7 +58,7 @@ Huile pour lampe
 [[Carrières/Carrières de base/Agitateur\|Agitateur]]
 [[Carrières/Carrières avancées/Aubergiste\|Aubergiste]]
 [[Carrières/Carrières de base/Bourgeois\|Bourgeois]]
-[[Espion\|Espion]]
+[[Carrières/Carrières avancées/Espion\|Espion]]
 [[Carrières/Carrières de base/Mercanti\|Mercanti]]
 [[Carrières/Carrières de base/Messager\|Messager]]
 [[Carrières/Carrières de base/Valet\|Valet]]

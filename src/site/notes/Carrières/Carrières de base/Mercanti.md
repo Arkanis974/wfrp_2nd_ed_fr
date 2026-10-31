@@ -59,7 +59,7 @@ Tente
 [[Carrières/Carrières de base/Charbonnier\|Charbonnier]]
 [[Carrières/Carrières avancées/Charlatan\|Charlatan]]
 [[Carrières/Carrières de base/Contrebandier\|Contrebandier]]
-[[Espion\|Espion]]
+[[Carrières/Carrières avancées/Espion\|Espion]]
 [[Ramasseur de fumier\|Ramasseur de fumier]]
 [[Carrières/Carrières de base/Serviteur\|Serviteur]]
 [[Carrières/Carrières de base/Vagabond\|Vagabond]]
