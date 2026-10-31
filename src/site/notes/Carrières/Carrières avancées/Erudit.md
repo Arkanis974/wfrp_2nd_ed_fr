@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/carrieres/carrieres-avancees/erudit/","tags":["Carrière","Carrière/Avancée"],"dg-note-properties":{"tags":["Carrière","Carrière/Avancée"],"aliases":["Érudit"]}}
 ---
 
-# Erudit
+# Érudit
 **Type :** Carrière avancée
 **Source :** Livre de base p.71 / Core Rulebook p.82 *Scholar*
 ## 📜 Description
