@@ -53,7 +53,7 @@ Aucun
 
 ### Débouchés
 [[Carrières/Carrières avancées/Bandit de grand chemin\|Bandit de grand chemin]]
-[[Duelliste\|Duelliste]]
+[[Carrières/Carrières avancées/Duelliste\|Duelliste]]
 [[Carrières/Carrières de base/Escroc\|Escroc]]
 [[Carrières/Carrières de base/Garde du corps\|Garde du corps]]
 [[Carrières/Carrières de base/Spadassin\|Spadassin]]

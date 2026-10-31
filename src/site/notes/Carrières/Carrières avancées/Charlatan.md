@@ -73,7 +73,7 @@ Faux documents
 [[Vaurien\|Vaurien]]
 [[Carrières/Carrières de base/Voleur\|Voleur]]
 ### Débouchés
-[[Démagogue\|Démagogue]]
+[[Carrières/Carrières avancées/Démagogue\|Démagogue]]
 [[Espion\|Espion]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Monte-en-l'air\|Monte-en-l'air]]

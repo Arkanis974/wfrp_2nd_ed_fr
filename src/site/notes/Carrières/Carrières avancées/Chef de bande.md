@@ -57,7 +57,7 @@ Groupe de hors-la-loi
 ### Accès
 [[Carrières/Carrières avancées/Bandit de grand chemin\|Bandit de grand chemin]]
 [[Carrières/Carrières avancées/Baron du crime\|Baron du crime]]
-[[Démagogue\|Démagogue]]
+[[Carrières/Carrières avancées/Démagogue\|Démagogue]]
 [[Carrières/Carrières avancées/Pisteur\|Pisteur]]
 [[Prince des voleurs\|Prince des voleurs]]
 [[Racketteur\|Racketteur]]
@@ -67,4 +67,4 @@ Groupe de hors-la-loi
 [[Carrières/Carrières avancées/Assassin\|Assassin]]
 [[Carrières/Carrières avancées/Baron du crime\|Baron du crime]]
 [[Carrières/Carrières avancées/Capitaine\|Capitaine]]
-[[Démagogue\|Démagogue]]
+[[Carrières/Carrières avancées/Démagogue\|Démagogue]]

@@ -62,7 +62,7 @@ Vêtements de bonne qualité
 ### Débouchés
 [[Ancien prisonnier\|Ancien prisonnier]]
 [[Carrières/Carrières avancées/Charlatan\|Charlatan]]
-[[Démagogue\|Démagogue]]
+[[Carrières/Carrières avancées/Démagogue\|Démagogue]]
 [[Carrières/Carrières de base/Escroc\|Escroc]]
 [[Carrières/Carrières de base/Fanatique\|Fanatique]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]

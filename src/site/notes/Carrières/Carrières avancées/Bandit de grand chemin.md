@@ -59,7 +59,7 @@ Cheval de selle avec selle et harnais
 [[Carrières/Carrières de base/Cocher\|Cocher]]
 [[Carrières/Carrières de base/Collecteur de taxes\|Collecteur de taxes]]
 [[Carrières/Carrières de base/Diestro estalien\|Diestro estalien]]
-[[Duelliste\|Duelliste]]
+[[Carrières/Carrières avancées/Duelliste\|Duelliste]]
 [[Carrières/Carrières de base/Eclaireur\|Éclaireur]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Ménestrel\|Ménestrel]]
@@ -69,6 +69,6 @@ Cheval de selle avec selle et harnais
 ### Débouchés
 [[Carrières/Carrières de base/Agitateur\|Agitateur]]
 [[Carrières/Carrières avancées/Chef de bande\|Chef de bande]]
-[[Duelliste\|Duelliste]]
+[[Carrières/Carrières avancées/Duelliste\|Duelliste]]
 [[Prince des voleurs\|Prince des voleurs]]
 [[Carrières/Carrières avancées/Sergent\|Sergent]]

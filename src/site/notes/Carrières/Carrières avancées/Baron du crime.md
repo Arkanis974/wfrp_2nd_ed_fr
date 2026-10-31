@@ -59,7 +59,7 @@ Organisation criminelle
 
 ### Accès
 [[Carrières/Carrières avancées/Chef de bande\|Chef de bande]]
-[[Démagogue\|Démagogue]]
+[[Carrières/Carrières avancées/Démagogue\|Démagogue]]
 [[Intendant\|Intendant]]
 [[Maitre de guilde\|Maitre de guilde]]
 [[Monte-en-l'air\|Monte-en-l'air]]
@@ -68,6 +68,6 @@ Organisation criminelle
 [[Receleur\|Receleur]]
 ### Débouchés
 [[Carrières/Carrières avancées/Chef de bande\|Chef de bande]]
-[[Démagogue\|Démagogue]]
+[[Carrières/Carrières avancées/Démagogue\|Démagogue]]
 [[Politicien\|Politicien]]
 [[Prince des voleurs\|Prince des voleurs]]

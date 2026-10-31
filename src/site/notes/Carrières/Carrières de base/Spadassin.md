@@ -57,7 +57,7 @@ Cheval de selle avec selle et harnais
 ### Débouchés
 [[Ancien prisonnier\|Ancien prisonnier]]
 [[Carrières/Carrières de base/Coupe-jarret\|Coupe-jarret]]
-[[Duelliste\|Duelliste]]
+[[Carrières/Carrières avancées/Duelliste\|Duelliste]]
 [[Carrières/Carrières de base/Gladiateur\|Gladiateur]]
 [[Racketteur\|Racketteur]]
 [[Carrières/Carrières de base/Voleur\|Voleur]]

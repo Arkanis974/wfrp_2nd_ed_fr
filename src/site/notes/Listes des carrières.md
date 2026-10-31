@@ -84,6 +84,8 @@
 [[Carrières/Carrières avancées/Chevalier du cercle intérieur\|Chevalier du cercle intérieur]]
 [[Carrières/Carrières avancées/Compagnon sorcier\|Compagnon sorcier]]
 [[Carrières/Carrières avancées/Courtisan\|Courtisan]]
+[[Carrières/Carrières avancées/Démagogue\|Démagogue]]
+[[Carrières/Carrières avancées/Duelliste\|Duelliste]]
 [[Carrières/Carrières avancées/Franc-archer\|Franc-archer]]
 [[Carrières/Carrières avancées/Pisteur\|Pisteur]]
 [[Carrières/Carrières avancées/Rôdeur fantôme\|Rôdeur fantôme]]

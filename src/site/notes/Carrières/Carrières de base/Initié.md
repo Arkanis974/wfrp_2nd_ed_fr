@@ -62,7 +62,7 @@ Robe
 [[Chasseur cornu\|Chasseur cornu]]
 [[Chevalier du Champ Verdoyant\|Chevalier du Champ Verdoyant]]
 [[Carrières/Carrières de base/Chirurgien barbier\|Chirurgien barbier]]
-[[Démagogue\|Démagogue]]
+[[Carrières/Carrières avancées/Démagogue\|Démagogue]]
 [[Carrières/Carrières de base/Fanatique\|Fanatique]]
 [[Moine\|Moine]]
 [[Prêtre\|Prêtre]]

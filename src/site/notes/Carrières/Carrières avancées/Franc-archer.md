@@ -57,5 +57,5 @@ Armure légère (*[[Veste de cuir\|Veste de cuir]]*)
 ### Débouchés
 [[Carrières/Carrières avancées/Assassin\|Assassin]]
 [[Carrières/Carrières avancées/Champion\|Champion]]
-[[Duelliste\|Duelliste]]
+[[Carrières/Carrières avancées/Duelliste\|Duelliste]]
 [[Carrières/Carrières avancées/Sergent\|Sergent]]

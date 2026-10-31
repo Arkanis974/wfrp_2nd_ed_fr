@@ -54,7 +54,7 @@ Potion de soins
 [[Carrières/Carrières de base/Berserk norse\|Berserk norse]]
 [[Carrières/Carrières de base/Chasseur de primes\|Chasseur de primes]]
 [[Carrières/Carrières de base/Coupe-jarret\|Coupe-jarret]]
-[[Démagogue\|Démagogue]]
+[[Carrières/Carrières avancées/Démagogue\|Démagogue]]
 [[Carrières/Carrières de base/Eclaireur\|Éclaireur]]
 [[Égoutier\|Égoutier]]
 [[Carrières/Carrières de base/Garde\|Garde]]

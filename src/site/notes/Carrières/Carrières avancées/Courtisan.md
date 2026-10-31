@@ -61,7 +61,7 @@ Valet
 ### Débouchés
 [[Carrières/Carrières avancées/Aristocrate\|Aristocrate]]
 [[Carrières/Carrières avancées/Charlatan\|Charlatan]]
-[[Duelliste\|Duelliste]]
+[[Carrières/Carrières avancées/Duelliste\|Duelliste]]
 [[Espion\|Espion]]
 [[Intendant\|Intendant]]
 [[Politicien\|Politicien]]

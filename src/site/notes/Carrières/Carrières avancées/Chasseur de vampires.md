@@ -63,7 +63,7 @@ Eau bénite
 [[Carrières/Carrières de base/Sentinelle halfling\|Sentinelle halfling]]
 ### Débouchés
 [[Carrières/Carrières avancées/Chevalier\|Chevalier]]
-[[Démagogue\|Démagogue]]
+[[Carrières/Carrières avancées/Démagogue\|Démagogue]]
 [[Carrières/Carrières avancées/Franc-archer\|Franc-archer]]
 [[Carrières/Carrières de base/Initié\|Initié]]
 [[Répurgateur\|Répurgateur]]
