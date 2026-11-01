@@ -75,6 +75,6 @@ Cheval de selle avec selle et harnais
 [[Cartographe\|Cartographe]]
 [[Carrières/Carrières avancées/Chasseur de vampires\|Chasseur de vampires]]
 [[Carrières/Carrières avancées/Chef de bande\|Chef de bande]]
-[[Explorateur\|Explorateur]]
+[[Carrières/Carrières avancées/Explorateur\|Explorateur]]
 [[Carrières/Carrières avancées/Rôdeur fantôme\|Rôdeur fantôme]]
 [[Carrières/Carrières avancées/Sergent\|Sergent]]

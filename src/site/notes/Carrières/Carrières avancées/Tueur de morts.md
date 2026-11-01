@@ -64,7 +64,7 @@ Arme en argent
 [[Agent du suaire\|Agent du suaire]]
 [[Carrières/Carrières avancées/Chasseur de vampires\|Chasseur de vampires]]
 [[Chevalier du corbeau\|Chevalier du corbeau]]
-[[Flagellant\|Flagellant]]
+[[Carrières/Carrières avancées/Flagellant\|Flagellant]]
 [[Garde noir\|Garde noir]]
 [[Répurgateur\|Répurgateur]]
 ### Débouchés

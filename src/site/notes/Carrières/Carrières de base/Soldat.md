@@ -51,7 +51,7 @@ Uniforme
 ### Accès
 [[Carrières/Carrières de base/Chasseur\|Chasseur]]
 [[Carrières/Carrières de base/Collecteur de taxes\|Collecteur de taxes]]
-[[Flagellant\|Flagellant]]
+[[Carrières/Carrières avancées/Flagellant\|Flagellant]]
 [[Carrières/Carrières de base/Garde\|Garde]]
 [[Carrières/Carrières de base/Messager\|Messager]]
 ### Débouchés

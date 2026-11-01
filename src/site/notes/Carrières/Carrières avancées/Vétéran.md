@@ -54,7 +54,7 @@ Bouteille d'alcool fort de bonne qualité
 [[Carrières/Carrières de base/Combattant des tunnels\|Combattant des tunnels]]
 [[Carrières/Carrières de base/Ecuyer\|Écuyer]]
 [[Égoutier\|Égoutier]]
-[[Flagellant\|Flagellant]]
+[[Carrières/Carrières avancées/Flagellant\|Flagellant]]
 [[Carrières/Carrières de base/Gardien tribal\|Gardien tribal]]
 [[Carrières/Carrières de base/Gladiateur\|Gladiateur]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]

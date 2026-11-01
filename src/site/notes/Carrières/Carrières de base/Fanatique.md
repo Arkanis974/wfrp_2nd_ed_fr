@@ -54,7 +54,7 @@ Bouteille d'alcool fort de bonne qualité
 
 ### Débouchés
 [[Carrières/Carrières de base/Agitateur\|Agitateur]]
-[[Flagellant\|Flagellant]]
+[[Carrières/Carrières avancées/Flagellant\|Flagellant]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Carrières/Carrières de base/Initié\|Initié]]
 [[Moine\|Moine]]

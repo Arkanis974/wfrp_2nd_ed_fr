@@ -47,7 +47,7 @@ Fléau d'armes
 ### Accès
 [[Carrières/Carrières de base/Chirurgien barbier\|Chirurgien barbier]]
 [[Carrières/Carrières de base/Coupe-jarret\|Coupe-jarret]]
-[[Flagellant\|Flagellant]]
+[[Carrières/Carrières avancées/Flagellant\|Flagellant]]
 [[Carrières/Carrières de base/Garde du corps\|Garde du corps]]
 [[Carrières/Carrières de base/Geôlier\|Geôlier]]
 ### Débouchés

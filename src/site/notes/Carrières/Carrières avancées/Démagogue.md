@@ -58,7 +58,7 @@ Armure légère (*[[Veste de cuir\|Veste de cuir]]* et *[[Calotte de cuir\|Calot
 [[Carrières/Carrières avancées/Chasseur de vampires\|Chasseur de vampires]]
 [[Carrières/Carrières avancées/Chef de bande\|Chef de bande]]
 [[Carrières/Carrières de base/Escroc\|Escroc]]
-[[Flagellant\|Flagellant]]
+[[Carrières/Carrières avancées/Flagellant\|Flagellant]]
 [[Carrières/Carrières de base/Hors-la-loi\|Hors-la-loi]]
 [[Carrières/Carrières de base/Initié\|Initié]]
 [[Maitre artisan\|Maitre artisan]]

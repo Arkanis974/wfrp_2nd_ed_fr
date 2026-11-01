@@ -59,7 +59,7 @@ Accessoires de calligraphie
 [[Carrières/Carrières de base/Scribe\|Scribe]]
 ### Débouchés
 [[Carrières/Carrières de base/Apprenti sorcier\|Apprenti sorcier]]
-[[Explorateur\|Explorateur]]
+[[Carrières/Carrières avancées/Explorateur\|Explorateur]]
 [[Intendant\|Intendant]]
 [[Marchand\|Marchand]]
 [[Médecin\|Médecin]]

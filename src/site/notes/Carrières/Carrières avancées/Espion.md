@@ -56,7 +56,7 @@ Accessoires de déguisement
 [[Carrières/Carrières avancées/Capitaine de navire\|Capitaine de navire]]
 [[Carrières/Carrières avancées/Charlatan\|Charlatan]]
 [[Carrières/Carrières avancées/Courtisan\|Courtisan]]
-[[Explorateur\|Explorateur]]
+[[Carrières/Carrières avancées/Explorateur\|Explorateur]]
 [[Marchand\|Marchand]]
 [[Médecin\|Médecin]]
 [[Ménestrel\|Ménestrel]]
@@ -65,6 +65,6 @@ Accessoires de déguisement
 [[Vaurien\|Vaurien]]
 ### Débouchés
 [[Carrières/Carrières avancées/Assassin\|Assassin]]
-[[Explorateur\|Explorateur]]
+[[Carrières/Carrières avancées/Explorateur\|Explorateur]]
 [[Prince des voleurs\|Prince des voleurs]]
 [[Racketteur\|Racketteur]]

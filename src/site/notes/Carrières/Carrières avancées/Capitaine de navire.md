@@ -54,11 +54,11 @@ Navire
 
 ### Accès
 [[Carrières/Carrières avancées/Aristocrate\|Aristocrate]]
-[[Explorateur\|Explorateur]]
+[[Carrières/Carrières avancées/Explorateur\|Explorateur]]
 [[Navigateur\|Navigateur]]
 [[Officier en second\|Officier en second]]
 ### Débouchés
 [[Carrières/Carrières avancées/Aristocrate\|Aristocrate]]
 [[Carrières/Carrières avancées/Erudit\|Erudit]]
 [[Carrières/Carrières avancées/Espion\|Espion]]
-[[Explorateur\|Explorateur]]
+[[Carrières/Carrières avancées/Explorateur\|Explorateur]]
