@@ -53,7 +53,7 @@ Vêtements de bonne qualité
 [[Carrières/Carrières avancées/Capitaine\|Capitaine]]
 [[Carrières/Carrières de base/Etudiant\|Étudiant]]
 [[Carrières/Carrières de base/Fanatique\|Fanatique]]
-[[Héraut\|Héraut]]
+[[Carrières/Carrières avancées/Héraut\|Héraut]]
 [[Plaideur\|Plaideur]]
 [[Percepteur\|Percepteur]]
 [[Carrières/Carrières de base/Scribe\|Scribe]]

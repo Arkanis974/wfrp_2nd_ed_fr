@@ -48,7 +48,7 @@ Accessoires de calligraphie
 [[Cartographe\|Cartographe]]
 [[Carrières/Carrières avancées/Compagnon sorcier\|Compagnon sorcier]]
 [[Carrières/Carrières de base/Etudiant\|Étudiant]]
-[[Grand prêtre\|Grand prêtre]]
+[[Carrières/Carrières avancées/Grand prêtre\|Grand prêtre]]
 [[Maitre sorcier\|Maitre sorcier]]
 [[Médecin\|Médecin]]
 [[Moine\|Moine]]

@@ -54,7 +54,7 @@ Valet
 
 ### Accès
 [[Dilettante\|Dilettante]]
-[[Héraut\|Héraut]]
+[[Carrières/Carrières avancées/Héraut\|Héraut]]
 [[Carrières/Carrières de base/Noble\|Noble]]
 [[Pistolier\|Pistolier]]
 [[Politicien\|Politicien]]

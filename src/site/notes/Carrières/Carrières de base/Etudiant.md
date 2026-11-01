@@ -61,7 +61,7 @@ Accessoires de calligraphie
 [[Carrières/Carrières de base/Chirurgien barbier\|Chirurgien barbier]]
 [[Carrières/Carrières de base/Emissaire elfe\|Emissaire elfe]]
 [[Carrières/Carrières avancées/Erudit\|Érudit]]
-[[Ingénieur\|Ingénieur]]
+[[Carrières/Carrières avancées/Ingénieur\|Ingénieur]]
 [[Carrières/Carrières de base/Initié\|Initié]]
 [[Médecin\|Médecin]]
 [[Plaideur\|Plaideur]]

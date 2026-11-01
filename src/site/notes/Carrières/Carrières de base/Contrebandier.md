@@ -54,7 +54,7 @@ Mule et cariole ou bateau à rames
 [[Carrières/Carrières de base/Cocher\|Cocher]]
 [[Carrières/Carrières de base/Combattant des tunnels\|Combattant des tunnels]]
 [[Égoutier\|Égoutier]]
-[[Ingénieur\|Ingénieur]]
+[[Carrières/Carrières avancées/Ingénieur\|Ingénieur]]
 [[Carrières/Carrières de base/Marin\|Marin]]
 [[Carrières/Carrières de base/Matelot\|Matelot]]
 [[Carrières/Carrières de base/Mercanti\|Mercanti]]

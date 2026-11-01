@@ -76,7 +76,7 @@ Une au choix :
 ### Accès
 [[Dresseur d'animaux\|Dresseur d'animaux]]
 [[Carrières/Carrières de base/Escroc\|Escroc]]
-[[Héraut\|Héraut]]
+[[Carrières/Carrières avancées/Héraut\|Héraut]]
 [[Carrières/Carrières de base/Vagabond\|Vagabond]]
 [[Carrières/Carrières de base/Voleur\|Voleur]]
 

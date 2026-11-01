@@ -58,7 +58,7 @@ Bouclier
 [[Carrières/Carrières de base/Cocher\|Cocher]]
 [[Carrières/Carrières de base/Eclaireur\|Éclaireur]]
 [[Carrières/Carrières de base/Gardien tribal\|Gardien tribal]]
-[[Héraut\|Héraut]]
+[[Carrières/Carrières avancées/Héraut\|Héraut]]
 [[Carrières/Carrières de base/Patrouilleur\|Patrouilleur]]
 [[Percepteur\|Percepteur]]
 [[Carrières/Carrières avancées/Pisteur\|Pisteur]]

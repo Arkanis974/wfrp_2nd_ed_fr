@@ -50,7 +50,7 @@ Cheval de selle avec selle et harnais
 ## 🚪 Évolution
 
 ### Accès
-[[Héraut\|Héraut]]
+[[Carrières/Carrières avancées/Héraut\|Héraut]]
 [[Carrières/Carrières de base/Noble\|Noble]]
 [[Carrières/Carrières de base/Valet\|Valet]]
 

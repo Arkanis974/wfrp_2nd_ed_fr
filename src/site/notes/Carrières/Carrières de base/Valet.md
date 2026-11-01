@@ -54,5 +54,5 @@ Uniforme
 [[Carrières/Carrières de base/Ecuyer\|Écuyer]]
 [[Carrières/Carrières de base/Escroc\|Escroc]]
 [[Carrières/Carrières de base/Etudiant\|Étudiant]]
-[[Héraut\|Héraut]]
+[[Carrières/Carrières avancées/Héraut\|Héraut]]
 [[Intendant\|Intendant]]

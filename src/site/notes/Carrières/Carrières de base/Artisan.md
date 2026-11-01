@@ -57,7 +57,7 @@ Armure légère (*[[Gilet de cuir\|gilet de cuir]]*)
 [[Carrières/Carrières de base/Emissaire elfe\|Émissaire elfe]]
 [[Carrières/Carrières de base/Fanatique\|Fanatique]]
 [[Fermier\|Fermier]]
-[[Ingénieur\|Ingénieur]]
+[[Carrières/Carrières avancées/Ingénieur\|Ingénieur]]
 [[Maitre artisan\|Maitre artisan]]
 [[Marchand\|Marchand]]
 [[Carrières/Carrières de base/Milicien\|Milicien]]
